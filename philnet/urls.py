@@ -18,5 +18,6 @@ from django.contrib import admin
 
 urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
-    url(r'^$', include('influencenet.urls'))
+    url(r'^$', include('influencenet.urls')),
+    url(r'^philosophers/edges/$', 'influencenet.views.philosopher_edges'),
 ]

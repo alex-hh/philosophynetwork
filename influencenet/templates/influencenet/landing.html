@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>D3 Page Template</title>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-beta1/jquery.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.16/d3.min.js"></script>
+    </head>
+    <body>
+        <script type="text/javascript">
+            $.getJSON("/philosophers/edges/", function(data){
+                console.log(data.slice(0, 50))
+                // d3.json(data.slice(0, 50), function(json) {
+                // console.log(json);  //Log output to console
+            });
+        });
+            // Your beautiful D3 code will go here
+        </script>
+    </body>
+</html>
