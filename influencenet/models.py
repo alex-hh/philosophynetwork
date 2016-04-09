@@ -19,4 +19,3 @@ class InfluenceNode(models.Model):
 class InfluenceEdge(models.Model):
     influencer=models.ForeignKey(InfluenceNode, related_name='influencer')
     follower=models.ForeignKey(InfluenceNode, related_name='follower')
-
