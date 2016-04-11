@@ -37,7 +37,7 @@
             var color = d3.scale.category20();
 
             dataset = [ {'influencer_name': 'Aristotle', 'follower_name': 'Heidegger'}, {'influencer_name': 'Plato', 'follower_name': 'Aristotle'} ];
-            $.getJSON("/philosophers/get_edges/?pid=026lj&pid=039n1", function(data){
+            $.getJSON("/philosophers/get_edges/?pid=026lj", function(data){
                 var nodes = data.nodes;
                 var links = data.edges;
 
@@ -87,7 +87,14 @@
                 // .append("p")
                 // .text(function(d){return d.influencer_name + " -> " + d.follower_name});
             // https://www.dashingd3js.com/d3-examples/1-d3-and-javascript-working-with-json
+            // to calculate degrees:
+            node_elements_list = svg.selectAll("g.node")[0]
+            for (e in node_elements_list){
+                console.log(node_elements_list[e].__data__.weight)
+            }
             });
+        // removing nodes from a force layout: http://bl.ocks.org/mbostock/1095795
+
             // try setting x attributes for nodes based on dob.
             // http://bl.ocks.org/sathomas/11550728
             // The `links` array contains objects with a `source` and a `target`
@@ -97,6 +104,8 @@
             // http://bl.ocks.org/mbostock/950642
             // http://bl.ocks.org/mbostock/4062045
             // Your beautiful D3 code will go here
+            
+            
         </script>
     </body>
 </html>
