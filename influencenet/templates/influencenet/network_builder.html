@@ -37,7 +37,7 @@
             var color = d3.scale.category20();
 
             dataset = [ {'influencer_name': 'Aristotle', 'follower_name': 'Heidegger'}, {'influencer_name': 'Plato', 'follower_name': 'Aristotle'} ];
-            $.getJSON("/philosophers/get_edges/?pid=026lj", function(data){
+            $.getJSON("/philosophers/get_edges/?pid=026lj&pid=039n1", function(data){
                 var nodes = data.nodes;
                 var links = data.edges;
 
