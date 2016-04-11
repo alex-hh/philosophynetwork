@@ -24,11 +24,11 @@
         </style>
 
         <script type="text/javascript">
-            var width = 640, height = 480;
+            var width = 760, height = 640;
 
             var force = d3.layout.force()
-                        .charge(-120)
-                        .linkDistance(30)
+                        .charge(-1000)
+                        .linkDistance(50)
                         .size([width, height]);
 
             var svg = d3.select("body").append("svg")
@@ -37,23 +37,9 @@
             var color = d3.scale.category20();
 
             dataset = [ {'influencer_name': 'Aristotle', 'follower_name': 'Heidegger'}, {'influencer_name': 'Plato', 'follower_name': 'Aristotle'} ];
-            $.getJSON("/philosophers/edges/", function(data){
-                dataset = data.slice(0,500);
-                var nodes = [];
-                for (i=0;i<dataset.length;i++){
-                    if (nodes.map(function(e){return e.name}).indexOf(dataset[i].influencer_name) == -1 ){
-                        nodes.push({'name': dataset[i].influencer_name})
-                    }
-                    if (nodes.map(function(e) {return e.name}).indexOf(dataset[i].follower_name) == -1){
-                        nodes.push({'name': dataset[i].follower_name})
-                    }
-                }
-                var links = [];
-                for (i=0;i<dataset.length;i++){
-                    var source = nodes.map(function(e) { return e.name; }).indexOf(dataset[i].influencer_name);
-                    var target = nodes.map(function(e) { return e.name;}).indexOf(dataset[i].follower_name);
-                    links.push({'source': source, 'target': target})
-                }
+            $.getJSON("/philosophers/get_edges/?pid=026lj", function(data){
+                var nodes = data.nodes;
+                var links = data.edges;
 
                 force
                   .nodes(nodes)
@@ -86,7 +72,6 @@
                     .text(function(d) { l = d.name.split(" ")
                                         return l[l.length-1] });
 
-                console.log(node)
 
                 force.on("tick", function() {
     link.attr("x1", function(d) { return d.source.x; })

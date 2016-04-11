@@ -15,9 +15,11 @@ Including another URLconf
 """
 from django.conf.urls import include, url
 from django.contrib import admin
+from influencenet import views
 
 urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
     url(r'^$', include('influencenet.urls')),
     url(r'^philosophers/edges/$', 'influencenet.views.philosopher_edges'),
+    url(r'^philosophers/get_edges/$', 'influencenet.views.d3_from_list'),
 ]
