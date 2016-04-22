@@ -1,12 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <title>D3 Page Template</title>
-        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-beta1/jquery.min.js"></script>
-        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.16/d3.min.js"></script>
-    </head>
-    <body>
+{% extends 'base.html' %}
+
+{% block body_block %}
+    <div class="container">
+        <div class="row">
+            <div class="options">
+            <input id="phil" type="text"></input>
+            </div>
+        </div>
+        <div class="row">
+            <div id="d3cont">
+            </div>
+        </div>
+    </div>
+
         <style>
         /*.node {
           stroke: #fff;
@@ -22,7 +28,6 @@
           font: 10px sans-serif;
         }
         </style>
-
         <script type="text/javascript">
             var width = 760, height = 640;
 
@@ -31,7 +36,7 @@
                         .linkDistance(50)
                         .size([width, height]);
 
-            var svg = d3.select("body").append("svg")
+            var svg = d3.select("#d3cont").append("svg")
                         .attr("width", width)
                         .attr("height", height);
             var color = d3.scale.category20();
@@ -87,6 +92,9 @@
                 // .append("p")
                 // .text(function(d){return d.influencer_name + " -> " + d.follower_name});
             // https://www.dashingd3js.com/d3-examples/1-d3-and-javascript-working-with-json
+            // http://bl.ocks.org/mbostock/3750558
+            // http://www.coppelia.io/2014/07/an-a-to-z-of-extra-features-for-the-d3-force-layout/
+            // http://stackoverflow.com/questions/17960016/d3-js-how-can-i-fix-only-the-x-coordinate-for-all-nodes
             // to calculate degrees:
             node_elements_list = svg.selectAll("g.node")[0]
             for (e in node_elements_list){
@@ -107,5 +115,4 @@
             
             
         </script>
-    </body>
-</html>
+{% endblock %}

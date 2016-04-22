@@ -1,8 +1,9 @@
 from django.shortcuts import render
 from django.http import JsonResponse
-from .models import InfluenceEdge
-
-from django.views.generic import TemplateView
+from influencenet.models import InfluenceEdge, InfluenceNode
+from influencenet.serializers import InfluenceNodeSerializer
+from rest_framework.generics import ListAPIView
+from django.views.generic import TemplateView, ListView
 
 from django.db.models import Q
 # Create your views here.
@@ -27,6 +28,13 @@ class LandingView(TemplateView):
 
 class BuildNetworkView(TemplateView):
     template_name = 'influencenet/network_builder.html'
+
+# http://www.django-rest-framework.org/api-guide/generic-views/#examples
+# request.data can handle incoming json requests, but it can also handle other formats. Similarly we're returning response objects with data, but allowing REST framework to render the response into the correct content type for us.
+# get request to /philosophers/list/ with ?format=json returns a json list of philosophers.
+class PhilosopherList(ListAPIView):
+    queryset = InfluenceNode.objects.filter(is_philosopher=True)
+    serializer_class = InfluenceNodeSerializer
 
 
 def d3_from_list(request):
