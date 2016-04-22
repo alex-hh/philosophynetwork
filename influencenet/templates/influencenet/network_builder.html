@@ -1,14 +1,19 @@
 {% extends 'base.html' %}
 
 {% block body_block %}
-    <div class="container">
-        <div class="row">
-            <div class="options">
-            <input id="phil" type="text"></input>
+    <div class="container" style="padding-top: 60px;">
+        <div class="row" style="background-color: #e3e3e3;">
+            <div id="d3cont" class="col-md-8" style="background: white;">
             </div>
-        </div>
-        <div class="row">
-            <div id="d3cont">
+            <div class="col-md-4 options" style="padding-top: 20px;">
+            <div class="row">
+                <div class="col-md-8">
+                    <input id="phil" type="text"></input>
+                </div>
+                <div class="col-md-4">
+                    <button id="add_phil">Add</button>
+                </div>
+            </div>
             </div>
         </div>
     </div>
@@ -29,7 +34,16 @@
         }
         </style>
         <script type="text/javascript">
-            var width = 760, height = 640;
+            $.get("/philosophers/list/", function(data){
+                var phils = data.map(function(obj){
+                    return obj.name;
+                })
+                $("#phil").autocomplete({
+                source: phils
+            });
+            });
+            
+            var width = $("#d3cont").width(), height = 540;
 
             var force = d3.layout.force()
                         .charge(-1000)
