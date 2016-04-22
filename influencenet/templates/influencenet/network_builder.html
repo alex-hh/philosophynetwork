@@ -97,8 +97,35 @@
             //     var links = data.edges;
             addNode = function (id) {
                 nodes.push({"name": "Test test", "id": 3});
-                update();
+                start();
             }
+            removeNode = function (id) {
+                var i = 0;
+                var n = findNode(id);
+                 while (i < links.length) {
+                    if ((links[i]['source'] === n)||(links[i]['target'] == n)) links.splice(i,1);
+                    else i++;
+                }
+                var index = findNodeIndex(id);
+                if(index !== undefined) {
+                    nodes.splice(index, 1);
+                    start();
+                }
+            }
+
+            findNode = function(id){
+                for (var i=0; i < nodes.length; i++) {
+                    if (nodes[i].id === id)
+                return nodes[i]
+                };
+            }
+
+            findNodeIndex = function (id) {
+                for (var i=0; i < nodes.length; i++) {
+                    if (nodes[i].id === id)
+                return i
+                };
+             }
 
                 force
                   .nodes(nodes)
