@@ -58,7 +58,8 @@
             var force = d3.layout.force()
                         .charge(-1000)
                         .linkDistance(50)
-                        .size([width, height]);
+                        .size([width, height])
+                        .on("tick", tick);
 
             var svg = d3.select("#d3cont").append("svg")
                         .attr("width", width)
@@ -102,43 +103,80 @@
                 force
                   .nodes(nodes)
                   .links(links)
-                  .start();
 
-                var link = svg.selectAll(".link")
-                   .data(links)
-                   .enter().append("line")
+                var node = svg.selectAll(".node"),
+                    link = svg.selectAll(".link");
+
+                start()
+
+                function start() {
+                    link = link.data(links)
+                   link.enter().append("line")
                    .attr("class", "link")
                    .style("stroke-width", function(d) { return Math.sqrt(d.value); });
 
-                // create an svg 'g' block for each node to contain circle + text
-                var node = svg.selectAll(".node")
-                            .data(nodes)
-                            .enter().append("g")
+                   link.exit().remove()
+
+                   node = node.data(nodes)
+                            
+                   node.enter().append("g")
                             .attr("class", "node")
-                            .call(drag).on('dblclick', releasenode);
+                            .call(drag).on('dblclick', releasenode)
+                            .append("circle")
+                            .attr("class", "node")
+                            .attr("r", 5)
+                            .style("fill", function(d) { return color(d.group); })
 
-                // color node based on node 'group' - atm this is undefined
-                node.append("circle")
-                  .attr("class", "node")
-                  .attr("r", 5)
-                  .style("fill", function(d) { return color(d.group); })
-                  .call(force.drag);
+                    node.append("text")
+                            .attr("dx", 12)
+                            .attr("dy", ".35em")
+                            .text(function(d) { l = d.name.split(" ")
+                                        return l[l.length - 1] })
 
-                node.append("text")
-                    .attr("dx", 12)
-                    .attr("dy", ".35em")
-                    .text(function(d) { l = d.name.split(" ")
-                                        return l[l.length-1] });
+                    node.exit().remove();
+  //                   .attr("dx", 12)
+  //                   .attr("dy", ".35em")
+  //                   .text(function(d) { l = d.name.split(" ")
+  //                                       return l[l.length-1] });
+
+                    force.start()
+                }
+
+  //               var link = svg.selectAll(".link")
+  //                  .data(links)
+  //                  .enter().append("line")
+  //                  .attr("class", "link")
+  //                  .style("stroke-width", function(d) { return Math.sqrt(d.value); });
+
+  //               // create an svg 'g' block for each node to contain circle + text
+  //               var node = svg.selectAll(".node")
+  //                           .data(nodes)
+  //                           .enter().append("g")
+  //                           .attr("class", "node")
+  //                           .call(drag).on('dblclick', releasenode);
+
+  //               // color node based on node 'group' - atm this is undefined
+  //               node.append("circle")
+  //                 .attr("class", "node")
+  //                 .attr("r", 5)
+  //                 .style("fill", function(d) { return color(d.group); })
+  //                 .call(force.drag);
+
+  //               node.append("text")
+  //                   .attr("dx", 12)
+  //                   .attr("dy", ".35em")
+  //                   .text(function(d) { l = d.name.split(" ")
+  //                                       return l[l.length-1] });
 
 
-                force.on("tick", function() {
-    link.attr("x1", function(d) { return d.source.x; })
-        .attr("y1", function(d) { return d.source.y; })
-        .attr("x2", function(d) { return d.target.x; })
-        .attr("y2", function(d) { return d.target.y; });
+  //               force.on("tick", function() {
+  //   link.attr("x1", function(d) { return d.source.x; })
+  //       .attr("y1", function(d) { return d.source.y; })
+  //       .attr("x2", function(d) { return d.target.x; })
+  //       .attr("y2", function(d) { return d.target.y; });
 
-    node.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
-  });
+  //   node.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+  // });
                 // d3.select("body").selectAll("p")
                 // .data(dataset)
                 // .enter()
@@ -149,10 +187,19 @@
             // http://www.coppelia.io/2014/07/an-a-to-z-of-extra-features-for-the-d3-force-layout/
             // http://stackoverflow.com/questions/17960016/d3-js-how-can-i-fix-only-the-x-coordinate-for-all-nodes
             // to calculate degrees:
+            function tick() {
+
+  link.attr("x1", function(d) { return d.source.x; })
+      .attr("y1", function(d) { return d.source.y; })
+      .attr("x2", function(d) { return d.target.x; })
+      .attr("y2", function(d) { return d.target.y; });
+
+      node.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+}
             update = function () {
 
             var link = svg.selectAll(".link")
-                .data(links, function(d) { return d.source.id + "-" + d.target.id; });
+                .data(links);
 
             link.enter().insert("line")
                 .attr("class", "link");
