@@ -6,13 +6,17 @@
             <div id="d3cont" class="col-md-8" style="background: white;">
             </div>
             <div class="col-md-4 options" style="padding-top: 20px;">
-            <div class="row">
+            <div class="row" style="height: 400px;">
                 <div class="col-md-8">
                     <input id="phil" type="text"></input>
                 </div>
                 <div class="col-md-4">
                     <button id="add_phil">Add</button>
                 </div>
+            </div>
+            <div class="row">
+                <label for="min_degree">Minimum degree</label>
+                <input id="min_degree" type="range" name="degree" min="0" max="10">
             </div>
             </div>
         </div>
@@ -59,12 +63,41 @@
             var svg = d3.select("#d3cont").append("svg")
                         .attr("width", width)
                         .attr("height", height);
+            
+            var drag = force.drag()
+                .on("dragstart", dragstart);
+            
+            function dragstart(d) {
+                 d3.select(this).classed("fixed", d.fixed = true);
+            }
+
+
+            function releasenode(d) {
+                d.fixed = false; // of course set the node to fixed so the force doesn't include the node in its auto positioning stuff
+                //force.resume();
+            }
+
             var color = d3.scale.category20();
 
             dataset = [ {'influencer_name': 'Aristotle', 'follower_name': 'Heidegger'}, {'influencer_name': 'Plato', 'follower_name': 'Aristotle'} ];
-            $.getJSON("/philosophers/get_edges/?pid=026lj", function(data){
-                var nodes = data.nodes;
-                var links = data.edges;
+
+            var nodes = []
+            var edges = []
+
+            $.ajax({
+                url: "/philosophers/get_edges/?pid=026lj",
+                success: function(data){ 
+                nodes = data.nodes;
+                links = data.edges;},
+                async: false
+                })
+            // $.getJSON("/philosophers/get_edges/?pid=026lj", function(data){
+            //     var nodes = data.nodes;
+            //     var links = data.edges;
+            addNode = function (id) {
+                nodes.push({"name": "Test test", "id": 3});
+                update();
+            }
 
                 force
                   .nodes(nodes)
@@ -82,7 +115,7 @@
                             .data(nodes)
                             .enter().append("g")
                             .attr("class", "node")
-                            .call(force.drag);
+                            .call(drag).on('dblclick', releasenode);
 
                 // color node based on node 'group' - atm this is undefined
                 node.append("circle")
@@ -116,11 +149,56 @@
             // http://www.coppelia.io/2014/07/an-a-to-z-of-extra-features-for-the-d3-force-layout/
             // http://stackoverflow.com/questions/17960016/d3-js-how-can-i-fix-only-the-x-coordinate-for-all-nodes
             // to calculate degrees:
+            update = function () {
+
+            var link = svg.selectAll(".link")
+                .data(links, function(d) { return d.source.id + "-" + d.target.id; });
+
+            link.enter().insert("line")
+                .attr("class", "link");
+
+            link.exit().remove();
+
+            var node = svg.selectAll(".node")
+                            .data(nodes)
+
+            var nodeEnter = node
+                            .enter().append("g")
+                            .attr("class", "node")
+                            .call(drag).on('dblclick', releasenode);
+
+                // color node based on node 'group' - atm this is undefined
+                nodeEnter.append("circle")
+                  .attr("class", "node")
+                  .attr("r", 5)
+                  .style("fill", function(d) { return color(d.group); })
+                  .call(force.drag);
+
+                nodeEnter.append("text")
+                    .attr("dx", 12)
+                    .attr("dy", ".35em")
+                    .text(function(d) { l = d.name.split(" ")
+                                        return l[l.length-1] });
+
+
+            node.exit().remove();
+
+            force.on("tick", function() {
+            link.attr("x1", function(d) { return d.source.x; })
+                .attr("y1", function(d) { return d.source.y; })
+                .attr("x2", function(d) { return d.target.x; })
+                .attr("y2", function(d) { return d.target.y; });
+            });
+            
+            node.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+
+        // Restart the force layout.
+        force.start();
+    }
             node_elements_list = svg.selectAll("g.node")[0]
             for (e in node_elements_list){
                 console.log(node_elements_list[e].__data__.weight)
             }
-            });
         // removing nodes from a force layout: http://bl.ocks.org/mbostock/1095795
 
             // try setting x attributes for nodes based on dob.
