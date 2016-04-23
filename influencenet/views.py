@@ -37,6 +37,31 @@ class PhilosopherList(ListAPIView):
     serializer_class = InfluenceNodeSerializer
 
 
+class InfluencesList(ListAPIView):
+    queryset = InfluenceNode.objects.filter(is_philosopher=True)
+    serializer_class = InfluenceNodeSerializer
+
+    def get_queryset(self):
+        queryset = super(InfluencesList, self).get_queryset()
+        if 'pid' in self.request.query_params:
+            fb_id = "/m/" + self.request.query_params['pid']
+            print fb_id
+            queryset = queryset.filter(outgoing_edge__follower__freebase_id=fb_id)
+        return queryset
+
+
+class FollowerList(ListAPIView):
+    queryset = InfluenceNode.objects.filter(is_philosopher=True)
+    serializer_class = InfluenceNodeSerializer
+
+    def get_queryset(self):
+        queryset = super(FollowerList, self).get_queryset()
+        if 'pid' in self.request.query_params:
+            fb_id = "/m/" + self.request.query_params['pid']
+            queryset = queryset.filter(incoming_edge__influencer__freebase_id=fb_id)
+        return queryset
+
+
 def d3_from_list(request):
     selected_nodes = ['/m/' + idstr for idstr in request.GET.getlist('pid')]
     edges = list(InfluenceEdge.objects.filter(Q(influencer__freebase_id__in=selected_nodes) |
