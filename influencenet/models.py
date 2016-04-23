@@ -16,9 +16,12 @@ class InfluenceNode(models.Model):
     is_philosopher = models.BooleanField(default=False)
     is_writer = models.BooleanField(default=False)
 
+    def __str__(self):
+        return self.name.split(" ")[-1]
+
 class InfluenceEdge(models.Model):
-    influencer = models.ForeignKey(InfluenceNode, related_name='influencer')
-    follower = models.ForeignKey(InfluenceNode, related_name='follower')
+    influencer = models.ForeignKey(InfluenceNode, related_name='outgoing_edge')
+    follower = models.ForeignKey(InfluenceNode, related_name='incoming_edge')
 
     def __str__(self):
         return self.influencer.name.split(" ")[-1] + " -> " + self.follower.name.split(" ")[-1]
