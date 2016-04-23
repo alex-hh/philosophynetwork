@@ -36,6 +36,8 @@ class PhilosopherList(ListAPIView):
     queryset = InfluenceNode.objects.filter(is_philosopher=True)
     serializer_class = InfluenceNodeSerializer
 
+# these three lists could really be combined into one philosopher list endpoint with optional
+# &followed= / &influenced= query params.
 
 class InfluencesList(ListAPIView):
     queryset = InfluenceNode.objects.filter(is_philosopher=True)

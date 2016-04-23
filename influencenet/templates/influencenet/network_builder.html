@@ -92,9 +92,17 @@
                 links = data.edges;},
                 async: false
                 })
-            nodes = [{'name': 'Aristotle', 'id': 'b56', 'dob': -384}, {'name': 'Heidegger', 'id': 'b67', 'dob': 1889},
-                     {'name': 'Plato', 'id': 'b64', 'dob': -428}]
-            links = [{'source': 0, 'target': 1}, {'source': 2, 'target': 0}]
+            nodes = [{'name': 'Aristotle', 'id': '/m/0gz_', 'dob': -384}, {'name': 'Heidegger', 'id': "/m/099bk", 'dob': 1889},
+                     {'name': 'Plato', 'id': 'b64', 'dob': -428}, {'name': 'Baruch Spinoza', 'id': "/m/015n8", 'dob': 1632},
+                     {'name': 'Friedrich Nietzsche', 'id': "/m/02wh0", 'dob': 1844},
+                     {'name': 'Georg Wilhelm Friedrich Hegel', 'id': "/m/039n1", 'dob': 1770}]
+
+            // use dobs to calculate x coordinates spread over range determined by range in data.
+
+            links = [{'source': 0, 'target': 1}, {'source': 2, 'target': 0}, {'source': 0, 'target': 3}, {'source': 2, 'target': 3},
+                     {'source': 3, 'target': 4}, {'source': 3, 'target': 5}, {'source': 5, 'target': 4},
+                     {'source': 5, 'target': 1}, {'source': 4, 'target': 1}, {'source': 2, 'target': 4},
+                     {'source': 0, 'target': 5}, {'source': 2, 'target': 5}]
             // http://stackoverflow.com/questions/9539294/adding-new-nodes-to-force-directed-layout
             addNode = function (id) {
                 nodes.push({"name": "Test test", "id": 3});
