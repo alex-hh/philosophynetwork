@@ -75,7 +75,6 @@ def d3_from_list(request):
              for node, fbid in ((edge[0], edge[1]),(edge[2], edge[3]))}
     nodes = [{'name': name, 'id': fbid} for name, fbid in nodes]
     node_lookup = list(map(lambda x: x['id'], nodes))
-    print(node_lookup)
     edges = [{'source': node_lookup.index(edge[1]), 'target': node_lookup.index(edge[3])}
              for edge in edges]
     payload = {'nodes': nodes, 'edges': edges}

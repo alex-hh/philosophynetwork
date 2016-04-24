@@ -132,6 +132,10 @@
             // http://stackoverflow.com/questions/9539294/adding-new-nodes-to-force-directed-layout
             var hiddenNodes = []
             var hiddenLinks = []
+            // I could store allNodes and allLinks as strings perhaps.
+            // http://stackoverflow.com/questions/18383854/stringify-javascript-object
+            // http://stackoverflow.com/questions/20249215/how-to-display-and-hide-links-and-nodes-when-clicking-on-a-node-in-d3-javascript
+            // or I could just set the visibility of the links and nodes rather than removing them completely...
             var allNodes = nodes.slice(0)
             var allLinks = links.slice(0)
             getLinks = function(obj){
