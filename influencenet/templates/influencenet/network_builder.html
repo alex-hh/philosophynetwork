@@ -130,21 +130,51 @@
                      {'source': 5, 'target': 1}, {'source': 4, 'target': 1}, {'source': 2, 'target': 4},
                      {'source': 0, 'target': 5}, {'source': 2, 'target': 5}]
             // http://stackoverflow.com/questions/9539294/adding-new-nodes-to-force-directed-layout
-            
+            var hiddenNodes = []
+            var hiddenLinks = []
+            var allNodes = nodes.slice(0)
+            var allLinks = links.slice(0)
             getLinks = function(obj){
                 var linkList = []
                 for (i in allLinks){
                   var edge = allLinks[i]
                   if (edge.source.id == obj.id) {
-                    newEdge = {'target': nodes.map(function(obj){return obj.id}).indexOf(edge.target.id), 'source': nodes.length -1};
-                    linkList.push(newEdge);
+                    var target = nodes.map(function(obj){return obj.id}).indexOf(edge.target.id);
+                    if (target > -1){
+                      var newEdge = {'target': target, 'source': nodes.length -1};
+                      linkList.push(newEdge);
+                    }
                   }
                   else if (edge.target.id == obj.id){
-                    newEdge = {'source': nodes.map(function(obj){return obj.id}).indexOf(edge.source.id), 'target': nodes.length -1};
+                    var source = nodes.map(function(obj){return obj.id}).indexOf(edge.source.id);
+                    if (source > -1 ){
+                    var newEdge = {'source': nodes.map(function(obj){return obj.id}).indexOf(edge.source.id), 'target': nodes.length -1};
                     linkList.push(newEdge);
+                    }
                   }
                 }
                 return linkList
+            }
+            // need to add all links
+            addNodes =function(arr) {
+              var newLinks = []
+              for (i in arr){
+                nodes.push(arr[i]);
+              }
+              for (i in arr){
+                var objLinks = getLinks(arr[i]);
+                for (i in objLinks){
+                  if (newLinks.indexOf(objLinks[i]) == -1){
+                    newLinks.push(objLinks[i])
+                  }
+                }
+              }
+              for (i in newLinks){
+                links.push(newLinks[i]);
+              }
+              console.log(nodes);
+              console.log(newLinks);
+              start();
             }
 
             addNode = function (obj) {
@@ -196,32 +226,37 @@
                 
                 start()
 
-                var allNodes = nodes.slice(0)
-                var allLinks = links.slice(0)
+                
+                for (i in allNodes){
+                  allNodes[i].originalWeight = allNodes[i].weight;
+                }
+                // the problem with this is that I'm not actually making copies of the objects
                 // use slice to create a new object with this assignment, rather than a reference to the old one (which will vary as it varies)
 
                 minDegree = function(weight){
-                removeList = []
-                addList = []
-                for (i in allNodes){
-                  if (allNodes[i].weight < weight && nodes.indexOf(allNodes[i]) > -1){
-                    removeList.push(allNodes[i])
+                  nodes = allNodes;
+                  links = allLinks;
+                  console.log(allLinks)
+                  console.log(allNodes)
+                  removeList = []
+                  addList = []
+                  for (i in allNodes){
+                    if (allNodes[i].originalWeight < weight && nodes.indexOf(allNodes[i]) > -1){
+                      removeList.push(allNodes[i])
+                    }
+                    // else if (allNodes[i].originalWeight >= weight && nodes.indexOf(allNodes[i]) == -1){
+                    //   addList.push(allNodes[i])
+                    // }
                   }
-                  else if (allNodes[i].weight >= weight && nodes.indexOf(allNodes[i]) == -1){
-                    addList.push(allNodes[i])
+                  for (i in removeList){
+                    removeNode(removeList[i].id)
                   }
-                }
-                for (i in removeList){
-                  removeNode(removeList[i].id)
-                }
-                for (i in addList){
-                  addNode(addList[i])
-                }
+                  start()
+                  // addNodes(addList);
               }
                 function start() {
                    // this has to be called before the weights can be assigned.
                    // force.start()
-                   console.log(node)
                    // this is initially a list of the 6 svg elements
                    link = link.data(links)
                    link.enter().append("line")
@@ -232,7 +267,6 @@
                    // the second argument here is a key function, which is very important
                    // https://bost.ocks.org/mike/constancy/
                    node = node.data(nodes, function(d) {return d.id})
-                   console.log(nodes)
                    
                    // node.enter() is all the new nodes
                    // node.exit() is all the nodes that were in the grpah before but are no longer
@@ -257,7 +291,7 @@
                             .text(function(d) { l = d.name.split(" ")
                                         return l[l.length - 1] + d.weight.toString() })
                             .style("font-size", function(d) {return d.weight * 2})
-                     console.log(node.exit())
+
                      node.exit().remove();
 
 
