@@ -132,21 +132,28 @@
             // http://stackoverflow.com/questions/9539294/adding-new-nodes-to-force-directed-layout
             
             getLinks = function(obj){
-                var ix = allNodes.map(function(o) {return o.id}).indexOf(obj.id)
                 var linkList = []
                 for (i in allLinks){
                   var edge = allLinks[i]
-                  if (edge.source == ix || edge.target == ix) {
-                    linkList.push(edge)
+                  if (edge.source.id == obj.id) {
+                    newEdge = {'target': nodes.map(function(obj){return obj.id}).indexOf(edge.target.id), 'source': nodes.length -1};
+                    linkList.push(newEdge);
+                  }
+                  else if (edge.target.id == obj.id){
+                    newEdge = {'source': nodes.map(function(obj){return obj.id}).indexOf(edge.source.id), 'target': nodes.length -1};
+                    linkList.push(newEdge);
                   }
                 }
                 return linkList
             }
 
             addNode = function (obj) {
-                console.log(obj)
                 nodes.push(obj);
-                links.push({'source': 0, 'target': nodes.length -1})
+                var newLinks = getLinks(obj);
+                for (i in newLinks){
+                  links.push(newLinks[i])
+                }
+                // links.push({'source': 0, 'target': nodes.length -1}, {'source': 2, 'target': nodes.length -1})
                 start();
             }
 
