@@ -23,6 +23,4 @@ urlpatterns = [
     url(r'^philosophers/edges/$', 'influencenet.views.philosopher_edges'),
     url(r'^philosophers/get_edges/$', 'influencenet.views.d3_from_list'),
     url(r'^philosophers/list/', views.PhilosopherList.as_view()),
-    url(r'^philosophers/influences/', views.InfluencesList.as_view()),
-    url(r'^philosophers/followers/', views.FollowerList.as_view())
 ]

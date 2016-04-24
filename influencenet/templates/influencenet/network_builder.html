@@ -125,17 +125,31 @@
               nodes[i].cx = nodes[i].sx
             }
 
-            console.log(nodes)
-
             links = [{'source': 0, 'target': 1}, {'source': 2, 'target': 0}, {'source': 0, 'target': 3}, {'source': 2, 'target': 3},
                      {'source': 3, 'target': 4}, {'source': 3, 'target': 5}, {'source': 5, 'target': 4},
                      {'source': 5, 'target': 1}, {'source': 4, 'target': 1}, {'source': 2, 'target': 4},
                      {'source': 0, 'target': 5}, {'source': 2, 'target': 5}]
             // http://stackoverflow.com/questions/9539294/adding-new-nodes-to-force-directed-layout
-            addNode = function (id) {
-                nodes.push({"name": "Test test", "id": 3});
+            
+            getLinks = function(obj){
+                var ix = allNodes.map(function(o) {return o.id}).indexOf(obj.id)
+                var linkList = []
+                for (i in allLinks){
+                  var edge = allLinks[i]
+                  if (edge.source == ix || edge.target == ix) {
+                    linkList.push(edge)
+                  }
+                }
+                return linkList
+            }
+
+            addNode = function (obj) {
+                console.log(obj)
+                nodes.push(obj);
+                links.push({'source': 0, 'target': nodes.length -1})
                 start();
             }
+
             // Hume's id is /m/026lj
             removeNode = function (id) {
                 var i = 0;
@@ -169,94 +183,79 @@
                   .nodes(nodes)
                   .links(links)
 
+
                 var node = svg.selectAll(".node"),
                     link = svg.selectAll(".link");
-
+                
                 start()
 
+                var allNodes = nodes.slice(0)
+                var allLinks = links.slice(0)
+                // use slice to create a new object with this assignment, rather than a reference to the old one (which will vary as it varies)
+
+                minDegree = function(weight){
+                removeList = []
+                addList = []
+                for (i in allNodes){
+                  if (allNodes[i].weight < weight && nodes.indexOf(allNodes[i]) > -1){
+                    removeList.push(allNodes[i])
+                  }
+                  else if (allNodes[i].weight >= weight && nodes.indexOf(allNodes[i]) == -1){
+                    addList.push(allNodes[i])
+                  }
+                }
+                for (i in removeList){
+                  removeNode(removeList[i].id)
+                }
+                for (i in addList){
+                  addNode(addList[i])
+                }
+              }
                 function start() {
+                   // this has to be called before the weights can be assigned.
+                   // force.start()
+                   console.log(node)
+                   // this is initially a list of the 6 svg elements
                    link = link.data(links)
                    link.enter().append("line")
                    .attr("class", "link")
                    .style("stroke-width", function(d) { return Math.sqrt(d.value); });
 
                    link.exit().remove()
-
-                   node = node.data(nodes)
-
+                   // the second argument here is a key function, which is very important
+                   // https://bost.ocks.org/mike/constancy/
+                   node = node.data(nodes, function(d) {return d.id})
+                   console.log(nodes)
+                   
                    // node.enter() is all the new nodes
                    // node.exit() is all the nodes that were in the grpah before but are no longer
 
                    // for some reason calling start twice is doubling the text and circle attributes of my nodes
                     
-                   node.enter().append("g")
+                   var g = node.enter().append("g")
                             .attr("class", "node")
                             .call(drag).on('dblclick', releasenode)
                    
-                   node.exit().remove();
-
-                            
-                   node.append("text")
+                   force.start()
+                    
+                   g.append("circle")
+                            .attr("class", "node")
+                            .attr("r", function(d) {return d.weight * 3})
+                            .style("fill", function(d) {return color(d.group); })
+                    
+                    g.append("text")
                             .attr("dx", 12)
                             .attr("dy", ".35em")
+                            // these are distances from the circle (x and y)
                             .text(function(d) { l = d.name.split(" ")
-                                        return l[l.length - 1] })
+                                        return l[l.length - 1] + d.weight.toString() })
+                            .style("font-size", function(d) {return d.weight * 2})
+                     console.log(node.exit())
+                     node.exit().remove();
 
-                    node.append("circle")
-                            .attr("class", "node")
-                            .attr("r", 5)
-                            .style("fill", function(d) { return color(d.group); })
 
 // http://stackoverflow.com/questions/30335368/remove-text-from-nodes-in-d3
-                    
-  //                   .attr("dx", 12)
-  //                   .attr("dy", ".35em")
-  //                   .text(function(d) { l = d.name.split(" ")
-  //                                       return l[l.length-1] });
-
-                    force.start()
                 }
-
-  //               var link = svg.selectAll(".link")
-  //                  .data(links)
-  //                  .enter().append("line")
-  //                  .attr("class", "link")
-  //                  .style("stroke-width", function(d) { return Math.sqrt(d.value); });
-
-  //               // create an svg 'g' block for each node to contain circle + text
-  //               var node = svg.selectAll(".node")
-  //                           .data(nodes)
-  //                           .enter().append("g")
-  //                           .attr("class", "node")
-  //                           .call(drag).on('dblclick', releasenode);
-
-  //               // color node based on node 'group' - atm this is undefined
-  //               node.append("circle")
-  //                 .attr("class", "node")
-  //                 .attr("r", 5)
-  //                 .style("fill", function(d) { return color(d.group); })
-  //                 .call(force.drag);
-
-  //               node.append("text")
-  //                   .attr("dx", 12)
-  //                   .attr("dy", ".35em")
-  //                   .text(function(d) { l = d.name.split(" ")
-  //                                       return l[l.length-1] });
-
-
-  //               force.on("tick", function() {
-  //   link.attr("x1", function(d) { return d.source.x; })
-  //       .attr("y1", function(d) { return d.source.y; })
-  //       .attr("x2", function(d) { return d.target.x; })
-  //       .attr("y2", function(d) { return d.target.y; });
-
-  //   node.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
-  // });
-                // d3.select("body").selectAll("p")
-                // .data(dataset)
-                // .enter()
-                // .append("p")
-                // .text(function(d){return d.influencer_name + " -> " + d.follower_name});
             // https://www.dashingd3js.com/d3-examples/1-d3-and-javascript-working-with-json
             // http://bl.ocks.org/mbostock/3750558
             // http://www.coppelia.io/2014/07/an-a-to-z-of-extra-features-for-the-d3-force-layout/
@@ -270,57 +269,8 @@
       .attr("y2", function(d) { return d.target.y; });
       // the below is due to the fact that svg g elements are being used.
       node.attr("transform", function(d) { return "translate(" + d.cx + "," + d.y + ")"; });
-}
-            update = function () {
-
-            var link = svg.selectAll(".link")
-                .data(links);
-
-            link.enter().insert("line")
-                .attr("class", "link");
-
-            link.exit().remove();
-
-            var node = svg.selectAll(".node")
-                            .data(nodes)
-
-            var nodeEnter = node
-                            .enter().append("g")
-                            .attr("class", "node")
-                            .call(drag).on('dblclick', releasenode);
-
-                // color node based on node 'group' - atm this is undefined
-                nodeEnter.append("circle")
-                  .attr("class", "node")
-                  .attr("r", 5)
-                  .style("fill", function(d) { return color(d.group); })
-                  .call(force.drag);
-
-                nodeEnter.append("text")
-                    .attr("dx", 12)
-                    .attr("dy", ".35em")
-                    .text(function(d) { l = d.name.split(" ")
-                                        return l[l.length-1] });
-
-
-            node.exit().remove();
-
-            force.on("tick", function() {
-            link.attr("x1", function(d) { return d.source.x; })
-                .attr("y1", function(d) { return d.source.y; })
-                .attr("x2", function(d) { return d.target.x; })
-                .attr("y2", function(d) { return d.target.y; });
-            });
-            
-            node.attr("transform", function(d) { return "translate(" + 0 + "," + d.y + ")"; });
-
-        // Restart the force layout.
-        force.start();
     }
-            node_elements_list = svg.selectAll("g.node")[0]
-            for (e in node_elements_list){
-                console.log(node_elements_list[e].__data__.weight)
-            }
+           
         // removing nodes from a force layout: http://bl.ocks.org/mbostock/1095795
 
             // try setting x attributes for nodes based on dob.

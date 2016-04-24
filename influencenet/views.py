@@ -36,32 +36,18 @@ class PhilosopherList(ListAPIView):
     queryset = InfluenceNode.objects.filter(is_philosopher=True)
     serializer_class = InfluenceNodeSerializer
 
-# these three lists could really be combined into one philosopher list endpoint with optional
-# &followed= / &influenced= query params.
-
-class InfluencesList(ListAPIView):
-    queryset = InfluenceNode.objects.filter(is_philosopher=True)
-    serializer_class = InfluenceNodeSerializer
-
-    def get_queryset(self):
+    def get_querset(self):
         queryset = super(InfluencesList, self).get_queryset()
-        if 'pid' in self.request.query_params:
+        if 'influenced' in self.request.query_params:
             fb_id = "/m/" + self.request.query_params['pid']
-            print fb_id
             queryset = queryset.filter(outgoing_edge__follower__freebase_id=fb_id)
-        return queryset
-
-
-class FollowerList(ListAPIView):
-    queryset = InfluenceNode.objects.filter(is_philosopher=True)
-    serializer_class = InfluenceNodeSerializer
-
-    def get_queryset(self):
-        queryset = super(FollowerList, self).get_queryset()
-        if 'pid' in self.request.query_params:
+        elif 'followed' in self.request.query_params:
             fb_id = "/m/" + self.request.query_params['pid']
             queryset = queryset.filter(incoming_edge__influencer__freebase_id=fb_id)
         return queryset
+
+# these three lists could really be combined into one philosopher list endpoint with optional
+# &followed= / &influenced= query params.
 
 
 def d3_from_list(request):
