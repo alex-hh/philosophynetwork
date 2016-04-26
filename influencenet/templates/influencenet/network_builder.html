@@ -16,7 +16,7 @@
             </div>
             <div class="row">
                 <label for="min_degree">Minimum degree</label>
-                <input id="min_degree" type="range" name="degree" min="0" max="10">
+                <input id="min_degree" type="range" name="degree" min="0" max="10" value="0">
             </div>
             </div>
         </div>
@@ -91,6 +91,7 @@
                 d.fixed = false; // of course set the node to fixed so the force doesn't include the node in its auto positioning stuff
                 //force.resume();
             }
+            // node.filter(function(d) { return d.group == 1; }).style("visibility", "hidden");
 
             var color = d3.scale.category20();
 
@@ -132,7 +133,8 @@
             // http://stackoverflow.com/questions/9539294/adding-new-nodes-to-force-directed-layout
             var hiddenNodes = []
             var hiddenLinks = []
-            // I could store allNodes and allLinks as strings perhaps.
+            // I could store allNodes and allLinks as strings perhaps:
+            // var tempArray = JSON.parse(JSON.stringify(mainArray));
             // http://stackoverflow.com/questions/18383854/stringify-javascript-object
             // http://stackoverflow.com/questions/20249215/how-to-display-and-hide-links-and-nodes-when-clicking-on-a-node-in-d3-javascript
             // or I could just set the visibility of the links and nodes rather than removing them completely...
@@ -206,6 +208,16 @@
                 }
             }
 
+            hideNode = function(id) {
+                node.filter(function(d) { return d.id == id; }).style("visibility", "hidden");
+                link.filter(function(d) { return d.source.id == id || d.target.id == id}).style("visibility", "hidden");
+            }
+
+            showNode = function(id) {
+               node.filter(function(d) { return d.id == id; }).style("visibility", "visible");
+               link.filter(function(d) { return d.source.id == id || d.target.id == id}).style("visibility", "visible");
+            }
+
             findNode = function(id){
                 for (var i=0; i < nodes.length; i++) {
                     if (nodes[i].id === id)
@@ -238,26 +250,14 @@
                 // use slice to create a new object with this assignment, rather than a reference to the old one (which will vary as it varies)
 
                 minDegree = function(weight){
-                  nodes = allNodes;
-                  links = allLinks;
-                  console.log(allLinks)
-                  console.log(allNodes)
-                  removeList = []
-                  addList = []
-                  for (i in allNodes){
-                    if (allNodes[i].originalWeight < weight && nodes.indexOf(allNodes[i]) > -1){
-                      removeList.push(allNodes[i])
-                    }
-                    // else if (allNodes[i].originalWeight >= weight && nodes.indexOf(allNodes[i]) == -1){
-                    //   addList.push(allNodes[i])
-                    // }
+                    node.filter(function(d) {return d.weight < weight}).style("visibility", "hidden");
+                    link.filter(function(d) {return d.source.weight < weight || d.target.weight < weight}).style("visibility", "hidden");
+                    node.filter(function(d) {return d.weight >= weight}).style("visibility", "visible");
+                    link.filter(function(d) {return d.source.weight >= weight && d.target.weight >= weight}).style("visibility", "visible");
                   }
-                  for (i in removeList){
-                    removeNode(removeList[i].id)
-                  }
-                  start()
-                  // addNodes(addList);
-              }
+
+                $("#min_degree").on('change', function(){minDegree($(this).val())})
+
                 function start() {
                    // this has to be called before the weights can be assigned.
                    // force.start()
