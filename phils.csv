@@ -1,0 +1,1768 @@
+name,freebase_id,dob
+Baruch Spinoza,/m/015n8,1632-11-24T00:00:00Z
+Albert Einstein,/m/0jcx,1879-03-14T00:00:00Z
+Blaise Pascal,/m/01b0x,
+Alexis de Tocqueville,/m/015v8f,1805-07-29T00:00:00Z
+G. K. Chesterton,/m/037jz,1874-05-29T00:00:00Z
+Johann Wolfgang von Goethe,/m/042q3,1749-08-28T00:00:00Z
+Joseph Butler,/m/015r88,1692-05-18T00:00:00Z
+Adam Smith,/m/0tfc,1723-06-05T00:00:00Z
+Thomas Paine,/m/07kwl,1737-01-29T00:00:00Z
+William Godwin,/m/011zsy,1756-03-03T00:00:00Z
+William Petty,/m/01yfj1,1623-05-26T00:00:00Z
+Zhu Xi,/m/01kdw9,1130-10-25T00:00:00Z
+Wang Yangming,/m/02xb9k,1472-11-09T00:00:00Z
+Benjamin Tucker,/m/01hkr,1854-04-17T00:00:00Z
+Alfred North Whitehead,/m/0bwpg,1861-02-15T00:00:00Z
+Ludwig von Mises,/m/0cpvcd,1881-09-29T00:00:00Z
+Francis Hutcheson,/m/019sh3,1694-08-08T00:00:00Z
+Paracelsus,/m/013wgy,1493-11-19T00:00:00Z
+Samuel Alexander,/m/05wk13x,1859-01-06T00:00:00Z
+Bernard Mandeville,/m/02qjjq,1670-11-15T00:00:00Z
+Nikolai Berdyaev,/m/01thjq,1874-03-18T00:00:00Z
+William Cleghorn,/m/02z9h_7,
+Adam Ferguson,/m/017qy4,1723-06-20T00:00:00Z
+Antoni Lange,/m/070mww,1863-01-01T00:00:00Z
+Heraclitus,/m/03l6h,-534-01-01T00:00:00Z
+Juan Donoso Cortés,/m/08hd3x,1809-05-06T00:00:00Z
+Georges Sorel,/m/02zng2,1847-11-02T00:00:00Z
+Emer de Vattel,/m/05x1vk,1714-04-25T00:00:00Z
+Pierre-Joseph Proudhon,/m/0d7t6,1809-01-15T00:00:00Z
+Kenneth Waltz,/m/04b2f0,1924-06-08T00:00:00Z
+Moritz Schlick,/m/01dfd4,1882-04-14T00:00:00Z
+Swami Vivekananda,/m/0cdfl,1863-01-12T00:00:00Z
+Max Stirner,/m/0slqn,1806-10-25T00:00:00Z
+Aristotle,/m/0gz_,-383-01-01T00:00:00Z
+Bertrand Russell,/m/01bpn,1872-05-18T00:00:00Z
+Arthur Schopenhauer,/m/0j3v,1788-02-22T00:00:00Z
+Denis Diderot,/m/028xm,1713-10-05T00:00:00Z
+Baron d'Holbach,/m/01btgd,1723-12-08T00:00:00Z
+George Berkeley,/m/034ms,1685-03-12T00:00:00Z
+George Santayana,/m/018wj9,1863-12-16T00:00:00Z
+Giacomo Leopardi,/m/0c8cl,1798-06-29T00:00:00Z
+Herbert Spencer,/m/01kznw,1820-04-27T00:00:00Z
+Ayn Rand,/m/0h25,1905-02-02T00:00:00Z
+John Stuart Mill,/m/03_hd,1806-05-20T00:00:00Z
+Apuleius,/m/0t6h,0125-01-01T00:00:00Z
+Ludwig Wittgenstein,/m/04hcw,1889-04-26T00:00:00Z
+Niccolò Machiavelli,/m/05cvs,1469-05-12T00:00:00Z
+René Descartes,/m/06csk,1596-03-31T00:00:00Z
+Jakob Böhme,/m/02by2w,1575-03-18T00:00:00Z
+Giambattista Vico,/m/015_hb,1668-06-23T00:00:00Z
+Benedetto Croce,/m/037c7x,1866-02-25T00:00:00Z
+Zeno of Elea,/m/01236p,-489-01-01T00:00:00Z
+Otto Weininger,/m/01ckkq,1880-04-03T00:00:00Z
+Isabel Paterson,/m/04zks3,1886-01-22T00:00:00Z
+Baltasar Gracián,/m/04qrrt,1601-01-08T00:00:00Z
+Antonio Labriola,/m/07m56m,1843-07-02T00:00:00Z
+Democritus,/m/0290q,-460-01-01T00:00:00Z
+Maimonides,/m/04xk5,1135-01-01T00:00:00Z
+Parmenides,/m/05w9g,-500-01-01T00:00:00Z
+Augustine of Hippo,/m/0w6w,0354-11-14T00:00:00Z
+Ibn Tufail,/m/046bnx,1110-01-01T00:00:00Z
+Giovanni Gentile,/m/03blcp,1875-05-29T00:00:00Z
+Giordano Bruno,/m/03d8f,1548-01-01T00:00:00Z
+Thomas Reid,/m/07bvs,1710-04-26T00:00:00Z
+Averroes,/m/0cvlw,1126-04-21T00:00:00Z
+C. S. Lewis,/m/01wd02c,1898-11-29T00:00:00Z
+Michel de Montaigne,/m/0c2cl,1533-03-10T00:00:00Z
+William James,/m/0mj0c,1842-01-11T00:00:00Z
+Alexius Meinong,/m/0247kx,1853-07-17T00:00:00Z
+Hermann Lotze,/m/01b5b6,1817-05-21T00:00:00Z
+Joseph de Maistre,/m/01f6vp,1753-04-01T00:00:00Z
+Christoph von Sigwart,/m/03lr9f,1830-03-28T00:00:00Z
+G. E. Moore,/m/034n8,1873-11-04T00:00:00Z
+Giuseppe Peano,/m/03dyg,1858-08-27T00:00:00Z
+Gottfried Wilhelm von Leibniz,/m/0372p,1646-07-11T00:00:00Z
+Owen Barfield,/m/02tp7c,1898-11-09T00:00:00Z
+Richard McKeon,/m/0bbm0m,
+Damaris Cudworth Masham,/m/058sj2,1659-01-18T00:00:00Z
+Antero de Quental,/m/0373rz,1842-04-18T00:00:00Z
+Fernando Pessoa,/m/03145,1888-06-13T00:00:00Z
+Ernst Haeckel,/m/02mtv,1834-02-16T00:00:00Z
+David Hume,/m/026lj,1711-05-07T00:00:00Z
+Edmund Burke,/m/02qr0,1729-01-12T00:00:00Z
+Henry David Thoreau,/m/0bwx3,1817-07-12T00:00:00Z
+Emma Goldman,/m/02nmr,1869-06-27T00:00:00Z
+Peter Kropotkin,/m/0dgq9,1842-12-21T00:00:00Z
+Nicolas Malebranche,/m/017h16,1638-08-06T00:00:00Z
+Pyrrho,/m/011k9p,-358-01-01T00:00:00Z
+Pierre Bayle,/m/01stjn,1647-11-18T00:00:00Z
+Epicurus,/m/02q_8,-341-01-01T00:00:00Z
+Marshall McLuhan,/m/04y4j,1918-07-21T00:00:00Z
+Sextus Empiricus,/m/0182_n,0160-01-01T00:00:00Z
+Epictetus,/m/02tkc,0050-01-01T00:00:00Z
+Lev Shestov,/m/04_d1b,1866-02-13T00:00:00Z
+Rudolf Christoph Eucken,/m/01h90j,1846-01-05T00:00:00Z
+Karl Leonhard Reinhold,/m/04qpgj,1757-10-26T00:00:00Z
+Friedrich Schiller,/m/0h336,1759-11-10T00:00:00Z
+Friedrich Nietzsche,/m/02wh0,1844-10-15T00:00:00Z
+Lysander Spooner,/m/0kmkv,1808-01-19T00:00:00Z
+Francis Bacon,/m/030dr,1561-02-01T00:00:00Z
+Ralph Waldo Emerson,/m/06jkm,1803-05-25T00:00:00Z
+African Spir,/m/08nwqf,1837-11-15T00:00:00Z
+Ludwig Feuerbach,/m/0182xl,1804-07-28T00:00:00Z
+Friedrich Engels,/m/0cp8j,1820-11-28T00:00:00Z
+Friedrich Albert Lange,/m/01qwjz,1828-09-28T00:00:00Z
+Protagoras,/m/06035,-485-01-01T00:00:00Z
+Auguste Comte,/m/0zz2v,1798-01-19T00:00:00Z
+Bruno Bauer,/m/0jnsf,1809-09-06T00:00:00Z
+Frédéric Bastiat,/m/0301k,1801-06-29T00:00:00Z
+Georg Wilhelm Friedrich Hegel,/m/039n1,1770-08-27T00:00:00Z
+Johann Gottlieb Fichte,/m/0350t,1762-05-19T00:00:00Z
+Marquis de Sade,/m/02flz,1740-06-02T00:00:00Z
+Geoffrey Chaucer,/m/03b_m,1343-01-01T00:00:00Z
+Novalis,/m/01fgc6,1772-05-02T00:00:00Z
+Friedrich Wilhelm Joseph Schelling,/m/0182w0,1775-01-27T00:00:00Z
+Nicholas of Cusa,/m/01pqmd,1401-01-01T00:00:00Z
+Johann Georg Hamann,/m/01k8bj,1730-08-27T00:00:00Z
+Charles Bray,/m/02x4v20,
+George Boole,/m/09jzz,1815-11-02T00:00:00Z
+Johann Gottfried Herder,/m/01qzgm,1744-08-25T00:00:00Z
+Johannes Scotus Eriugena,/m/044g1n,0810-01-01T00:00:00Z
+Friedrich Heinrich Jacobi,/m/01cz85,1743-01-25T00:00:00Z
+Gotthold Ephraim Lessing,/m/0378w,1729-01-22T00:00:00Z
+Henri Bergson,/m/03j43,1859-10-18T00:00:00Z
+Isaac Newton,/m/03s9v,1643-01-04T00:00:00Z
+Immanuel Kant,/m/03sbs,1724-04-22T00:00:00Z
+Hugo Grotius,/m/0hl94,1583-04-10T00:00:00Z
+Christian Wolff,/m/01czwg,1679-01-24T00:00:00Z
+Félix Ravaisson-Mollien,/m/017lgr,1813-10-23T00:00:00Z
+Francisco Suárez,/m/042bxj,1548-01-15T00:00:00Z
+Johannes Nikolaus Tetens,/m/04q48q,1736-09-16T00:00:00Z
+Philodemus,/m/07slxy,-109-01-01T00:00:00Z
+"Sir William Hamilton, 9th Baronet",/m/01d89l,1788-03-08T00:00:00Z
+Alexander Gottlieb Baumgarten,/m/01r5yn,1714-07-17T00:00:00Z
+Émile Durkheim,/m/09j84,1858-04-15T00:00:00Z
+Carl Jung,/m/0bk5r,1875-07-26T00:00:00Z
+Søren Kierkegaard,/m/06qvh,1813-05-05T00:00:00Z
+Maine de Biran,/m/017jns,1766-11-29T00:00:00Z
+Johann Heinrich Lambert,/m/0n29h,1728-08-26T00:00:00Z
+Jean-Jacques Rousseau,/m/0420y,1712-06-28T00:00:00Z
+Augustus De Morgan,/m/0q2w,1806-06-27T00:00:00Z
+Jean Bodin,/m/01nywz,1529-01-01T00:00:00Z
+William Whewell,/m/01d48b,1794-05-24T00:00:00Z
+Alexander Bain,/m/0121qt,1818-06-11T00:00:00Z
+Charles Babbage,/m/01qmz,1791-12-26T00:00:00Z
+John Locke,/m/043s3,1632-08-29T00:00:00Z
+John Cowper Powys,/m/01ffjd,1872-10-08T00:00:00Z
+John Dewey,/m/04411,1859-10-20T00:00:00Z
+John Dee,/m/043y0,1527-08-02T00:00:00Z
+Pierre Gassendi,/m/01b_dj,1592-01-22T00:00:00Z
+"Claude Henri de Rouvroy, comte de Saint-Simon",/m/01f3ss,1760-10-17T00:00:00Z
+James Mill,/m/017h4t,1773-04-06T00:00:00Z
+George Herbert Mead,/m/01x73v,1863-02-27T00:00:00Z
+Wilhelm von Humboldt,/m/081_6,1767-06-22T00:00:00Z
+Thomas Hill Green,/m/01f0h6,1836-04-07T00:00:00Z
+Josiah Warren,/m/06h_n6,1798-01-01T00:00:00Z
+George Sylvester Morris,/m/09yp5w,
+Karl Marx,/m/048cl,1818-05-05T00:00:00Z
+Leo Tolstoy,/m/01tz6vs,1828-09-09T00:00:00Z
+Charles Fourier,/m/01jfhs,1772-04-07T00:00:00Z
+Jules Michelet,/m/01s6q3,1798-08-21T00:00:00Z
+Alexander Herzen,/m/02fkcx,1812-04-18T00:00:00Z
+Petr Chelčický,/m/029km3,1390-01-01T00:00:00Z
+Joseph Dietzgen,/m/03_88v,1828-12-09T00:00:00Z
+Karl Kautsky,/m/01x_n6,1854-10-16T00:00:00Z
+Marcus Aurelius,/m/051x8,0121-04-25T00:00:00Z
+Mahatma Gandhi,/m/04xfb,1869-10-02T00:00:00Z
+Mary Wollstonecraft,/m/04_cw,1759-04-27T00:00:00Z
+Lucretius,/m/0987k,-099-01-01T00:00:00Z
+Desiderius Erasmus,/m/02rpq,1469-11-15T00:00:00Z
+Michael Faraday,/m/04zt0,1791-09-22T00:00:00Z
+Jan Hus,/m/042x_,1369-01-01T00:00:00Z
+Frank P. Ramsey,/m/01jkgd,1903-02-22T00:00:00Z
+Posidonius,/m/0m1s3,-134-01-01T00:00:00Z
+Plutarch,/m/063_9,0046-01-01T00:00:00Z
+Robert Boyle,/m/0d98m,1627-01-25T00:00:00Z
+Plato,/m/05qmj,-426-01-01T00:00:00Z
+Gorgias,/m/0p7d0,-482-01-01T00:00:00Z
+Nasir al-Din al-Tusi,/m/0428hj,1201-01-01T00:00:00Z
+Pythagoras,/m/05sr0,-584-01-01T00:00:00Z
+Abū Rayḥān al-Bīrūnī,/m/01ny93,0973-09-10T00:00:00Z
+Omar Khayyám,/m/0m_hz,1048-05-30T00:00:00Z
+Terence McKenna,/m/01k1wq,1946-11-16T00:00:00Z
+Duns Scotus,/m/0m1wd,1265-01-01T00:00:00Z
+Adam Weishaupt,/m/0wjz,1748-02-06T00:00:00Z
+Mikhail Bakunin,/m/0fyhn,1814-05-30T00:00:00Z
+Samuel Taylor Coleridge,/m/078w2,1772-10-21T00:00:00Z
+Sigmund Freud,/m/06myp,1856-05-06T00:00:00Z
+Josef Breuer,/m/053rzy,1842-01-15T00:00:00Z
+Karl Robert Eduard von Hartmann,/m/02vhlz,1842-02-23T00:00:00Z
+William Wollaston,/m/0q250,1659-03-26T00:00:00Z
+Franz Brentano,/m/0l235,1838-01-16T00:00:00Z
+Seneca the Younger,/m/0j_8y,-003-01-01T00:00:00Z
+Thomas Carlyle,/m/0ymtb,1795-12-04T00:00:00Z
+Thomas Hobbes,/m/07c37,1588-04-05T00:00:00Z
+Thomas Jefferson,/m/07cbs,1743-04-13T00:00:00Z
+Giovanni Pico della Mirandola,/m/013w_3,1463-03-05T00:00:00Z
+Thomas More,/m/07hl9,1478-02-16T00:00:00Z
+Thomas Aquinas,/m/07kb5,1225-02-04T00:00:00Z
+F. H. Bradley,/m/02dtxl,1846-01-30T00:00:00Z
+Proclus,/m/066c6,0412-02-09T00:00:00Z
+Pseudo-Dionysius the Areopagite,/m/05x_l,0500-01-01T00:00:00Z
+Walt Whitman,/m/085gk,1819-05-31T00:00:00Z
+William Paley,/m/08496,1743-07-14T00:00:00Z
+Wang Fuzhi,/m/055kf1,1619-01-01T00:00:00Z
+Richard Avenarius,/m/0440vk,1843-11-19T00:00:00Z
+Cheng Yi,/m/027gyyf,1033-01-01T00:00:00Z
+Rudolf Steiner,/m/06hwd,1861-02-25T00:00:00Z
+Charles Bernard Renouvier,/m/017lh3,1815-01-01T00:00:00Z
+David Hartley,/m/017gqs,1705-06-21T00:00:00Z
+F. C. S. Schiller,/m/05xp4l,1864-08-16T00:00:00Z
+Muhammad Usman Damani,/m/0ch3vxc,
+Muhammad Sirajuddin Naqshbandi,/m/0ch2vc_,
+Zhou Dunyi,/m/06r6f2,1017-01-01T00:00:00Z
+Frithjof Bergmann,/m/0b0kb9,
+Ernst Mach,/m/0fcy0,1838-02-18T00:00:00Z
+Guy Debord,/m/014pkc,1931-12-28T00:00:00Z
+Philippa Foot,/m/04ycgp,1920-10-03T00:00:00Z
+Candace Vogler,/m/0bbs7g,
+Carl Stumpf,/m/02hrxh,1848-04-21T00:00:00Z
+Leo Strauss,/m/01dvtx,1899-09-20T00:00:00Z
+Joseph Cropsey,/m/02691cg,
+Evald Ilyenkov,/m/02n65z,1924-02-18T00:00:00Z
+Cornelius Castoriadis,/m/032hw6,1922-03-11T00:00:00Z
+Cornelius Van Til,/m/0bh36k,1895-05-04T00:00:00Z
+Francis Schaeffer,/m/018d22,1912-01-30T00:00:00Z
+Kurt Koffka,/m/01q0z8,1886-03-18T00:00:00Z
+Euclid of Megara,/m/03n25g,-450-01-01T00:00:00Z
+Stilpo,/m/04jdxd,-400-01-01T00:00:00Z
+Max Horkheimer,/m/04xnh,1895-02-14T00:00:00Z
+Erich Fromm,/m/0cb9c,1900-03-23T00:00:00Z
+H. L. A. Hart,/m/01tfg3,1907-07-18T00:00:00Z
+Neil MacCormick,/m/025q95,1941-05-27T00:00:00Z
+Henry Sidgwick,/m/01dcwz,1838-05-31T00:00:00Z
+J. J. C. Smart,/m/028ssh,1920-09-16T00:00:00Z
+Frantz Fanon,/m/0nk7l,1925-07-20T00:00:00Z
+Lewis Gordon,/m/06nj4n,
+Nelson Goodman,/m/04dyc2,1906-08-07T00:00:00Z
+Jerry Fodor,/m/027931,1935-01-01T00:00:00Z
+Arthur Danto,/m/041yx0,1924-01-01T00:00:00Z
+György Lukács,/m/01t57w,1885-04-13T00:00:00Z
+René Guénon,/m/032xc4,1886-11-15T00:00:00Z
+Huston Smith,/m/03v8zv,
+Gianni Vattimo,/m/07k8bc,1936-01-04T00:00:00Z
+Mario Kopić,/m/04y9j94,
+Hannah Arendt,/m/0nk72,1906-10-14T00:00:00Z
+Cleomedes,/m/077h0y,0200-01-01T00:00:00Z
+Jason of Nysa,/m/03ck33s,-100-01-01T00:00:00Z
+Hilary Putnam,/m/0j_qm,1926-07-31T00:00:00Z
+Alfred Schütz,/m/0ql9l,1899-04-13T00:00:00Z
+Georg Simmel,/m/0qngb,1858-03-01T00:00:00Z
+Wilhelm Windelband,/m/04f7mv,1848-05-11T00:00:00Z
+Bernard Lonergan,/m/0446t9,1904-12-17T00:00:00Z
+Dieter Henrich,/m/02vp35p,1927-01-05T00:00:00Z
+Manfred Frank,/m/02rxpj7,1945-03-22T00:00:00Z
+Roland Barthes,/m/017kb5,1915-11-12T00:00:00Z
+John Anderson,/m/01368h,1893-11-01T00:00:00Z
+David Chalmers,/m/01m382,1966-04-20T00:00:00Z
+Richard Price,/m/0crqcc,1949-10-12T00:00:00Z
+Simone Weil,/m/018klb,1909-02-03T00:00:00Z
+Friedrich Schleiermacher,/m/018fn7,1768-11-21T00:00:00Z
+Alvin Plantinga,/m/0m6yd,1932-11-15T00:00:00Z
+Robin Collins,/m/0bjj5b,
+Michael C. Rea,/m/0ds54f6,
+Bas van Fraassen,/m/04ztyb,1941-04-05T00:00:00Z
+Al-Mawardi,/m/04h_6r,0974-01-01T00:00:00Z
+Jean Wahl,/m/04cqs6,1888-05-25T00:00:00Z
+Alan Watts,/m/01crts,1915-01-06T00:00:00Z
+Aurel Kolnai,/m/03c3_3x,
+Phillip Blond,/m/04n439v,1966-03-01T00:00:00Z
+Slavoj Žižek,/m/0169ff,1949-03-21T00:00:00Z
+Alain Badiou,/m/0351yk,1937-01-17T00:00:00Z
+Peter Sloterdijk,/m/03tqkv,1947-06-26T00:00:00Z
+Georges Canguilhem,/m/039hch,1904-06-04T00:00:00Z
+Peter Rollins,/m/0d3rkt,
+Jacob Taubes,/m/087jng,1923-02-25T00:00:00Z
+Yahya ibn Ma'in,/m/0h454m,0775-01-01T00:00:00Z
+Gilles Deleuze,/m/0399p,1925-01-18T00:00:00Z
+Manuel De Landa,/m/021ql3,1952-01-01T00:00:00Z
+Michael J. Shapiro,/m/0b1zk3,
+William E. Connolly,/m/06p686,1938-01-06T00:00:00Z
+Jean Cavaillès,/m/0f2w0r,1903-05-15T00:00:00Z
+Carl Schmitt,/m/024kq1,1888-07-11T00:00:00Z
+Émile Chartier,/m/039lqm,1868-03-03T00:00:00Z
+Jacques Rancière,/m/01tqpm,1940-06-10T00:00:00Z
+Gillian Rose,/m/081g2h,1947-09-20T00:00:00Z
+Jacques Lacan,/m/043tg,1901-04-13T00:00:00Z
+Ivan Illich,/m/01jbdk,1926-09-04T00:00:00Z
+Rajneesh,/m/019fxc,1931-12-11T00:00:00Z
+Gaston Bachelard,/m/02nxw4,1884-06-27T00:00:00Z
+Antonio Negri,/m/01m2jf,1933-08-01T00:00:00Z
+Arne Næss,/m/039v0w,1912-01-27T00:00:00Z
+Antoine Arnauld,/m/01h7yq,1612-02-06T00:00:00Z
+Étienne Bonnot de Condillac,/m/017gzg,1714-09-30T00:00:00Z
+A. C. Grayling,/m/06g4pw,1949-04-03T00:00:00Z
+Allan Bloom,/m/0lhg5,1930-09-14T00:00:00Z
+Ferdinand de Saussure,/m/02zk8,1857-11-26T00:00:00Z
+Edmund Husserl,/m/02ln1,1859-04-08T00:00:00Z
+Adolf Reinach,/m/03w_89,1883-12-23T00:00:00Z
+Amafinius,/m/0bwnq_,
+Félix Guattari,/m/02zww,1930-04-30T00:00:00Z
+Jean-Paul Sartre,/m/045bg,1905-06-21T00:00:00Z
+Leonard Peikoff,/m/01p34g,1933-10-15T00:00:00Z
+Andrew Bernstein,/m/07sf67,1949-06-29T00:00:00Z
+Abraham bar Hiyya,/m/02ycrk,1065-01-01T00:00:00Z
+Abraham ibn Ezra,/m/0125t0,1089-01-01T00:00:00Z
+Aristippus,/m/01lfpy,-434-01-01T00:00:00Z
+Arete of Cyrene,/m/09d9j6,-400-01-01T00:00:00Z
+Anaxagoras,/m/0sq0,-495-01-01T00:00:00Z
+Archelaus,/m/08fbbv,
+Borden Parker Bowne,/m/0444jt,
+Gilbert Simondon,/m/07hnl6,1924-10-02T00:00:00Z
+Bernard Stiegler,/m/0h068v,1952-04-01T00:00:00Z
+Bernard Bolzano,/m/01s0nm,1782-10-05T00:00:00Z
+Leszek Kołakowski,/m/040vxp,1927-10-23T00:00:00Z
+Gemistus Pletho,/m/014fxp,1355-01-01T00:00:00Z
+Claude Lévi-Strauss,/m/01tvt,1908-11-28T00:00:00Z
+"Victoria, Lady Welby",/m/03zgsb,1837-04-27T00:00:00Z
+Charles Kay Ogden,/m/02gbyp,1889-06-01T00:00:00Z
+Charles Maurras,/m/01g3g6,1868-04-20T00:00:00Z
+Damião de Góis,/m/01y3bw,1502-02-12T00:00:00Z
+Dan Zahavi,/m/03c5b09,
+Catius,/m/0bwnp8,
+Brian Massumi,/m/07lt8f,1956-05-08T00:00:00Z
+Bryan Reynolds,/m/02pg9_9,
+Roman Jakobson,/m/06ll8,1896-10-11T00:00:00Z
+Kazi Nazrul Islam,/m/02m_dh,1899-05-24T00:00:00Z
+Edward Said,/m/0969fd,1935-11-01T00:00:00Z
+Donald Davidson,/m/01r6rr,1917-03-06T00:00:00Z
+Georges Bataille,/m/01dqh6,1897-09-10T00:00:00Z
+Josiah Royce,/m/02h4fy,1855-11-20T00:00:00Z
+Gabriel Marcel,/m/02qyy8,1889-12-07T00:00:00Z
+Antoine Augustin Cournot,/m/0444_5,1801-08-28T00:00:00Z
+Ernesto Laclau,/m/02xn4y,1935-10-06T00:00:00Z
+Eugen Fink,/m/02x9v42,1905-12-11T00:00:00Z
+Giovanni Vailati,/m/07f4qc,1863-04-24T00:00:00Z
+Willard Van Orman Quine,/m/085b_,1908-06-25T00:00:00Z
+Martin Buber,/m/01hb49,1878-02-08T00:00:00Z
+Stanisław Ignacy Witkiewicz,/m/0239lt,1885-02-24T00:00:00Z
+Han Ryner,/m/05sz8sv,1861-12-07T00:00:00Z
+John Colet,/m/015rvw,1467-01-24T00:00:00Z
+Guillaume Budé,/m/015ry1,1467-02-04T00:00:00Z
+L. E. J. Brouwer,/m/01794d,1881-02-27T00:00:00Z
+Hermann Weyl,/m/019nfb,1885-11-09T00:00:00Z
+Hans Blumenberg,/m/05vz4bj,1920-07-13T00:00:00Z
+Hans Köchler,/m/0b16h0,1948-10-18T00:00:00Z
+Jan Patočka,/m/03rysd,1907-06-01T00:00:00Z
+Hermarchus,/m/07fl9t,-324-01-01T00:00:00Z
+J. L. Austin,/m/01jjv4,1911-03-26T00:00:00Z
+Georg Henrik von Wright,/m/036xf,1916-06-14T00:00:00Z
+Jaakko Hintikka,/m/05q8rb,1929-01-12T00:00:00Z
+Hans-Georg Gadamer,/m/03mt9,1900-02-11T00:00:00Z
+Hans Robert Jauss,/m/076m0n,1921-12-12T00:00:00Z
+Noam Chomsky,/m/0b78hw,1928-12-07T00:00:00Z
+Vilfredo Pareto,/m/0806p,1848-07-15T00:00:00Z
+Gilbert Ryle,/m/03yfwn,1900-08-19T00:00:00Z
+Adamantios Korais,/m/024knz,1748-04-27T00:00:00Z
+David Brewster,/m/02c86,1781-12-11T00:00:00Z
+Johann Friedrich Herbart,/m/01b5fd,1776-04-04T00:00:00Z
+Rigas Feraios,/m/04dbhw,1757-01-01T00:00:00Z
+Louis Althusser,/m/0k665,1918-10-16T00:00:00Z
+Léon Brunschvicg,/m/048z9d,1869-11-10T00:00:00Z
+Julius Evola,/m/01qhxs,1898-05-19T00:00:00Z
+Louis Gabriel Ambroise de Bonald,/m/02ydv2,1754-10-02T00:00:00Z
+Ernst Jünger,/m/014g17,1895-03-29T00:00:00Z
+Ernst Cassirer,/m/02prnr,1874-07-28T00:00:00Z
+José Ortega y Gasset,/m/031954,1883-05-09T00:00:00Z
+Marvin Farber,/m/0ddypp,
+Metrodorus of Lampsacus,/m/049s_y,-330-01-01T00:00:00Z
+Max Black,/m/01s3bn,1909-02-24T00:00:00Z
+Karl-Otto Apel,/m/05z_64,1922-03-15T00:00:00Z
+Melissus of Samos,/m/02glh2,-469-01-01T00:00:00Z
+Lucien Lévy-Bruhl,/m/0410_j,1857-04-10T00:00:00Z
+Wilhelm Dilthey,/m/02wcp1,1833-11-19T00:00:00Z
+Karl Jaspers,/m/01x15b,1883-02-23T00:00:00Z
+Nicholas Rescher,/m/02rrz4,1928-07-15T00:00:00Z
+Michel Onfray,/m/065_27,1959-01-01T00:00:00Z
+Pierre Duhem,/m/026v7j,1861-06-09T00:00:00Z
+Raoul Vaneigem,/m/01px7_,1934-01-04T00:00:00Z
+Paul Ricœur,/m/02bvkz,1913-02-27T00:00:00Z
+Zeno of Sidon,/m/05zh2q,-149-01-01T00:00:00Z
+Étienne de La Boétie,/m/022zkz,1530-11-21T00:00:00Z
+Georges Palante,/m/04cy47h,1862-11-20T00:00:00Z
+Meister Eckhart,/m/01ttgn,1260-01-01T00:00:00Z
+Julien Offray de La Mettrie,/m/03fh67,1709-11-23T00:00:00Z
+Maurice Halbwachs,/m/03ftsv,1877-03-11T00:00:00Z
+Salomon Maimon,/m/078dpp,1754-01-01T00:00:00Z
+Roger Scruton,/m/03yzwb,1944-02-17T00:00:00Z
+Russell Kirk,/m/04crpl,1918-10-19T00:00:00Z
+Sebastian Shaumyan,/m/02qh76x,
+Roman Ingarden,/m/067c83,1893-02-05T00:00:00Z
+Shaun Gallagher,/m/0g89dg,
+Roger Joseph Boscovich,/m/013q12,1711-05-18T00:00:00Z
+Moses Mendelssohn,/m/0c74z,1729-09-06T00:00:00Z
+Tomáš Garrigue Masaryk,/m/012y66,1850-03-07T00:00:00Z
+Vladimir Lenin,/m/05wh0sh,1870-04-22T00:00:00Z
+Gian-Carlo Rota,/m/0ptrx,1932-04-27T00:00:00Z
+W. D. Ross,/m/063xy9,1877-04-15T00:00:00Z
+William Stern,/m/08nwsy,1871-04-29T00:00:00Z
+Dewi Zephaniah Phillips,/m/05n0f4,1934-11-24T00:00:00Z
+Pierre Abélard,/m/0cf10s,1079-01-01T00:00:00Z
+John of Salisbury,/m/0141x2,
+Eric Voegelin,/m/01b5l3,1901-01-03T00:00:00Z
+Ned Block,/m/0497b7,1942-01-01T00:00:00Z
+Demetrius of Phalerum,/m/01mpqz,-349-01-01T00:00:00Z
+Pier Paolo Pasolini,/m/016hvl,1922-03-05T00:00:00Z
+Vladimir Solovyov,/m/03fh1g,1853-01-16T00:00:00Z
+Sergei Bulgakov,/m/086ntb,1871-07-10T00:00:00Z
+Charles Taylor,/m/01r356,1931-11-05T00:00:00Z
+Murray Rothbard,/m/052h3,1926-03-02T00:00:00Z
+John D. Caputo,/m/02g26j,
+Jacques Ellul,/m/03kk6x,1912-01-06T00:00:00Z
+Hubert Dreyfus,/m/03sy5d,1929-10-15T00:00:00Z
+Alejandro Korn,/m/02qfqq1,1860-05-03T00:00:00Z
+Francisco Romero,/m/08nwfb,
+Philo,/m/01dvk1,-019-01-01T00:00:00Z
+Ananda Coomaraswamy,/m/01q0hh,1877-08-22T00:00:00Z
+Apollonius of Tyana,/m/0hph2,0002-01-01T00:00:00Z
+Simone de Beauvoir,/m/0gsjk,1908-01-09T00:00:00Z
+Karl Christian Friedrich Krause,/m/02vhq5,1781-05-06T00:00:00Z
+Timon of Phlius,/m/04jdvk,-319-01-01T00:00:00Z
+Arcesilaus,/m/016_pz,-314-01-01T00:00:00Z
+Michael Martin,/m/037lh8,1932-02-03T00:00:00Z
+Adam Müller,/m/04nm1q,1779-06-30T00:00:00Z
+Othmar Spann,/m/01_ldd,1878-10-01T00:00:00Z
+Ebn Meskavayh,/m/06h2nt,0932-01-01T00:00:00Z
+Mulla Sadra,/m/050h_6,1571-01-01T00:00:00Z
+Bahāʾ al-dīn al-ʿĀmilī,/m/02z5x42,1547-02-18T00:00:00Z
+Hélène Cixous,/m/016k0j,1937-06-05T00:00:00Z
+Abu'l-Barakāt al-Baghdādī,/m/04mfv7,1080-01-01T00:00:00Z
+Jean Buridan,/m/0176j0,1295-01-01T00:00:00Z
+Bayazid Bastami,/m/04z4gp,0804-01-01T00:00:00Z
+Sidney Hook,/m/04_68r,1902-12-20T00:00:00Z
+C. H. Waddington,/m/04475g,1905-11-08T00:00:00Z
+J. L. Mackie,/m/01jz59,1917-08-25T00:00:00Z
+Henry George,/m/012102,1839-09-02T00:00:00Z
+Murray Bookchin,/m/0142kg,1921-01-14T00:00:00Z
+Menedemus,/m/0172th,
+Mircea Eliade,/m/014c1n,1907-03-13T00:00:00Z
+Hypatia,/m/09kjn,0355-01-01T00:00:00Z
+John Grinder,/m/01h_mc,1940-01-10T00:00:00Z
+Judith Butler,/m/0132q1,1956-02-24T00:00:00Z
+Hermann Ulrici,/m/05ngbs,1806-03-23T00:00:00Z
+Andrew Seth Pringle-Pattison,/m/07srsh,
+Heinrich Ritter,/m/015hq_,
+Stephen Walt,/m/016wkh,1955-07-02T00:00:00Z
+Pierre Teilhard de Chardin,/m/05x3p,1881-05-01T00:00:00Z
+Hans Jonas,/m/02bb9q,1903-05-10T00:00:00Z
+David Bohm,/m/019fz0,1917-12-20T00:00:00Z
+Immanuel Hermann Fichte,/m/0164t2,1796-07-18T00:00:00Z
+Georges Dumézil,/m/05ws0b3,1898-03-04T00:00:00Z
+José Carlos Mariátegui,/m/0573p4,1894-06-14T00:00:00Z
+David A. Kolb,/m/06x0gk,1939-01-01T00:00:00Z
+Simon Critchley,/m/081fjw,1960-02-27T00:00:00Z
+Stanley Cavell,/m/032xn8,1926-09-01T00:00:00Z
+Xavier Zubiri,/m/05tm6j,1898-12-04T00:00:00Z
+Aenesidemus,/m/0182n0,-079-01-01T00:00:00Z
+John Veitch,/m/01d8d4,
+Philo of Larissa,/m/04fhwm,
+Crispin Wright,/m/01s3cb,1942-12-21T00:00:00Z
+Michael Lynch,/m/04yg56q,
+Derek Parfit,/m/0g8nz,1942-12-11T00:00:00Z
+Harry Binswanger,/m/04crx7,
+Abu Zayd al-Balkhi,/m/05xdhf,0850-01-01T00:00:00Z
+William Molyneux,/m/075xjj,1656-04-17T00:00:00Z
+Hegesias of Cyrene,/m/08kysd,-400-01-01T00:00:00Z
+Ibn Hazm,/m/053wp4,0994-01-01T00:00:00Z
+Muhammad Asad,/m/0c26gg,1900-07-02T00:00:00Z
+Carneades,/m/0444t2,-213-01-01T00:00:00Z
+Muhammad Abduh,/m/04bkjb,1849-01-01T00:00:00Z
+André Gorz,/m/080wmb,1923-02-09T00:00:00Z
+Paul de Man,/m/01t22k,1919-12-06T00:00:00Z
+Michel Serres,/m/03bql5,1930-09-01T00:00:00Z
+Al-Jahiz,/m/02zrtw,0775-01-01T00:00:00Z
+Panaetius,/m/05drgf,-184-01-01T00:00:00Z
+Hecato of Rhodes,/m/0542h5,-200-01-01T00:00:00Z
+François Laruelle,/m/0dxk7y,1937-01-01T00:00:00Z
+Emil Fackenheim,/m/04x921,1916-06-22T00:00:00Z
+Serge Moscovici,/m/07y2d4,1925-06-14T00:00:00Z
+Vincent Descombes,/m/05x6x7k,
+Franz Joseph Gall,/m/01t2vw,1758-03-09T00:00:00Z
+Carl Gustav Hempel,/m/04y1p3,1905-01-08T00:00:00Z
+John Earman,/m/04lr3c,1942-03-30T00:00:00Z
+Hans Kelsen,/m/04qf94,1881-10-11T00:00:00Z
+Ahmad Khani,/m/0921vb,1650-01-01T00:00:00Z
+Francis Parker Yockey,/m/01npms,1917-09-18T00:00:00Z
+Richard Kroner,/m/04mm79,1884-01-01T00:00:00Z
+Walter Kaufmann,/m/049x31,1921-07-01T00:00:00Z
+Ivan Soll,/m/04y8krw,
+Ibn al-Nafis,/m/07c7x9,1213-01-01T00:00:00Z
+Al-Tabarani,/m/0ff3r6,0873-01-01T00:00:00Z
+Amin Ahsan Islahi,/m/0fg61h,
+Khalid Masud,/m/027y1k3,
+Don Ihde,/m/05_pnp,
+Antoine Berman,/m/02x5zqg,1942-06-24T00:00:00Z
+Al-Kindi,/m/01nyqc,0801-01-01T00:00:00Z
+Fernando González,/m/043m1pk,
+Estanislao Zuleta,/m/07mnbj,
+Mirza Mazhar Jan-e-Janaan,/m/025w7l3,
+Qadi Thanaullah Panipati,/m/0ksr9j,
+Clarence Irving Lewis,/m/027zvd,1883-04-12T00:00:00Z
+William Frankena,/m/027d7xl,1908-06-21T00:00:00Z
+David Lewis,/m/0232gm,1941-09-28T00:00:00Z
+Robert Brandom,/m/03ktgg,1950-03-13T00:00:00Z
+David Schmidtz,/m/06s6nb,
+Jason Brennan,/m/0q41611,
+Robert B. Pippin,/m/0drs69,
+Rudolf Otto,/m/02qtpj,1869-09-25T00:00:00Z
+Tudor Vianu,/m/03rtm6,1898-01-08T00:00:00Z
+Wilfrid Sellars,/m/01y1jz,1912-05-20T00:00:00Z
+Suzanne Briet,/m/09g7_g2,1894-02-01T00:00:00Z
+Albert Camus,/m/0lcx,1913-11-07T00:00:00Z
+Linda Trinkaus Zagzebski,/m/040s02,1946-01-01T00:00:00Z
+Martha Nussbaum,/m/01y3j6,1947-05-06T00:00:00Z
+Alasdair MacIntyre,/m/02tn3m,1929-01-12T00:00:00Z
+Bernard Williams,/m/02p76c,1929-09-21T00:00:00Z
+Nicolai Hartmann,/m/02j8qr,1882-02-20T00:00:00Z
+Max Scheler,/m/03crz1,1874-08-22T00:00:00Z
+Edward Abramowski,/m/08zg_h,1868-08-17T00:00:00Z
+Dallas Willard,/m/05bkmp,
+Ole Thyssen,/m/0280xhf,
+Jalal ad-Din Muhammad Rumi,/m/0461p,1207-10-14T00:00:00Z
+Sayyad Laal Shah Hamdani,/m/0ch24vc,
+Will Kymlicka,/m/03hnbb,1962-01-01T00:00:00Z
+Edith Penrose,/m/025_075,1914-11-15T00:00:00Z
+Hans Vaihinger,/m/02g_1q,1852-09-25T00:00:00Z
+Rosalind Hursthouse,/m/01rmxv,
+Herbert Marcuse,/m/03l44,1898-07-19T00:00:00Z
+B. R. Ambedkar,/m/01c1y0,1891-04-14T00:00:00Z
+Muhsin al-Hakim,/m/031qjr,1889-01-01T00:00:00Z
+Gerald Cohen,/m/05_3k7,1941-04-14T00:00:00Z
+T. K. Seung,/m/03hngpt,
+David Williams,/m/02vy44p,
+Peter Geach,/m/01s3cq,1916-03-29T00:00:00Z
+Alexandre Koyré,/m/06s3rg,1892-08-29T00:00:00Z
+Abdel Rahman Badawi,/m/0798bj,
+Theodor W. Adorno,/m/07h1q,1903-09-11T00:00:00Z
+Otto Neurath,/m/0d8n_,1882-12-10T00:00:00Z
+John O'Neill,/m/05x1mfc,
+Thomas Kuhn,/m/07lsm,1922-07-18T00:00:00Z
+Takis Fotopoulos,/m/08fq35,1940-10-14T00:00:00Z
+Émile Meyerson,/m/08yfvp,1859-02-12T00:00:00Z
+Ka'ab al-Ahbar,/m/026ht8c,
+Yusuf ibn Abd al-Rahman al-Mizzi,/m/0h47_d,1256-01-01T00:00:00Z
+Ibn Kathir,/m/02bkwx,1300-01-01T00:00:00Z
+Pierre Laffitte,/m/076092,1823-02-21T00:00:00Z
+Ibn Qayyim Al-Jawziyya,/m/05yrms,1292-02-04T00:00:00Z
+Ibn Taymiyyah,/m/01nyrx,1263-01-29T00:00:00Z
+Michael Walzer,/m/035fn3,1935-03-03T00:00:00Z
+Otto Bauer,/m/03j8bg,1881-09-05T00:00:00Z
+Jules de Gaultier,/m/0blrkm,1858-06-02T00:00:00Z
+Shūzō Kuki,/m/019hvw,1888-02-15T00:00:00Z
+Charles Cooley,/m/030zwp,1864-08-17T00:00:00Z
+Strato of Lampsacus,/m/02vn3_,-334-01-01T00:00:00Z
+Miroslav Krleža,/m/01tw26,1893-07-07T00:00:00Z
+Lewis Mumford,/m/01tmnx,1895-10-19T00:00:00Z
+Jon Elia,/m/04gljv,
+Norbert Elias,/m/026gpc,1897-06-22T00:00:00Z
+Juan Vázquez de Mella,/m/0cdwyv,
+Osvaldo Lira,/m/03cj3l1,
+Wolfi Landstreicher,/m/0557ff,
+Ruth Millikan,/m/06f7kk,1933-01-01T00:00:00Z
+Kostas Axelos,/m/0537ph,1924-06-26T00:00:00Z
+Henri Lefebvre,/m/03fg90,1901-06-16T00:00:00Z
+R. G. Collingwood,/m/02dm9c,1889-02-22T00:00:00Z
+Karl Korsch,/m/026vmm,1886-08-15T00:00:00Z
+Quentin Meillassoux,/m/0g_c06,1967-10-26T00:00:00Z
+Graham Priest,/m/09svky,1948-01-01T00:00:00Z
+Stanley Rosen,/m/0gjs7n,
+Crates of Athens,/m/02q3446,-400-01-01T00:00:00Z
+Yevgeny Baratynsky,/m/03jgrc,1800-03-02T00:00:00Z
+José Correia da Serra,/m/02rzw5z,1751-06-05T00:00:00Z
+Johann Georg Sulzer,/m/09bky_,1720-10-05T00:00:00Z
+Émile Boutroux,/m/02cln2,1845-07-28T00:00:00Z
+Nikolay Lossky,/m/0dpx0c,1870-12-06T00:00:00Z
+Titu Maiorescu,/m/02j2j5,1840-02-15T00:00:00Z
+Kazimierz Twardowski,/m/03_3_q,1866-10-20T00:00:00Z
+Roy Johnston,/m/065z_vt,
+Rom Harré,/m/0d32tj,
+Mark Lilla,/m/0270gws,
+John Mearsheimer,/m/03wchs,1947-12-14T00:00:00Z
+David Stove,/m/04j6xh,1927-09-15T00:00:00Z
+Heinrich Rickert,/m/04f7p_,1863-05-25T00:00:00Z
+Maurice Blondel,/m/09cvw6,1861-11-02T00:00:00Z
+Jerzy Żuławski,/m/0f8ft8,1874-07-14T00:00:00Z
+Jonathan Wolff,/m/08hsc0,1959-06-25T00:00:00Z
+Alan Carter,/m/02w9k2f,
+Mykhailo Drahomanov,/m/08ltzx,1841-09-18T00:00:00Z
+David Kelley,/m/03xbp1,
+Nicos Poulantzas,/m/059p_z,1936-09-21T00:00:00Z
+Norman Geisler,/m/05xgmdj,
+Herbert McCabe,/m/06vcfr,
+Brian Davies,/m/0gkgg6,
+Arthur Drews,/m/0dtt8_,1865-11-01T00:00:00Z
+Aristippus the Younger,/m/03cnldp,-400-01-01T00:00:00Z
+Richard Swinburne,/m/01m3q2,1934-12-26T00:00:00Z
+Antony Flew,/m/04tq_d,1923-02-11T00:00:00Z
+Jakob Schegk,/m/0dgq85p,
+Nicolaus Taurellus,/m/05qtch,
+Milan Komar,/m/03hk0hn,
+Homi K. Bhabha,/m/025trc3,1949-01-01T00:00:00Z
+Herbert Feigl,/m/05s0ft,1902-12-14T00:00:00Z
+John Zerzan,/m/0px7f,1943-01-01T00:00:00Z
+Paul Churchland,/m/0dgfzq,1942-10-21T00:00:00Z
+Renata Salecl,/m/0czcgtv,
+Kevin Mulligan,/m/02rs3pv,1951-06-23T00:00:00Z
+José Guilherme Merquior,/m/07ngkz,
+Burhan al-Din al-Marghinani,/m/026xjlz,
+Axel Honneth,/m/073x7n,1949-06-18T00:00:00Z
+Ioan P. Culianu,/m/0598qd,1950-01-05T00:00:00Z
+Mark Lance,/m/0c7xlk,
+Ernest Gellner,/m/01gbkp,1925-12-09T00:00:00Z
+Louis Claude de Saint-Martin,/m/07cg0b,1743-01-18T00:00:00Z
+Al-Hasan ibn 'Ali al-Barbahari,/m/02w1sp6,
+Ibn Battah,/m/0264wfk,
+Arthur Fine,/m/026fjwt,
+Nancy Cartwright,/m/05mpds,1944-01-24T00:00:00Z
+P. F. Strawson,/m/01k94t,1919-11-23T00:00:00Z
+Ted Honderich,/m/03p67y,1933-01-30T00:00:00Z
+Kitaro Nishida,/m/04011l,1870-06-17T00:00:00Z
+Keiji Nishitani,/m/05y6wz2,1900-02-27T00:00:00Z
+Ion Dragoumis,/m/0fvmff,1878-09-02T00:00:00Z
+A. D. Gordon,/m/05rt6f,1856-06-09T00:00:00Z
+Renzo Novatore,/m/08pjyw,1890-05-12T00:00:00Z
+Abdulhakim Arvasi,/m/0cwmr5,1865-01-01T00:00:00Z
+Necip Fazıl Kısakürek,/m/07nh_8,1904-05-26T00:00:00Z
+Norberto Bobbio,/m/04_0vt,1909-10-18T00:00:00Z
+Peter Railton,/m/0d6wzk,1950-05-23T00:00:00Z
+Nihal Atsız,/m/07lcb0,1905-01-12T00:00:00Z
+Tetsuro Watsuji,/m/054hnt,1889-03-01T00:00:00Z
+Karel Kosík,/m/027sywj,1926-06-26T00:00:00Z
+Michel Foucault,/m/0ct9_,1926-10-15T00:00:00Z
+Montesquieu,/m/0f9wd,1689-01-18T00:00:00Z
+Jacques Derrida,/m/0dzkq,1930-07-15T00:00:00Z
+Iris Murdoch,/m/0gdgq,1919-07-15T00:00:00Z
+Archytas,/m/01k8rs,-427-01-01T00:00:00Z
+Eudoxus of Cnidus,/m/0cytr,-407-01-01T00:00:00Z
+Muhammad Tahir,/m/05q40rl,
+Andy Clark,/m/032sry,
+Cleanthes,/m/016_tb,-329-01-01T00:00:00Z
+Chrysippus,/m/0986m,-280-01-01T00:00:00Z
+Lacydes of Cyrene,/m/02ss_v,-300-01-01T00:00:00Z
+Al-Mutanabbi,/m/03pqg1,0915-01-01T00:00:00Z
+Ali ibn al-Madini,/m/0fdv84,0778-01-01T00:00:00Z
+Emil Lask,/m/05p584l,1875-09-25T00:00:00Z
+Alan Soble,/m/08640j,1947-03-04T00:00:00Z
+Leucippus,/m/04k42,-500-01-01T00:00:00Z
+Al-Khazini,/m/02rpzkf,1100-01-01T00:00:00Z
+Knud Ejler Løgstrup,/m/02nkhj,1905-09-02T00:00:00Z
+Bruce Lee,/m/099d4,1940-11-27T00:00:00Z
+William Alston,/m/081l4,1921-11-29T00:00:00Z
+Robert Paul Wolff,/m/032yvb,
+Robert C. Solomon,/m/03w26z,1942-09-14T00:00:00Z
+Louis Michael Seidman,/m/0ds4g6n,
+Peter G. Ossorio,/m/0c41jl_,
+Edith Stein,/m/0bxhd,1891-10-12T00:00:00Z
+Douglas Hofstadter,/m/02fcx,1945-02-15T00:00:00Z
+Empedocles,/m/02lvm,-489-01-01T00:00:00Z
+Ernest Nagel,/m/04j3_z,1901-11-16T00:00:00Z
+Friedrich Hayek,/m/032r1,1899-05-08T00:00:00Z
+Fyodor Dostoyevsky,/m/032l1,1821-11-23T00:00:00Z
+Francis Fukuyama,/m/02_jg,1952-10-27T00:00:00Z
+Theognostus of Alexandria,/m/043sk2n,
+Gregory of Nyssa,/m/09g_z,0335-01-01T00:00:00Z
+Hildegard of Bingen,/m/03kf2,1098-01-01T00:00:00Z
+Ramon Llull,/m/0j3_p,1232-01-01T00:00:00Z
+Raymond Aron,/m/01tw09,1905-03-14T00:00:00Z
+Jürgen Habermas,/m/044wb,1929-06-18T00:00:00Z
+Julia Kristeva,/m/046gs,1941-06-24T00:00:00Z
+William of Ockham,/m/0848q,1288-01-01T00:00:00Z
+John Wycliffe,/m/046f1,1320-01-01T00:00:00Z
+Mikhail Bakhtin,/m/02rxg8,1895-11-17T00:00:00Z
+Gaetano Mosca,/m/09cfqh,1858-04-01T00:00:00Z
+Karl Popper,/m/047g6,1902-07-28T00:00:00Z
+Martin Heidegger,/m/099bk,1889-09-26T00:00:00Z
+Marsilio Ficino,/m/050gd,1433-10-28T00:00:00Z
+"Nicolas de Caritat, marquis de Condorcet",/m/09dyk,1743-09-17T00:00:00Z
+Kurt Gödel,/m/048c2,1906-04-28T00:00:00Z
+Alfred Tarski,/m/0g9m4,1901-01-14T00:00:00Z
+Max Weber,/m/04xm_,1864-04-21T00:00:00Z
+Maurice Merleau-Ponty,/m/04xbh,1908-03-14T00:00:00Z
+Mordecai Kaplan,/m/056d_,1881-06-11T00:00:00Z
+Hazrat Babajan,/m/0cpsbj,
+Meher Baba,/m/057p_,1894-02-25T00:00:00Z
+Upasni Maharaj,/m/0cprqc,
+Oswald Spengler,/m/05nj0,1880-05-29T00:00:00Z
+Taha Hussein,/m/05n4mk,1889-11-14T00:00:00Z
+Peter Singer,/m/05xnb,1946-07-06T00:00:00Z
+Paul Valéry,/m/05vy1,1871-10-30T00:00:00Z
+Pope John Paul II,/m/05yfx,1920-05-18T00:00:00Z
+Josef Pieper,/m/0770h_,1904-01-01T00:00:00Z
+Pherecydes of Syros,/m/03g3d3,-564-01-01T00:00:00Z
+Thales,/m/07dl6,-622-01-01T00:00:00Z
+Robert Anton Wilson,/m/06hgj,1932-01-18T00:00:00Z
+Poul Martin Møller,/m/0193t0,1794-03-21T00:00:00Z
+Robert M. Pirsig,/m/06hkh,1928-09-06T00:00:00Z
+Friedrich Adolf Trendelenburg,/m/04q1q6,1802-11-30T00:00:00Z
+Étienne Gilson,/m/044g6w,1884-06-13T00:00:00Z
+Olaf Stapledon,/m/0ph77,1886-05-10T00:00:00Z
+Umberto Eco,/m/07vw5,1932-01-05T00:00:00Z
+Ted Nelson,/m/07rrt,1937-06-17T00:00:00Z
+Khwaja Shamsuddin Azeemi,/m/0264nkt,
+Vladimir Vernadsky,/m/07zsx,1863-03-24T00:00:00Z
+Himerius,/m/05cdm7,0315-01-01T00:00:00Z
+Zeno of Citium,/m/09863,-332-01-01T00:00:00Z
+Christian Jakob Kraus,/m/0ckcm9,1753-07-27T00:00:00Z
+Joshua Knobe,/m/043qvvf,
+Crates of Thebes,/m/0krkh,-364-01-01T00:00:00Z
+Richard Hönigswald,/m/09hz57,1875-07-18T00:00:00Z
+Aron Gurwitsch,/m/066v4x,1901-01-17T00:00:00Z
+John Austin,/m/03r2d0,1790-03-03T00:00:00Z
+Joseph Raz,/m/07c37_,1939-03-21T00:00:00Z
+Oksana Zabuzhko,/m/027s_gd,1960-09-19T00:00:00Z
+Susan Haack,/m/01vmpn,1945-01-01T00:00:00Z
+Richard Taylor,/m/05y7f05,
+Fethullah Gülen,/m/04pl6c,1941-04-27T00:00:00Z
+Ernest Lepore,/m/02rc14f,
+Bernard Gert,/m/03t2dq,
+Clitomachus,/m/06h032,-186-01-01T00:00:00Z
+Lon L. Fuller,/m/0209h5,1902-06-15T00:00:00Z
+Brian Barry,/m/06q4kd,1936-01-13T00:00:00Z
+Luciano Floridi,/m/0c6g6s,1964-11-16T00:00:00Z
+Kurt Singer,/m/0dttqg,
+Diogenes Allen,/m/05x_nj4,
+François Picavet,/m/0b5j3b,
+Fred Feldman,/m/05x_yml,
+Richard Popkin,/m/04hlxr,1923-12-27T00:00:00Z
+Ernst Bloch,/m/02r76r,1885-07-08T00:00:00Z
+Graham Harman,/m/08fzjv,1968-05-09T00:00:00Z
+Ibn Yunus,/m/03xxhv,0950-01-01T00:00:00Z
+Ch'ien Mu,/m/03nnc3d,1895-07-30T00:00:00Z
+Chris Harman,/m/02vk95,1942-11-08T00:00:00Z
+Héctor-Neri Castañeda,/m/0kt7yn,
+Pierre Hadot,/m/05vdbw9,1922-02-21T00:00:00Z
+Paolo Virno,/m/04jb0c0,1952-01-01T00:00:00Z
+Norman Malcolm,/m/032wb9,1911-06-11T00:00:00Z
+Norbert Bolz,/m/06w9xrt,1953-04-17T00:00:00Z
+Peter Ludlow,/m/08ht64,
+Jason Stanley,/m/0kt8pp,
+Ramchandra Gandhi,/m/02z69ms,
+Nicholas Wolterstorff,/m/0419d0,
+Kendall Walton,/m/06dty2,
+Todd May,/m/03d6htc,
+Muhammad Iqbal,/m/01y58x,1877-11-09T00:00:00Z
+Stephen David Ross,/m/02qcmrd,
+Franz Rosenzweig,/m/01hk6q,1886-12-25T00:00:00Z
+Alain de Benoist,/m/02_r4k,1943-12-11T00:00:00Z
+Bernard Bosanquet,/m/05wj_3m,1848-06-14T00:00:00Z
+Cornel West,/m/02szmg,1953-06-02T00:00:00Z
+Ali Shariati,/m/014_yc,1933-11-23T00:00:00Z
+Helena Blavatsky,/m/016hbf,1831-08-24T00:00:00Z
+John Searle,/m/012ssr,1932-07-31T00:00:00Z
+John Cage,/m/0hgqq,1912-09-05T00:00:00Z
+John McMurtry,/m/01tnn7,
+Jean Vanier,/m/02vznn,1928-09-10T00:00:00Z
+Judea Pearl,/m/033w0f,1936-01-01T00:00:00Z
+Langdon Winner,/m/01q5c5,
+Paul Kurtz,/m/01t5wz,1925-12-21T00:00:00Z
+Ramakrishna,/m/026m9d,1836-02-18T00:00:00Z
+Zygmunt Bauman,/m/0313tv,1925-11-19T00:00:00Z
+William Lane Craig,/m/01tpjh,1949-08-23T00:00:00Z
+Christian Thomasius,/m/01926f,1655-01-01T00:00:00Z
+Peter Lamborn Wilson,/m/0188lg,1945-01-01T00:00:00Z
+Philippe Descola,/m/04053hc,1949-06-19T00:00:00Z
+Claude Lefort,/m/07xsdp,1924-04-21T00:00:00Z
+Laurence A. Rickels,/m/03hn44b,
+Hermann Heller,/m/06s79c,1891-07-17T00:00:00Z
+John Haugeland,/m/01xw_6,
+Jakob Friedrich Fries,/m/018fvk,1773-08-23T00:00:00Z
+Friedrich Eduard Beneke,/m/018ftg,1798-02-17T00:00:00Z
+George Boolos,/m/01y0tp,1940-09-04T00:00:00Z
+Herbert Blumer,/m/05gqhm,1900-03-07T00:00:00Z
+Jerzy Prokopiuk,/m/0gk95f,1931-06-05T00:00:00Z
+Costanzo Preve,/m/0dm0q8,1943-04-14T00:00:00Z
+Eugene Kamenka,/m/08x447,1928-03-04T00:00:00Z
+John Passmore,/m/028950f,
+Edgar Morin,/m/08nqnm,1921-07-08T00:00:00Z
+Pavel Florensky,/m/086p39,1882-01-22T00:00:00Z
+Arda Denkel,/m/0641mj9,
+Shahab al-Din Yahya ibn Habash Suhrawardi,/m/03vjcd,1155-01-01T00:00:00Z
+Ernest Sosa,/m/0brqns,1940-06-17T00:00:00Z
+Isaac Israeli ben Solomon,/m/046bqg,0832-01-01T00:00:00Z
+Christian von Ehrenfels,/m/03ks6s,1859-06-20T00:00:00Z
+Paul Virilio,/m/02xccx,1932-01-04T00:00:00Z
+Emil du Bois-Reymond,/m/01l6f0,1818-11-07T00:00:00Z
+William A. Earle,/m/0dqxxp,
+Peter Suber,/m/01zs6q,1951-11-08T00:00:00Z
+Ghulam Ali Dihlawi,/m/0cmc6ws,
+Roy Bhaskar,/m/02zhkm,1944-05-15T00:00:00Z
+Giovanni Botero,/m/05zf5b,1544-01-01T00:00:00Z
+Fazal Ali Qureshi,/m/0ch34v_,
+Georg Bernhard Bilfinger,/m/06_d9g,1693-01-23T00:00:00Z
+Greg Bahnsen,/m/07js6_,1948-09-17T00:00:00Z
+John Frame,/m/03_cdw,1939-04-08T00:00:00Z
+Kamāl al-Dīn al-Fārisī,/m/05sfk0,1267-01-01T00:00:00Z
+Avital Ronell,/m/05z_ym,1952-04-15T00:00:00Z
+Richard Jeffrey,/m/0bvlrv,
+Yamazaki Ansai,/m/075j34,1619-01-01T00:00:00Z
+Qalandar Baba Auliya,/m/026_mg_,
+Hastings Rashdall,/m/05xd41c,
+Peter Winch,/m/05y3b2z,
+Eugen Relgis,/m/0gh8wl3,1895-05-02T00:00:00Z
+Avempace,/m/02ms38,1080-01-01T00:00:00Z
+Ronald Dworkin,/m/01rbsv,1931-12-11T00:00:00Z
+Jeremy Waldron,/m/05zk3z,
+George Dickie,/m/06z_g7,1926-08-12T00:00:00Z
+Robert S. Corrington,/m/02q7fh6,
+Zaki al-Arsuzi,/m/056508,1900-06-01T00:00:00Z
+Morris Raphael Cohen,/m/036b2v,
+John Rawls,/m/0x3r3,1921-02-21T00:00:00Z
+Pierre Bourdieu,/m/0rls8,1930-08-01T00:00:00Z
+Claude Adrien Helvétius,/m/01bwl8,1715-01-26T00:00:00Z
+Ray Brassier,/m/03hkn8t,
+Giorgio Agamben,/m/01vr7x,1942-04-22T00:00:00Z
+Clinomachus,/m/03h4nt7,
+Edouard Schure,/m/05qdf5x,1841-01-21T00:00:00Z
+Richard Tarnas,/m/0bt2p6,1950-02-21T00:00:00Z
+Ivo Urbančič,/m/04jnb18,
+Jože Pučnik,/m/02vyht2,
+Henri Bourassa,/m/01kp0x,1868-09-01T00:00:00Z
+Northrop Frye,/m/0myp_,1912-07-14T00:00:00Z
+Anthony John Patrick Kenny,/m/01s3b_,1931-03-16T00:00:00Z
+Barry Stroud,/m/03cx883,1935-01-01T00:00:00Z
+Alexandre Kojève,/m/039tyk,1902-04-28T00:00:00Z
+Alexander Bogdanov,/m/060dx2,1873-09-03T00:00:00Z
+Alcmaeon of Croton,/m/06ppv8,-600-01-01T00:00:00Z
+Isaiah Berlin,/m/014nx0,1909-06-06T00:00:00Z
+G. E. M. Anscombe,/m/02tc9g,1919-03-18T00:00:00Z
+Hans Sluga,/m/056jjf,
+Harold Innis,/m/0184tt,1894-11-05T00:00:00Z
+Colin McGinn,/m/02yrjh,1950-03-10T00:00:00Z
+Hippasus,/m/03q0l5,-600-01-01T00:00:00Z
+Asclepiodotus of Alexandria,/m/03d1x7k,0500-01-01T00:00:00Z
+Damascius,/m/014_q_,
+John Gray,/m/041ydw,1948-04-17T00:00:00Z
+John McDowell,/m/01f2rc,1942-03-07T00:00:00Z
+Jean Baudrillard,/m/01hmpq,1929-07-20T00:00:00Z
+Gila Sher,/m/02rhl9k,
+John Etchemendy,/m/0dpsxx,
+Maurice Blanchot,/m/01m29m,1907-09-22T00:00:00Z
+Lucien Goldmann,/m/063l0j,1913-07-20T00:00:00Z
+Keith Lehrer,/m/06zkby,
+Luce Irigaray,/m/02wjfw,1930-05-03T00:00:00Z
+Marinus of Neapolis,/m/01_b_7,0440-01-01T00:00:00Z
+Keith DeRose,/m/02qdjpg,
+Roderick T. Long,/m/06rr91,1964-02-04T00:00:00Z
+Samuel von Pufendorf,/m/01926v,1632-01-08T00:00:00Z
+Peter Hacker,/m/0dhvs7,1939-07-15T00:00:00Z
+Stephen Toulmin,/m/0592mp,1922-03-25T00:00:00Z
+Victor Cousin,/m/017lcv,1792-11-28T00:00:00Z
+Paul Tillich,/m/025hnq,1886-08-20T00:00:00Z
+J. M. E. McTaggart,/m/03c3_v,1866-09-03T00:00:00Z
+Philolaus,/m/01k73v,-469-01-01T00:00:00Z
+Ghulam Bhik Nairang,/m/026q5qq,
+Peter Wessel Zapffe,/m/065xs,1899-12-18T00:00:00Z
+Kurt Grelling,/m/05bp_p,1886-03-02T00:00:00Z
+Walter J. Ong,/m/04btzp,1912-11-30T00:00:00Z
+Hans Reichenbach,/m/059cpt,1891-09-26T00:00:00Z
+William L. Rowe,/m/02qpts6,
+George Croom Robertson,/m/01l6cy,
+Zechariah Chafee,/m/05vq17y,
+Max Frisch,/m/01spn2,1911-05-15T00:00:00Z
+Edgar Quinet,/m/01s8yk,1803-02-17T00:00:00Z
+Michael Dummett,/m/01s3d2,1925-06-27T00:00:00Z
+John Toland,/m/01l8wn,1670-11-30T00:00:00Z
+Tyler Burge,/m/0b9p5k,1946-01-01T00:00:00Z
+David Pearce,/m/01lmjr,
+Nick Bostrom,/m/024r3r,1973-03-10T00:00:00Z
+Mohsen Kadivar,/m/03fdzl,1959-06-07T00:00:00Z
+Metrocles,/m/03pfkf,-400-01-01T00:00:00Z
+Jābir ibn Hayyān,/m/0g_ks,0721-01-01T00:00:00Z
+Richard Boyd,/m/0d58kr,1942-05-19T00:00:00Z
+Socrates,/m/06mrq,-469-01-01T00:00:00Z
+Voltaire,/m/07ym0,1694-11-21T00:00:00Z
+Cicero,/m/01tf5,-106-12-31T00:00:00Z
+Émile Armand,/m/05d5kj,1872-03-26T00:00:00Z
+James Hutchison Stirling,/m/04lhff,1820-01-22T00:00:00Z
+Odo Marquard,/m/05y431s,1928-02-26T00:00:00Z
+Haji Dost Muhammad Qandhari,/m/09gjkl0,
+Muhammad Hamidullah,/m/05yfqc7,1908-02-09T00:00:00Z
+Arthur Prior,/m/05w44s2,1914-12-04T00:00:00Z
+Kit Fine,/m/0b3dmq,
+Jacques Maritain,/m/02t88h,1882-11-18T00:00:00Z
+Diogenes Laërtius,/m/0krmh,0180-01-01T00:00:00Z
+Michael Hardt,/m/02pyjw,1960-01-01T00:00:00Z
+Georg Anton Friedrich Ast,/m/05hbxv,1778-12-29T00:00:00Z
+Peter Achinstein,/m/049_lx,
+Imre Lakatos,/m/09l2q,1922-11-09T00:00:00Z
+Abdolkarim Soroush,/m/04mjx0,1945-12-16T00:00:00Z
+Gayatri Chakravorty Spivak,/m/01t23c,1942-02-24T00:00:00Z
+Edwin Arthur Burtt,/m/076mwy,
+B. W. Powe,/m/0fkb9r,
+André Glucksmann,/m/06fb43,1937-06-19T00:00:00Z
+Anders Chydenius,/m/030cqw,1729-02-26T00:00:00Z
+David Ray Griffin,/m/05zjkz,1939-08-08T00:00:00Z
+Morteza Motahhari,/m/05_n9f,1919-01-31T00:00:00Z
+J. P. Moreland,/m/05t65j,1948-03-09T00:00:00Z
+R. Radhakrishnan,/m/09gkygn,
+Ion Heliade Rădulescu,/m/093130,1802-01-06T00:00:00Z
+Charles Hartshorne,/m/02svrd,1897-06-05T00:00:00Z
+Gajanan Maharaj,/m/05qhyz,
+Pierre Charron,/m/01sjky,1541-01-01T00:00:00Z
+Roberto Mangabeira Unger,/m/056xnr,1947-03-24T00:00:00Z
+Raymond Williams,/m/016ff8,1921-08-31T00:00:00Z
+Svetozar Marković,/m/04y51l,1846-09-09T00:00:00Z
+Israr Ahmed,/m/07s3fm,
+Hunayn ibn Ishaq,/m/0462f6,0808-01-01T00:00:00Z
+Peter van Inwagen,/m/05mn7z,1942-09-21T00:00:00Z
+Muhammad ibn al-Habib,/m/0d60pg,
+Sam Harris,/m/079fgp,1967-04-09T00:00:00Z
+Julián Marías,/m/09k0p4,1914-06-17T00:00:00Z
+John F. X. Knasas,/m/0bqgql,
+Alexander Nehamas,/m/04crlg,
+Mary Daly,/m/032q5v,1928-10-16T00:00:00Z
+John Finnis,/m/06dlgw,1940-07-28T00:00:00Z
+Alex Callinicos,/m/0278g0,1950-07-24T00:00:00Z
+John Perry,/m/07th7w,1943-01-16T00:00:00Z
+Chris Bateman,/m/090yzw,
+Keith Ward,/m/0bmm5j,1938-08-22T00:00:00Z
+Hamid Dabashi,/m/08x12g,1951-06-15T00:00:00Z
+Seyla Benhabib,/m/0bgwxt,1950-09-09T00:00:00Z
+Timothy Sprigge,/m/02r4v1,
+Olavo de Carvalho,/m/022kp6,1947-04-29T00:00:00Z
+Walter Charleton,/m/03xsmt,1619-02-02T00:00:00Z
+Brand Blanshard,/m/02qxnk,1892-08-27T00:00:00Z
+Sibawayh,/m/03p08g,0760-01-01T00:00:00Z
+Eugen Dühring,/m/042t1y,1833-01-12T00:00:00Z
+Michael Otsuka,/m/0b1jdy,
+Michel Henry,/m/05hr60,1922-01-10T00:00:00Z
+Sufyan al-Thawri,/m/0d6z20,0716-01-01T00:00:00Z
+I. A. Richards,/m/028ws7,1893-02-26T00:00:00Z
+Kenneth E. Boulding,/m/0322cj,1910-01-18T00:00:00Z
+Wolfgang Smith,/m/02rxdfx,1930-01-01T00:00:00Z
+Christine Korsgaard,/m/01bqsn,1952-01-01T00:00:00Z
+Stanisław Leśniewski,/m/026lh8,1886-03-30T00:00:00Z
+Mark Bevir,/m/0279f24,
+Charles Sanders Peirce,/m/01ty4,1839-09-10T00:00:00Z
+Susanne Katherina Langer,/m/0771w3,1895-12-20T00:00:00Z
+Richard Cumberland,/m/02mzdw,1631-07-15T00:00:00Z
+Wilbur Marshall Urban,/m/02vx_jf,
+Eubulides,/m/02pvg,-500-01-01T00:00:00Z
+Bell Hooks,/m/01cj42,1952-09-25T00:00:00Z
+Fakhr ad-Din ar-Razi,/m/01w6t8,1149-01-01T00:00:00Z
+Iamblichus,/m/036n69,0250-01-01T00:00:00Z
+Aedesius,/m/0_r4,
+Speusippus,/m/02whph,-407-01-01T00:00:00Z
+Xenocrates,/m/0172r1,-395-01-01T00:00:00Z
+Syed Ahmad Khan,/m/02g7z5,1817-10-17T00:00:00Z
+Walter Benjamin,/m/01h2_6,1892-07-15T00:00:00Z
+Florian Znaniecki,/m/042ng8,1882-01-15T00:00:00Z
+Jin Yuelin,/m/0dnx5t,1895-01-01T00:00:00Z
+Hao Wang,/m/0424j5,1921-05-20T00:00:00Z
+Norman O. Brown,/m/04x9n7,1913-09-25T00:00:00Z
+R. M. Hare,/m/01kblf,1919-03-12T00:00:00Z
+Albert of Saxony,/m/03hd6x,1316-01-01T00:00:00Z
+John Lachs,/m/05xvc__,
+Daniel Ross,/m/0h1pwy,
+José Gaos,/m/09f2t6,1900-12-26T00:00:00Z
+Thomas Pangle,/m/08kbhg,
+Tara Smith,/m/0b49cd,
+Ignacio Ellacuría,/m/02sgkx,1930-11-09T00:00:00Z
+James Franklin,/m/02qltkl,
+Keith Donnellan,/m/0byc9d,1931-01-01T00:00:00Z
+Chantal Mouffe,/m/02xrbf,1943-06-17T00:00:00Z
+Ullin Place,/m/0c04ph,1924-10-24T00:00:00Z
+Helen Longino,/m/0dh3jf,
+Philipp Mainländer,/m/02y5yw,1841-01-01T00:00:00Z
+Al-Ghazali,/m/012prf,1058-01-01T00:00:00Z
+Vladimir Lossky,/m/09ypp7,1903-06-21T00:00:00Z
+Alexandru Dimitrie Xenopol,/m/09qwv6,1847-03-23T00:00:00Z
+Nahum Norbert Glatzer,/m/0gkwn1,1903-03-25T00:00:00Z
+Mihai Ralea,/m/0wqxy66,
+B. F. Skinner,/m/01jv4,1904-03-20T00:00:00Z
+A.J. Ayer,/m/0w2w,1910-10-29T00:00:00Z
+Alan Turing,/m/0n00,1912-06-23T00:00:00Z
+Nicarete of Megara,/m/03m5qqz,
+Albert Schweitzer,/m/05vwxf7,1875-01-14T00:00:00Z
+Avicenna,/m/0m93,0980-08-26T00:00:00Z
+Abraham Joshua Heschel,/m/011qh,1907-01-11T00:00:00Z
+Alain de Lille,/m/0q60,1120-01-01T00:00:00Z
+Amalric of Bena,/m/0ryy,1200-01-01T00:00:00Z
+Theodorus the Atheist,/m/03cjtjh,-339-01-01T00:00:00Z
+Ammonius Hermiae,/m/0skf,0440-01-01T00:00:00Z
+Anaximander,/m/0mm8,-609-01-01T00:00:00Z
+Anaximenes of Miletus,/m/0sst,-585-01-01T00:00:00Z
+C. D. Broad,/m/05wvm8h,1887-12-30T00:00:00Z
+Daniel Dennett,/m/02fc2,1942-03-28T00:00:00Z
+Eric Hoffer,/m/02lzx,1902-07-25T00:00:00Z
+Robert Nozick,/m/06k0y,1938-11-16T00:00:00Z
+Charles Malik,/m/0h2vxk,1906-01-01T00:00:00Z
+Ervin László,/m/077pvj,1932-06-12T00:00:00Z
+F. S. C. Northrop,/m/09035_,
+Isabelle Stengers,/m/027t2kg,1949-01-01T00:00:00Z
+Jules Vuillemin,/m/03hp457,
+Paul Weiss,/m/05y90yc,
+Thomas Jay Oord,/m/0b1rdg,
+Emil Cioran,/m/01l8_n,1911-04-08T00:00:00Z
+Carl Friedrich von Weizsäcker,/m/04rl4x,1912-06-28T00:00:00Z
+Dagfinn Føllesdal,/m/0f934y,1932-06-22T00:00:00Z
+Boetius of Dacia,/m/0bdh31,1300-01-01T00:00:00Z
+Edward Westermarck,/m/05wm9_b,1862-11-20T00:00:00Z
+Étienne Souriau,/m/06zl5yn,1892-04-26T00:00:00Z
+Louis Rougier,/m/0g1vg0,1889-04-10T00:00:00Z
+Jean-François Lyotard,/m/01k3dv,1924-08-10T00:00:00Z
+Jyotirao Phule,/m/030jtz,
+Moncure D. Conway,/m/01h39m,
+Jiva Goswami,/m/098xl_,1511-01-01T00:00:00Z
+Nancey Murphy,/m/0cpz00,
+Gilbert Harman,/m/05mdm2,1938-01-01T00:00:00Z
+Hipparchia of Maroneia,/m/0cg0d2,
+John Selden,/m/01c0ss,1584-12-16T00:00:00Z
+William Thompson,/m/05kd5z,1775-06-30T00:00:00Z
+Gerardus Heymans,/m/01cwy0,1857-04-17T00:00:00Z
+Randall Collins,/m/0c0zs7,1941-01-01T00:00:00Z
+Mario Bunge,/m/01ckmh,1919-09-21T00:00:00Z
+Émile Littré,/m/01cd1v,1801-02-01T00:00:00Z
+Harriet Martineau,/m/01fbhx,1802-06-12T00:00:00Z
+Siger of Brabant,/m/01bwwr,1240-01-01T00:00:00Z
+Sri Aurobindo,/m/01gwlg,1872-08-15T00:00:00Z
+Pierre Leroux,/m/01f3pm,1797-04-07T00:00:00Z
+Mozi,/m/01by94,-469-01-01T00:00:00Z
+Harry Frankfurt,/m/04rxxy,1929-05-29T00:00:00Z
+Susan R. Wolf,/m/019ts_,
+Nicholas Roerich,/m/01fpf6,1874-10-09T00:00:00Z
+P. D. Ouspensky,/m/01fjj4,1878-03-04T00:00:00Z
+Petar II Petrović-Njegoš,/m/01hlpc,1813-11-13T00:00:00Z
+Grace Ji-Sun Kim,/m/0h680xz,
+Ernst Mally,/m/0644qk,
+Edward N. Zalta,/m/07lr3z,
+David Malet Armstrong,/m/06mn3v,1926-07-08T00:00:00Z
+John Elof Boodin,/m/067m79,
+Jaegwon Kim,/m/07dkzy,1934-09-12T00:00:00Z
+Al-Dhahabi,/m/063cnf,1274-01-01T00:00:00Z
+Harold Arthur Prichard,/m/06r3tg,1871-01-01T00:00:00Z
+H. H. Price,/m/086z4h,1899-05-17T00:00:00Z
+George H. Smith,/m/05v3k3,1949-02-10T00:00:00Z
+Patrick Suppes,/m/0cps10,1922-03-17T00:00:00Z
+Larry Laudan,/m/026r115,1941-10-16T00:00:00Z
+Ibn Rajab,/m/0ckcfr,1335-01-01T00:00:00Z
+Tzvetan Todorov,/m/05xb11l,1939-03-01T00:00:00Z
+David Abram,/m/03crhvv,1957-06-24T00:00:00Z
+Eugene Gendlin,/m/060wmv,1926-12-25T00:00:00Z
+Peter D. Klein,/m/04stz6,
+Dean Zimmerman,/m/05sy02k,
+Anniceris,/m/07r3vt,-400-01-01T00:00:00Z
+Jacques Bouveresse,/m/025zjj4,1940-08-20T00:00:00Z
+Freya Mathews,/m/05xrtv2,
+Abd al-Rahim ibn al-Husain al-'Iraqi,/m/0c26rk,
+R. A. W. Rhodes,/m/0by0lp_,
+Terence Parsons,/m/025vyxy,
+Hans Joas,/m/0g5dlb,1948-11-27T00:00:00Z
+Angela Davis,/m/0cz_y,1944-01-26T00:00:00Z
+Carlo Penco,/m/0bd2cq,
+Timothy Williamson,/m/08nh_k,1955-06-08T00:00:00Z
+John Hawthorne,/m/02pl9qb,
+Nur ad-Din al-Bitruji,/m/086mb7,1200-01-01T00:00:00Z
+Kenneth Binmore,/m/09rhsl,1940-09-27T00:00:00Z
+Alexander Piatigorsky,/m/0b81xv,1929-01-30T00:00:00Z
+Amartya Sen,/m/0djqc,1933-11-03T00:00:00Z
+Antonio Gramsci,/m/0fkyd,1891-01-22T00:00:00Z
+Bob Black,/m/0ffzr,1951-01-04T00:00:00Z
+Kuno Fischer,/m/01b5j7,1824-07-23T00:00:00Z
+Gottlob Frege,/m/0cz35,1848-11-08T00:00:00Z
+Emmanuel Levinas,/m/0mj3d,1906-01-12T00:00:00Z
+Dayananda Saraswati,/m/0cdf6,1824-02-12T00:00:00Z
+Jean Piaget,/m/0nkt0,1896-08-09T00:00:00Z
+Jeremy Bentham,/m/0cgwf,1748-02-15T00:00:00Z
+Paul Feyerabend,/m/0g7kc,1924-01-13T00:00:00Z
+Rudolf Carnap,/m/0fx12,1891-05-18T00:00:00Z
+Saul Kripke,/m/0cwlg,1940-11-13T00:00:00Z
+Nikos Kazantzakis,/m/0dkjj,1883-02-18T00:00:00Z
+Raymond Smullyan,/m/0fmgf,1919-05-25T00:00:00Z
+Sarvepalli Radhakrishnan,/m/0cdc_,1888-09-05T00:00:00Z
+Muhammad ibn Zakariya al-Razi,/m/0kfmt,0864-01-01T00:00:00Z
+Robert Grosseteste,/m/0nfsf,1175-01-01T00:00:00Z
+Pietro d'Abano,/m/0kzf8,1250-01-01T00:00:00Z
+W. E. B. Du Bois,/m/0mddq,1868-02-23T00:00:00Z
+Richard Rorty,/m/01d494,1931-10-04T00:00:00Z
+George Trumbull Ladd,/m/074p1v,1842-01-19T00:00:00Z
+Antisthenes,/m/0p765,-443-01-01T00:00:00Z
+Francisco Varela,/m/0k6q5,1946-09-07T00:00:00Z
+Auberon Herbert,/m/027yvp,1838-06-18T00:00:00Z
+Carlos Vaz Ferreira,/m/02r5t9d,1872-10-15T00:00:00Z
+Sphaerus,/m/03c1ryc,
+Sachal Sarmast,/m/09d2z6,1739-01-01T00:00:00Z
+Muhammad Husayn Tabataba'i,/m/050hw4,1892-01-01T00:00:00Z
+Daisaku Ikeda,/m/02qg44,
+Judith Jarvis Thomson,/m/06r376,1929-10-04T00:00:00Z
+Charles Secrétan,/m/037n4p,1815-01-19T00:00:00Z
+Michael J. Sandel,/m/02s4tw,1953-03-05T00:00:00Z
+Henry Corbin,/m/05x14p_,
+Lucian Blaga,/m/02rrmy,1895-05-09T00:00:00Z
+Hermann Cohen,/m/02mnz5,1842-07-04T00:00:00Z
+Hayden White,/m/04dfr2,1928-07-12T00:00:00Z
+Walter of Bruges,/m/04yffp8,
+Matthew of Aquasparta,/m/02pjsvg,1240-01-01T00:00:00Z
+Brian J. Mistler,/m/0267_dt,
+Marcel Gauchet,/m/05vfl6f,1946-01-01T00:00:00Z
+Yin Haiguang,/m/0_1lq2b,
+Yi Hwang,/m/01y8hx,1501-01-01T00:00:00Z
+Edward Abbey,/m/01_wkb,1927-01-29T00:00:00Z
+Robert Audi,/m/0cp500,1941-01-01T00:00:00Z
+Ľudovít Štúr,/m/01yyzl,1815-10-28T00:00:00Z
+José Ingenieros,/m/0cr6by,1877-04-24T00:00:00Z
+Al-Maʿarri,/m/06c81y,0973-01-01T00:00:00Z
+Allan Gotthelf,/m/0274p57,
+Sean Dorrance Kelly,/m/0gds1lv,
+Gonzalo Arango,/m/0502vn,
+Elisabeth Lloyd,/m/02773xc,
+Gala Galaction,/m/0cqb8t,1879-04-16T00:00:00Z
+María Zambrano,/m/026z7xj,1904-04-22T00:00:00Z
+J. David Velleman,/m/03c9w8s,
+John William Miller,/m/027qq0r,
+Semyon Frank,/m/027dxvc,1877-01-28T00:00:00Z
+Ágnes Heller,/m/06s96n,1929-05-12T00:00:00Z
+Stephen Yablo,/m/047lyk_,
+Theophrastus,/m/0p7fb,-370-01-01T00:00:00Z
+Plotinus,/m/09kw9,0203-01-01T00:00:00Z
+Confucius,/m/01rll,-549-09-16T00:00:00Z
+Georges Ivanovitch Gurdjieff,/m/01whq3q,
+Mencius,/m/01b_fn,-371-01-01T00:00:00Z
+Shibli Nomani,/m/05lsw2,1857-06-03T00:00:00Z
+Miguel de Unamuno,/m/017cgg,1864-09-29T00:00:00Z
+"Oliver Wendell Holmes, Jr.",/m/02knb_,1841-03-08T00:00:00Z
+Boethius,/m/01bt14,0480-01-01T00:00:00Z
+Robert Cummings Neville,/m/02r67sf,1939-05-01T00:00:00Z
+Simon Blackburn,/m/028xtj,1944-07-12T00:00:00Z
+Gordon Clark,/m/03z40r,1902-08-31T00:00:00Z
+Polemon,/m/02pqkyp,-400-01-01T00:00:00Z
+Porphyry,/m/03clpz,0233-01-01T00:00:00Z
+Diogenes of Sinope,/m/01j107,-410-01-01T00:00:00Z
+Charles Blount,/m/08bkvk,1654-04-27T00:00:00Z
+Hierocles of Alexandria,/m/0ksrk,0500-01-01T00:00:00Z
+George Grant,/m/02nb6t,
+Gareth Evans,/m/0396px,1946-05-12T00:00:00Z
+Saadi Shirazi,/m/025xvp9,1203-01-01T00:00:00Z
+Zhuang Zhou,/m/0164zy,-364-01-01T00:00:00Z
+Crantor,/m/016_s1,-400-01-01T00:00:00Z
+Lawrence Kohlberg,/m/0169yd,1927-10-25T00:00:00Z
+Gershom Carmichael,/m/01d2mn,
+Michael Oakeshott,/m/022j_j,1901-12-11T00:00:00Z
+Dariush Shayegan,/m/04dmhm,1935-02-02T00:00:00Z
+Abul A'la Maududi,/m/03ymgq,1903-09-25T00:00:00Z
+Sayyid Qutb,/m/02v15j,1906-10-09T00:00:00Z
+John P. Burgess,/m/080b7c9,
+James F. Conant,/m/08w834,1958-06-10T00:00:00Z
+Abdullah Yusuf Azzam,/m/03xcfc,1941-01-01T00:00:00Z
+Laurence BonJour,/m/05f2q7,1943-08-31T00:00:00Z
+"Anthony Ashley-Cooper, 3rd Earl of Shaftesbury",/m/02rpkj,1671-02-26T00:00:00Z
+William Christian,/m/09dj64,
+Peter K. Unger,/m/046h74,1942-04-25T00:00:00Z
+Helena Roerich,/m/041mry,1879-02-12T00:00:00Z
+Ata ibn Abi Rabah,/m/0h25f0,
+Ibn Jurayj,/m/0h1vfb,
+Sandra Laugier,/m/02rs23y,1961-01-01T00:00:00Z
+Edward John Carnell,/m/07kfmr,
+Stephen Neale,/m/0b8n7z,1958-01-09T00:00:00Z
+Ibn Hajar Al-Asqalani,/m/08sl4n,1372-02-18T00:00:00Z
+Laozi,/m/0h9wp,-603-01-01T00:00:00Z
+Eusebius,/m/02rv0,0265-01-01T00:00:00Z
+George Campbell,/m/08js7h,
+Ahmad Sirhindi,/m/07fl2y,1562-01-01T00:00:00Z
+Dan Goldstick,/m/056cvn,
+Tajuddin Muhammad Badruddin,/m/03d5h8j,
+Muhammad al-Tijani,/m/08wh5l,1943-02-02T00:00:00Z
+Tariq Ramadan,/m/02sgnh,1962-08-26T00:00:00Z
+Thomas Nagel,/m/01bcs9,1937-07-04T00:00:00Z
+Hamka,/m/02q8_l_,1908-02-17T00:00:00Z
+Rainer Forst,/m/0g7ycg,
+Raël,/m/02cwgr,1946-09-30T00:00:00Z
+Hossein Nasr,/m/0191kj,1933-04-07T00:00:00Z
+M. N. Roy,/m/044kw0,1887-03-21T00:00:00Z
+Allan Gibbard,/m/0c3ykv,
+Husain Ahmad Madani,/m/0d4qjk,
+Nick Land,/m/05zj9rr,
+Hisham ibn Urwah,/m/08mq84,0680-01-01T00:00:00Z
+Anthony Collins,/m/019vb0,1676-06-21T00:00:00Z
+Ronald H. Nash,/m/0_yk05s,
+George Hourani,/m/05wd3lc,
+Javed Ahmad Ghamidi,/m/098f5y,
+Paul Watzlawick,/m/03_7q3,1921-07-25T00:00:00Z
+John E. Hare,/m/05y4x3y,
+Hassan al-Banna,/m/025rvz6,1906-10-14T00:00:00Z
+Maria Montessori,/m/0gp7h9,1870-08-31T00:00:00Z
+Spencer Heath,/m/0b8rbc,
+Cora Diamond,/m/08w5gg,1937-10-30T00:00:00Z
+Cesare Cremonini,/m/0285zb1,1550-12-22T00:00:00Z
+Stephen Mulhall,/m/02wx56q,
+Matt Cohen,/m/05knrh,
+Gershom Scholem,/m/04lqww,1897-12-05T00:00:00Z
+Alexander of Aphrodisias,/m/0rc_,0200-01-01T00:00:00Z
+Albertus Magnus,/m/0r24,1193-01-01T00:00:00Z
+Homer,/m/03k0n,
+Herman Dooyeweerd,/m/01c4z1,1894-10-07T00:00:00Z
+Jun Tsuji,/m/0126cl,
+Lewis Call,/m/03mb_f9,
+Richard David Precht,/m/05szj4q,1964-12-08T00:00:00Z
+Bonaventure,/m/0nlm4,1217-01-01T00:00:00Z
+Jonathan Edwards,/m/0dpv5,1703-10-05T00:00:00Z
+Simplicius of Cilicia,/m/0ktfp,0490-01-01T00:00:00Z
+Paul Guyer,/m/05xvg_x,
+Muhammad Mustafa Jauhar,/m/065yt05,
+E. H. Carr,/m/032hxd,1892-06-28T00:00:00Z
+William Kingdon Clifford,/m/01l6p5,1845-05-04T00:00:00Z
+Fernando Savater,/m/04sh3l,1947-06-21T00:00:00Z
+Erin Manning,/m/0g595wd,
+Archimedes,/m/0tnc,-286-01-01T00:00:00Z
+David the Invincible,/m/09h2_9,0600-01-01T00:00:00Z
+Barry Smith,/m/085m0s,1952-06-04T00:00:00Z
+Joseph Owens,/m/05w61m3,
+Leonardo Polo,/m/09nz9w,1926-02-01T00:00:00Z
+Mortimer J. Adler,/m/04xm3,1902-12-28T00:00:00Z
+İoanna Kuçuradi,/m/04zxwjf,
+Roberto Torretti,/m/05mxmd_,
+Justin Oakley,/m/02z4y2f,
+Nel Noddings,/m/0h7d52,1929-01-19T00:00:00Z
+Peter Kreeft,/m/05j9pp,1937-01-01T00:00:00Z
+Dimitris Liantinis,/m/04jl6x1,1942-07-23T00:00:00Z
+Hector Zagal,/m/03cdnjv,
+Boris Groys,/m/0584959,1947-03-19T00:00:00Z
+Nicole Oresme,/m/02tfcy,1322-01-01T00:00:00Z
+Agustín García Calvo,/m/033610,1926-10-15T00:00:00Z
+Clément Rosset,/m/027jnch,1939-10-12T00:00:00Z
+Bryan Magee,/m/05wb1x2,1930-04-12T00:00:00Z
+John Hick,/m/0530xz,1922-01-20T00:00:00Z
+Tibor R. Machan,/m/05zwfc,1939-03-18T00:00:00Z
+Leonard Read,/m/03rmkl,1898-09-26T00:00:00Z
+Liu Junning,/m/0bbzjt6,
+Julius Thomas Fraser,/m/05vy815,
+Errol Harris,/m/02q_ls7,
+Stephen Mumford,/m/02q_n2w,
+Walter Terence Stace,/m/026jz1p,1886-11-17T00:00:00Z
+Michael Tye,/m/02vpy2g,2000-01-01T00:00:00Z
+François Noudelmann,/m/0g544j3,
+Kiarina Kordela,/m/0c3tdp1,
+Douglas Groothuis,/m/0gktc7,
+David Blitz,/m/09cby_,
+Carl von Clausewitz,/m/01tlc,1780-06-01T00:00:00Z
+Neven Sesardić,/m/0g_yqp,
+Patricia Churchland,/m/026zkz,1943-07-16T00:00:00Z
+Charles Stevenson,/m/02zbnb,1908-06-27T00:00:00Z
+Theodore Drange,/m/02qhmv1,1934-01-01T00:00:00Z
+Annette Baier,/m/06f7tm,
+Emanuel Swedenborg,/m/01gnng,1688-01-29T00:00:00Z
+Eino Kaila,/m/04q6dy,1890-08-09T00:00:00Z
+Ernest Renan,/m/01b728,1823-02-27T00:00:00Z
+Villy Sørensen,/m/0kt77f,1929-01-13T00:00:00Z
+Sarah Kofman,/m/05ycp70,1934-09-14T00:00:00Z
+Simon Glendinning,/m/0bx_jtr,
+Raymond Geuss,/m/037y6m,
+Raya Dunayevskaya,/m/03t30h,1910-05-01T00:00:00Z
+Susan Buck-Morss,/m/0fqq7rt,
+Lorenzo Peña,/m/05zmz4t,
+Albert Hofstadter,/m/0by0jgt,
+Joseph Margolis,/m/02pwhtk,
+Kwame Anthony Appiah,/m/0457hc,1954-05-08T00:00:00Z
+George Henry Lewes,/m/01fbnv,1817-04-18T00:00:00Z
+Friedrich Wilhelm Foerster,/m/0jt3gbw,1869-06-02T00:00:00Z
+Thomas Pogge,/m/04f48r,1953-08-13T00:00:00Z
+Rudolf Eisler,/m/0km47s6,
+John Theophilus Desaguliers,/m/0561kv,1683-03-12T00:00:00Z
+Jiddu Krishnamurti,/m/018fkc,1895-05-12T00:00:00Z
+Martial Gueroult,/m/02z7_94,1891-12-15T00:00:00Z
+John Armstrong,/m/05xwg99,
+Craig Bartholomew,/m/09gh31z,
+Richard Aaron,/m/0f95jx,
+José de Espronceda,/m/033nbj,1808-03-25T00:00:00Z
+Alexander Tarasov,/m/04d_r8_,1958-03-08T00:00:00Z
+Benny Lévy,/m/08hm54,1945-08-28T00:00:00Z
+Ivan Sviták,/m/05z_cs5,1925-10-10T00:00:00Z
+Debiprasad Chattopadhyaya,/m/05y4rj5,
+Adam Schaff,/m/05x569s,1913-03-10T00:00:00Z
+Ludvig Holberg,/m/01375h,1684-12-03T00:00:00Z
+Pascal Engel,/m/02rs270,1954-01-17T00:00:00Z
+Rose Rand,/m/02rl77l,
+Ian Hacking,/m/01vrsw,1936-02-18T00:00:00Z
+Giovanni Piana,/m/0ktdmp,
+C. J. F. Williams,/m/0gkywxy,
+Sissela Bok,/m/026cvrn,
+Jorge Ángel Livraga Rizzi,/m/070f7q,1930-09-03T00:00:00Z
+John Daniel Wild,/m/02x1yvj,
+Albert Rivaud,/m/02z89x_,
+Jean-Luc Marion,/m/099ldv,1946-07-03T00:00:00Z
+Bernard Le Bovier de Fontenelle,/m/015_bs,1657-02-11T00:00:00Z
+Bracha L. Ettinger,/m/03c_bkb,
+Sun Tzu,/m/0dnb6,-542-01-01T00:00:00Z
+Theodor Lipps,/m/08kwss,1851-07-28T00:00:00Z
+John Haldane,/m/05vchph,
+Walker Percy,/m/0fsqq,1916-05-28T00:00:00Z
+James Francis Ross,/m/0cmc3jn,
+Jan Narveson,/m/013xnw,
+James M. Edie,/m/02ww0dj,
+Zenon Pylyshyn,/m/0kt182,1937-08-25T00:00:00Z
+Peter Carruthers,/m/03qjdbp,
+Abu'l-Fida,/m/064l_vn,1273-01-01T00:00:00Z
+Abu al-Hasan al-Ash'ari,/m/0629m9,0873-01-01T00:00:00Z
+Ahmad ibn Muhammad Al-Tahawi,/m/0h18mm,0843-01-01T00:00:00Z
+Ali al-Qari,/m/0ktdhh,
+Abu Yusuf,/m/0d3064,0731-01-01T00:00:00Z
+Han Yu,/m/026cz1,0768-01-01T00:00:00Z
+Henrik Steffens,/m/025dsl,1773-05-02T00:00:00Z
+Max Müller,/m/02qrf2x,
+Jean Hyppolite,/m/03dnnj,1907-01-08T00:00:00Z
+Ferdinand Alquié,/m/092fzy,1906-12-18T00:00:00Z
+Gary Chartier,/m/07kd_41,
+Arthur Koestler,/m/0j2v,1905-09-05T00:00:00Z
+René Girard,/m/04vf6k,1923-12-25T00:00:00Z
+Cornelius Jansen,/m/01bbgf,1585-10-28T00:00:00Z
+Agrippa the Skeptic,/m/06pp44,0100-01-01T00:00:00Z
+Erhard Weigel,/m/0c8w9g,1625-12-16T00:00:00Z
+Gaius Musonius Rufus,/m/015hnk,0025-01-01T00:00:00Z
+Henri-Frédéric Amiel,/m/037n6y,1821-09-27T00:00:00Z
+Apollodorus the Epicurean,/m/03cndqv,
+Eoin Ó Broin,/m/02r7yrq,
+Hermann Samuel Reimarus,/m/0187yz,1694-12-22T00:00:00Z
+Jan Standonck,/m/0fm71g,1454-01-01T00:00:00Z
+Johann Georg Heinrich Feder,/m/02ww0gl,1740-05-15T00:00:00Z
+D. T. Suzuki,/m/036fy1,1870-10-18T00:00:00Z
+Gary Habermas,/m/0767lx,1950-06-28T00:00:00Z
+Frederick James Eugene Woodbridge,/m/08nx7t,
+Anselm of Canterbury,/m/0xlc,1033-01-01T00:00:00Z
+Rosa Luxemburg,/m/017ft0,1871-03-05T00:00:00Z
+James Bugental,/m/027f4w0,
+Antipater of Tarsus,/m/02pmd4w,-300-01-01T00:00:00Z
+Evert Willem Beth,/m/06s3mm,1908-07-07T00:00:00Z
+Hans Kamp,/m/0416x7z,1940-09-05T00:00:00Z
+Adam of Dryburgh,/m/0285xj_,1140-01-01T00:00:00Z
+Tommaso Palamidessi,/m/02r6dnb,1915-02-16T00:00:00Z
+Thomas Brown,/m/01h8p3,1778-01-09T00:00:00Z
+Paul Grice,/m/01xf_n,1913-03-13T00:00:00Z
+Cas Wouters,/m/0c40gq_,
+Marilyn Frye,/m/0b3qlb,
+Nahmanides,/m/014bzk,1194-01-01T00:00:00Z
+Mario Javier Saban,/m/05mxfcg,1966-02-12T00:00:00Z
+Jaime Balmes,/m/012_zp,1810-08-28T00:00:00Z
+Julius Caesar Scaliger,/m/0161ks,1484-05-02T00:00:00Z
+Syed Faiz-ul Hassan Shah,/m/03cz4qf,
+Casimir Lewy,/m/0287flv,
+Hermann Blumenau,/m/05kj7p,1819-12-26T00:00:00Z
+Gotthard Günther,/m/02qnt8,1900-06-15T00:00:00Z
+Konstantin Leontiev,/m/07gg_5,1831-01-25T00:00:00Z
+T. M. Scanlon,/m/0b8m23,
+Aleksei Losev,/m/081pm9,1893-09-23T00:00:00Z
+Gustav Teichmüller,/m/0f533l,1832-11-19T00:00:00Z
+Mary Ainsworth,/m/0bd_k4,1913-12-01T00:00:00Z
+Isaac Levi,/m/027sv04,
+Eduardo Nicol,/m/0d_w6m,
+Gu Zhun,/m/09rbyw,
+Daniel Raymond,/m/051vhm,
+Al-Raghib al-Isfahani,/m/026nxlm,
+Constantin Noica,/m/05l737,1909-07-12T00:00:00Z
+Gilles Lipovetsky,/m/02vvxxm,1944-09-24T00:00:00Z
+Malek Bennabi,/m/0dq7ys,1905-01-01T00:00:00Z
+Jawdat Said,/m/026gwhx,1931-02-09T00:00:00Z
+Harold Joachim,/m/07_6j4,1868-05-28T00:00:00Z
+Ludwig Klages,/m/08ctmb,1872-12-10T00:00:00Z
+Étienne Balibar,/m/034w02,1942-04-23T00:00:00Z
+Jakob Thomasius,/m/0286pw3,1622-08-27T00:00:00Z
+G. M. Syed,/m/0f7xfz,
+U. G. Krishnamurti,/m/02dc11,1918-07-09T00:00:00Z
+Adi Shankara,/m/019fqd,0788-01-01T00:00:00Z
+Humberto Maturana,/m/02gscz,1928-09-14T00:00:00Z
+William Leiss,/m/0b564w,
+Charles Parsons,/m/05zlz4,
+Antoine Destutt de Tracy,/m/01bzb8,1754-07-20T00:00:00Z
+Günther Anders,/m/0gvlhj,1902-07-12T00:00:00Z
+Henri Wallon,/m/026yrww,1879-06-15T00:00:00Z
+Tan Sitong,/m/06m89w,1865-03-10T00:00:00Z
+Richard Montague,/m/02w79t,1930-09-20T00:00:00Z
+Wolfgang Stegmüller,/m/026j0fd,1923-06-03T00:00:00Z
+Kurt Rudolf Fischer,/m/02pp5w7,
+Volker Zotz,/m/026tx97,1956-10-28T00:00:00Z
+Mir Tanha Yousafi,/m/03c3_1h,
+David Kaplan,/m/054r6m,1933-01-01T00:00:00Z
+Nathan Salmon,/m/06l0tb,1951-01-02T00:00:00Z
+Trevor Pinch,/m/0c6g9m,
+Charles Péguy,/m/01rsf2,1873-01-07T00:00:00Z
+Abraham Kuyper,/m/01sjxm,1837-10-29T00:00:00Z
+Thomas Metzinger,/m/01tyy2,1958-03-12T00:00:00Z
+Richard J. Mouw,/m/05wxjr7,
+Prabhat Ranjan Sarkar,/m/03h52n,1921-05-21T00:00:00Z
+Camil Petrescu,/m/03rykf,1894-04-22T00:00:00Z
+Quentin Smith,/m/094gbx,1952-08-27T00:00:00Z
+Demonax,/m/087sc2,0200-01-01T00:00:00Z
+Maurice Pradines,/m/02ryk58,
+Nae Ionescu,/m/0b1jw5,1890-06-16T00:00:00Z
+Surendranath Dasgupta,/m/0b7s7z,1887-10-01T00:00:00Z
+Nikolay Chernyshevsky,/m/01rd0v,
+Hanns Heinz Ewers,/m/03x8tq,1871-11-03T00:00:00Z
+Rogers Albritton,/m/03ck587,
+Tahir Allauddin Al-Qadri Al-Gillani,/m/03hhjy9,
+Petre Țuțea,/m/03gzvr4,1902-10-06T00:00:00Z
+Vilém Flusser,/m/05shc8,1920-05-12T00:00:00Z
+Ian Rumfitt,/m/0bmf7k_,
+Rosi Braidotti,/m/02698ng,1954-09-28T00:00:00Z
+Richard J. F. Day,/m/0cc5c5,
+Jonathan Bennett,/m/06n_f7,1930-02-17T00:00:00Z
+Robert J. C. Young,/m/08ppw3,
+David Gauthier,/m/0cwph,1932-09-10T00:00:00Z
+David Wood,/m/026j94s,
+Gregg Lambert,/m/05x2ln1,
+Yang Zhu,/m/0362_p,
+Józef Maria Bocheński,/m/03_q1_,1902-08-30T00:00:00Z
+Karl Löwith,/m/035jms,1897-01-09T00:00:00Z
+Eliyahu Eliezer Dessler,/m/0323mq,1891-01-01T00:00:00Z
+Herbert Spiegelberg,/m/02phvt0,
+Bar Hebraeus,/m/01_j2k,1226-01-01T00:00:00Z
+Francis of Assisi,/m/032p8,1181-01-01T00:00:00Z
+Dimitris Dimitrakos,/m/02vq0t2,
+Galen,/m/037h0,0129-01-01T00:00:00Z
+Georg Cantor,/m/036ks,1845-03-03T00:00:00Z
+Gautama Buddha,/m/015k7,-565-01-01T00:00:00Z
+Paul R. Patton,/m/03cp0lb,
+Giuseppe Mazzini,/m/096zc,1805-06-22T00:00:00Z
+Heinrich Hertz,/m/03hht,1857-02-22T00:00:00Z
+Giles Hooper,/m/0bh7jm2,
+John of the Cross,/m/0c4j4,1542-07-04T00:00:00Z
+Joseph Priestley,/m/0b0bx,1733-04-06T00:00:00Z
+Tony Fry,/m/0gg8bx1,
+Stuart Hampshire,/m/036cfm,1914-10-01T00:00:00Z
+Michael Polanyi,/m/04znx,1891-03-11T00:00:00Z
+Nagarjuna,/m/05k88,0150-01-01T00:00:00Z
+James D. McCawley,/m/04ylyk,
+Mylan Engel,/m/0264z2k,
+James Rachels,/m/09g15n,1941-05-30T00:00:00Z
+Ptolemy,/m/05_0t,0100-01-01T00:00:00Z
+Ralph Cudworth,/m/06jd6,1617-01-01T00:00:00Z
+Alastair Hannay,/m/075vxh,
+Philip Lindholm,/m/0gwl41,
+Mostafa Malekian,/m/07r1_t,
+William A. Dembski,/m/0btty,1960-07-18T00:00:00Z
+Robert J. Marks II,/m/03cgzd3,
+Michael Devitt,/m/0kt4z3,
+William Crathorn,/m/0462ttb,
+Yisroel Salanter,/m/02nktb,1810-11-03T00:00:00Z
+Diogenes of Babylon,/m/07v8fr,
+Najmuddin Kubra,/m/073fgx,1145-01-01T00:00:00Z
+Najm al-Din Razi,/m/073fs0,
+Hugh of Saint-Cher,/m/05ccwq,
+Yusuf Islahi,/m/051xc05,
+Jacob Needleman,/m/02qhwqh,
+Jalaluddin Umri,/m/02x02c4,
+Mary Midgley,/m/03h9k5,1919-09-13T00:00:00Z
+Sarfraz Ahmed Naeemi,/m/06614h2,
+Abdul Haq Ansari,/m/0535tfw,
+Sadat Husaini,/m/05f60dn,
+Fazlur Rahman Faridi,/m/080h3c7,
+Abul Hasan Ali Hasani Nadwi,/m/026f_my,
+Jean-Marie Guyau,/m/06zcxr,1854-10-28T00:00:00Z
+Rush Rhees,/m/0d9c10,1905-03-19T00:00:00Z
+György Márkus,/m/092hvd,1934-04-13T00:00:00Z
+Pietro Pomponazzi,/m/079jld,1462-09-25T00:00:00Z
+Frank Cameron Jackson,/m/06gk0h,1943-01-01T00:00:00Z
+Donald T. Campbell,/m/08h3fs,1916-11-20T00:00:00Z
+Jean-Pierre Faye,/m/026xqt1,1925-07-19T00:00:00Z
+Ladislav Klíma,/m/07tm9j,1878-08-22T00:00:00Z
+Brian Skyrms,/m/05wcpgr,1938-01-01T00:00:00Z
+Frank Sibley,/m/03mdl47,
+Joseph Gabel,/m/05xg97y,
+Athīr al-Dīn al-Abharī,/m/05sd3y,1200-01-01T00:00:00Z
+Arthur F. Holmes,/m/0c5r5_,
+Tran Duc Thao,/m/0bv7x1,1917-09-26T00:00:00Z
+John of Jandun,/m/0brmb2,1280-01-01T00:00:00Z
+Takeshi Umehara,/m/02rjq9g,
+Chögyam Trungpa,/m/01cy4k,1939-02-28T00:00:00Z
+Solomon Feferman,/m/01zt32,1928-12-13T00:00:00Z
+Kahlil Gibran,/m/018whv,1883-01-06T00:00:00Z
+Grace Lee Boggs,/m/09rv1q,
+Friedrich Meinecke,/m/05n8x6,1862-10-20T00:00:00Z
+Judah Halevi,/m/01y8_n,1079-01-01T00:00:00Z
+Hyakuzō Kurata,/m/02q1dvm,1891-02-23T00:00:00Z
+Simone Porzio,/m/07mjqb,
+Tadeusz Kotarbiński,/m/03_3vt,1886-03-31T00:00:00Z
+Józef Tischner,/m/073z_z,1931-03-12T00:00:00Z
+William Pepperell Montague,/m/0265tnx,1873-11-11T00:00:00Z
+Roy Wood Sellars,/m/076mn_,1880-07-09T00:00:00Z
+Dimitrie Gusti,/m/0d8g4d,1880-02-13T00:00:00Z
+Paul Natorp,/m/0774z5,1854-01-24T00:00:00Z
+Paul-Louis Couchoud,/m/05tmc1,
+Ralph Barton Perry,/m/08nw33,1876-07-03T00:00:00Z
+Stephen Stich,/m/08ml6f,
+Muhammad Tahir-ul-Qadri,/m/060vj_,1951-02-19T00:00:00Z
+Al-Jubba'i,/m/059twx,0850-01-01T00:00:00Z
+Nuel Belnap,/m/04m6yc,
+Saneatsu Mushanokōji,/m/07351s,1885-05-12T00:00:00Z
+Linji Yixuan,/m/015y0s,
+Moses Hess,/m/045f0v,1812-06-21T00:00:00Z
+David Estlund,/m/09ggtcq,
+Hans Cornelius,/m/05rk_7,1863-09-27T00:00:00Z
+Dwight Macdonald,/m/095kpq,1906-03-24T00:00:00Z
+Cyprian Norwid,/m/02vdq1,1821-09-24T00:00:00Z
+Isaac Beeckman,/m/03zpty,1588-12-10T00:00:00Z
+Paul Nizan,/m/04tk8t,1905-02-07T00:00:00Z
+Narayan Maharaj,/m/0crz_1,
+Syrianus,/m/04zf57,0400-01-01T00:00:00Z
+Menippus,/m/01kwzd,-309-01-01T00:00:00Z
+Stéphane Lupasco,/m/021xwr,1900-08-11T00:00:00Z
+Vyasa,/m/01s5sm,-400-01-01T00:00:00Z
+Ramana Maharshi,/m/01ryqk,1879-12-30T00:00:00Z
+Eleanor Duckworth,/m/05s_h9m,
+Vincenzo Gioberti,/m/03df7k,1801-04-05T00:00:00Z
+Al-Farabi,/m/017n3l,0872-01-01T00:00:00Z
+Dugald Stewart,/m/017lr5,1753-11-22T00:00:00Z
+Alfred Edward Taylor,/m/05wxpmz,
+Abu al-Qasim al-Khoei,/m/036h4t,1899-11-19T00:00:00Z
+Shabir Ally,/m/07s3b3g,
+Antonio Rosmini-Serbati,/m/03df9s,1797-03-24T00:00:00Z
+Tom Regan,/m/044tfk,1938-11-28T00:00:00Z
+Frank Meyer,/m/0579_b,
+Richard Sylvan,/m/05xpwd2,
+David Hartman,/m/05wnw4l,
+Donniel Hartman,/m/09v7fdz,
+Muhammad ash-Shawkani,/m/0czgq7,1759-01-01T00:00:00Z
+Fredric Jameson,/m/01zzm1,1934-04-14T00:00:00Z
+Gerard van der Leeuw,/m/027cyjb,1890-03-18T00:00:00Z
+Stephen R. L. Clark,/m/05vsk4p,1945-10-30T00:00:00Z
+Huineng,/m/01qysw,0638-01-01T00:00:00Z
+Herman Bavinck,/m/05h7dq,1854-12-13T00:00:00Z
+D. H. Th. Vollenhoven,/m/05ct13,
+Charles Simić,/m/041jv2,1938-05-09T00:00:00Z
+Liang Qichao,/m/03_qp4,1873-02-23T00:00:00Z
+Shakuntala Singh,/m/0cj1nk,
+Ubaidullah Sindhi,/m/0blnc0,
+Ramanuja,/m/043dfd,1017-01-01T00:00:00Z
+Gregory Vlastos,/m/040c92,1907-07-27T00:00:00Z
+William Ernest Hocking,/m/045gyp,1873-08-10T00:00:00Z
+Miško Šuvaković,/m/02r4x55,
+Michał Sędziwój,/m/042ldl,1566-02-02T00:00:00Z
+Paul Thagard,/m/0b1nm5,1950-09-28T00:00:00Z
+Xenophanes,/m/01gkyh,-569-01-01T00:00:00Z
+Plutarch of Athens,/m/03d5f6s,0350-01-01T00:00:00Z
+Jean-Luc Nancy,/m/02k02f,1940-07-26T00:00:00Z
+Alois Riehl,/m/09hzg7,1844-04-27T00:00:00Z
+Ludovico Geymonat,/m/0djd6b,1908-05-11T00:00:00Z
+Peter Munz,/m/02vq0p_,
+Matthew Lipman,/m/0d1d_4,1922-08-24T00:00:00Z
+Curt John Ducasse,/m/092_ht,
+Pasquale Galluppi,/m/08318t,1770-04-02T00:00:00Z
+Giorgio Del Vecchio,/m/02rz4rp,1878-08-26T00:00:00Z
+Ludwig Büchner,/m/04w76r,1824-03-29T00:00:00Z
+Nicomachus,/m/02xbh3,0060-01-01T00:00:00Z
+Adolfo Sánchez Vázquez,/m/09f4qv,1915-09-17T00:00:00Z
+Kurt Baier,/m/06mnh5,1917-01-26T00:00:00Z
+Vasile Conta,/m/0fzwzb,1845-11-15T00:00:00Z
+Athanasius of Alexandria,/m/014kt,0295-01-01T00:00:00Z
+Alhazen,/m/0rvb,0965-01-01T00:00:00Z
+Alfred Korzybski,/m/0jrz,1879-07-03T00:00:00Z
+Clement of Alexandria,/m/022n9,0150-01-01T00:00:00Z
+Miura Baien,/m/0660b2t,1723-09-01T00:00:00Z
+Diodorus Cronus,/m/07c_gz,-400-01-01T00:00:00Z
+Durandus of Saint-Pourçain,/m/0bsh7w,1270-01-01T00:00:00Z
+John Philoponus,/m/07x02d,0490-01-01T00:00:00Z
+Pietro Verri,/m/07n4_c,1728-12-12T00:00:00Z
+Ira Shor,/m/0c99l_,
+Philo the Dialectician,/m/03cvc_w,-400-01-01T00:00:00Z
+Petrus Aureolus,/m/080y5n,1280-01-01T00:00:00Z
+Petrus Ramus,/m/01t84d,1515-01-01T00:00:00Z
+Irving Kristol,/m/01hcmw,1920-01-22T00:00:00Z
+Ibn Arabi,/m/01cg5t,1165-08-04T00:00:00Z
+Hugues Felicité Robert de Lamennais,/m/01f605,1782-06-19T00:00:00Z
+Karl Daub,/m/01hh3w,1765-03-20T00:00:00Z
+Samuel Clarke,/m/05vd5g5,1675-10-11T00:00:00Z
+Pelagius,/m/01brlr,0360-01-01T00:00:00Z
+14th Dalai Lama,/m/01hw4n,
+Paul J. Griffiths,/m/083624,1955-01-01T00:00:00Z
+Sara Ruddick,/m/0bs3g54,
+Fred Dretske,/m/086k8v,1932-12-09T00:00:00Z
+Robert Merrihew Adams,/m/06gl1r,1937-09-08T00:00:00Z
+Luigi Pareyson,/m/02qt5m_,1918-02-04T00:00:00Z
+Jacob Moleschott,/m/0bcbrf,1822-08-09T00:00:00Z
+"Edgar A. Singer, Jr.",/m/0flvbt,
+Constantin Stere,/m/0fzbdq,1865-06-01T00:00:00Z
+‘Abd ar-Razzaq as-San‘ani,/m/0krtty,
+James P. Carse,/m/0gqh35,
+Henri Gouhier,/m/0fmcfr,1898-12-05T00:00:00Z
+Aron Katsenelinboigen,/m/0gptxs,
+Bernard-Henri Lévy,/m/01z58b,1948-11-05T00:00:00Z
+Girolamo Savonarola,/m/0d8wb,1452-09-30T00:00:00Z
+Bob Hale,/m/03cnlj3,
+Hu Shih,/m/0lz2n,1891-12-17T00:00:00Z
+Jean le Rond d'Alembert,/m/0dhpq,1717-11-16T00:00:00Z
+Marin Mersenne,/m/0jmr3,1588-09-08T00:00:00Z
+Friedrich von Hügel,/m/086ypn,1852-05-05T00:00:00Z
+Hui Shi,/m/045h3c,-400-01-01T00:00:00Z
+Hugh of Saint Victor,/m/0548qx,1096-01-01T00:00:00Z
+Vandana Shiva,/m/0krsd,1952-11-05T00:00:00Z
+Dōgen,/m/0k033,1200-01-26T00:00:00Z
+Kabir,/m/0k6vm,1440-01-01T00:00:00Z
+Zhang Zai,/m/06r652,1020-01-01T00:00:00Z
+Cornelio Fabro,/m/09k3zd,1911-08-24T00:00:00Z
+Joseph D. Sneed,/m/03k4yp,
+Henry of Ghent,/m/03fp4v,1217-01-01T00:00:00Z
+Abu Mansur Al-Maturidi,/m/02sg71,0852-01-01T00:00:00Z
+Gilles-Gaston Granger,/m/02x2mp9,
+Hendrik G. Stoker,/m/02qslp6,
+Richard Wollheim,/m/020s8r,1923-05-05T00:00:00Z
+Jonathan Lear,/m/09t4hx,
+Edward Carpenter,/m/023g_4,1844-08-29T00:00:00Z
+Elbert Hubbard,/m/02glnq,1856-06-19T00:00:00Z
+C. E. M. Joad,/m/03rwk0,
+Susan Neiman,/m/02ptt4_,1955-03-27T00:00:00Z
+Jean-Michel Berthelot,/m/06_x9y3,
+Amina Mama,/m/05xnyjq,
+Rupert Read,/m/03d0htf,
+John Koethe,/m/04gpvm5,
+Patanjali,/m/05ygd,
+Adriana Cavarero,/m/04lh_p4,1947-01-01T00:00:00Z
+Francisco de Vitoria,/m/03_vl0,1460-01-01T00:00:00Z
+Susan Hurley,/m/03g_595,
+Harriet Taylor Mill,/m/03v0gx,1807-01-01T00:00:00Z
+Zoilus,/m/01kh84,-399-01-01T00:00:00Z
+Syed Shujaat Ali Qadri,/m/0bbxb88,
+Robert Alexy,/m/04v7h_,1945-09-09T00:00:00Z
+Abd al-Rahman al-Kawakibi,/m/02r88dx,1855-07-08T00:00:00Z
+Patricia Hill Collins,/m/06c_kn,1948-05-01T00:00:00Z
+Henry More,/m/01x9q2,1614-10-12T00:00:00Z
+Delfim Santos,/m/06znfjs,1907-11-06T00:00:00Z
+Tawus ibn Kaysan,/m/0d2wzt,
+Mark Poster,/m/05y39dp,
+Roger Bacon,/m/06g98,1220-01-01T00:00:00Z
+Muhammad Farooq Khan,/m/0dlk_3s,
+Friedrich Karl Forberg,/m/0269q50,1770-08-30T00:00:00Z
+Vinoba Bhave,/m/0vhmy,1895-09-11T00:00:00Z
+Ferdinand Fellmann,/m/0bwmk76,1939-01-01T00:00:00Z
+Hameeduddin Aqil,/m/0fqs15v,
+Irving Copi,/m/0byms3,
+Numenius of Apamea,/m/07gh19,0200-01-01T00:00:00Z
+Kuruvilla Pandikattu,/m/0c00mkt,
+Ammonius Saccas,/m/0sks,0175-01-01T00:00:00Z
+Fazlul Haque Amini,/m/064mjzs,
+Werner Krieglstein,/m/04y8kpg,
+K. D. Sethna,/m/06cj_f,1904-11-26T00:00:00Z
+Harold Rosenberg,/m/07yz_t,1906-02-02T00:00:00Z
+Rasheed Turabi,/m/0g215h,
+Alain Finkielkraut,/m/01gkql,1949-06-30T00:00:00Z
+Jane Jacobs,/m/0jdcc,1916-05-04T00:00:00Z
+Paul Lorenzen,/m/07400c,1915-03-24T00:00:00Z
+Sandra Harding,/m/055xzl,1935-03-29T00:00:00Z
+Wahb ibn Munabbih,/m/0b5lqx,0655-01-01T00:00:00Z
+Ivan Ilyin,/m/082trs,1883-04-21T00:00:00Z
+Tang Junyi,/m/02qt6yg,
+Gustavo Bueno,/m/05p5zm_,1924-01-01T00:00:00Z
+Ramón Xirau,/m/03chh1g,1924-01-20T00:00:00Z
+Shai Bernstein,/m/02z77lt,
+Richard Carrier,/m/0c1qrn,
+Ioannis Kottounios,/m/0fmddn,1577-01-01T00:00:00Z
+Hasdai Crescas,/m/03c3yw,1340-01-01T00:00:00Z
+Balthasar Bekker,/m/084100,1634-03-20T00:00:00Z
+Arnold Geulincx,/m/044g6g,1624-01-31T00:00:00Z
+Philip Pettit,/m/0bd0vr,1945-01-01T00:00:00Z
+Frances Kamm,/m/03c4_08,
+Iain King,/m/02qmld2,
+Theodor Lessing,/m/0fw9_f,1872-02-08T00:00:00Z
+Shantideva,/m/0jn_d,0685-01-01T00:00:00Z
+Je Tsongkhapa,/m/04sr_4,1357-01-01T00:00:00Z
+Asaṅga,/m/0gdkf,0300-01-01T00:00:00Z
+Marpa Lotsawa,/m/03zslj,1012-01-01T00:00:00Z
+Naropa,/m/05jnvc,1016-01-01T00:00:00Z
+Atiśa,/m/01c3g3,0982-01-01T00:00:00Z
+Vasubandhu,/m/01sd15,0400-01-01T00:00:00Z
+Milarepa,/m/03yvtr,1051-01-01T00:00:00Z
+Harald Høffding,/m/017lf2,1843-03-11T00:00:00Z
+Ferdinand Tönnies,/m/01tph8,1855-07-26T00:00:00Z
+Lawrence Sklar,/m/09gdh78,
+Mahmoud Khatami,/m/0g3b5d,1963-01-04T00:00:00Z
+Philippe Lacoue-Labarthe,/m/04brth,1940-03-06T00:00:00Z
+Ernst Tugendhat,/m/05wk1bs,1930-03-08T00:00:00Z
+Antonio Millan Puelles,/m/02rfb1g,
+Marc Richir,/m/0kf6g59,
+"W.W. Bartley, III",/m/06g7p7,1934-10-02T00:00:00Z
+John Wisdom,/m/06r0j5,1904-09-12T00:00:00Z
+Wilmon Henry Sheldon,/m/0bxyw2s,
+Norwood Russell Hanson,/m/04zvgk,1924-01-01T00:00:00Z
+Michael Ignatieff,/m/0g3l5v,1947-05-12T00:00:00Z
+Maxine Greene,/m/04lht88,
+Abai Qunanbaiuli,/m/017n4d,1845-08-22T00:00:00Z
+Russell Grigg,/m/05vzlhj,
+Jean-Paul Valabrega,/m/0kckrvf,
+Jean-Bertrand Pontalis,/m/0c3k3pq,
+Georgi Plekhanov,/m/01rcmv,1856-12-23T00:00:00Z
+Jeremy Weate,/m/0372mw,
+Enrique D Dussel,/m/05v_7l2,1934-12-24T00:00:00Z
+Jacob Klein,/m/0dbzzq,1899-03-03T00:00:00Z
+Paul Boghossian,/m/0bxkrm,2000-01-01T00:00:00Z
+Richard Dedekind,/m/0ccwd,1831-10-06T00:00:00Z
+Harry Austryn Wolfson,/m/02kx5b,1887-11-02T00:00:00Z
+Michael Novak,/m/01d1v6,1933-09-09T00:00:00Z
+Bruno Leoni,/m/0chz38,1913-04-26T00:00:00Z
+Carlo Lottieri,/m/0h2gkw,1960-11-06T00:00:00Z
+Jacobus Arminius,/m/022gc4,1560-10-30T00:00:00Z
+Heron Santana,/m/028b3dy,
+Paul Gottfried,/m/01h_pp,
+Iris Marion Young,/m/0bq8x5,1949-01-02T00:00:00Z
+Yuval Steinitz,/m/0krw20,1958-04-10T00:00:00Z
+Yeshayahu Leibowitz,/m/0424qz,1903-01-29T00:00:00Z
+Kenneth Burke,/m/036cc8,1897-05-05T00:00:00Z
+Ludwik Fleck,/m/07ky44,1896-07-11T00:00:00Z
+James McCosh,/m/01d897,
+Fernando Flores,/m/0sxm2,1943-01-09T00:00:00Z
+Fred Newman,/m/03dc20,
+Costas Douzinas,/m/05whl98,
+Arthur Balfour,/m/012l1m,1848-07-25T00:00:00Z
+Ron McClamrock,/m/0b7cqg,
+Michel de Certeau,/m/03fh72,1925-05-17T00:00:00Z
+Heinrich Gomperz,/m/0chvpn,1873-01-18T00:00:00Z
+Johann Heinrich Pestalozzi,/m/02vtc2,1746-01-12T00:00:00Z
+Harry Prosch,/m/02bqds,
+Yunmen Wenyan,/m/03d03s,0864-01-01T00:00:00Z
+Johann Jakob Bachofen,/m/02qww7,1815-12-22T00:00:00Z
+Paul Edwards,/m/06r6ql,1923-09-02T00:00:00Z
+Joseph B. Soloveitchik,/m/015y7r,1903-02-27T00:00:00Z
+Joshua Cohen,/m/09hhhh,
+John Hospers,/m/02m6pd,1918-06-09T00:00:00Z
+Aryadeva,/m/0c9lby,
+Candrakīrti,/m/02rtb3,0600-01-01T00:00:00Z
+Buddhapālita,/m/0c9l74,0470-01-01T00:00:00Z
+Padmasambhava,/m/01c1c7,
+Thubten Zopa Rinpoche,/m/07j1bg,
+Dolpopa Sherab Gyaltsen,/m/08x20y,1292-01-01T00:00:00Z
+Taranatha,/m/09llbn,1575-01-01T00:00:00Z
+Judah Loew ben Bezalel,/m/017vdv,1512-01-01T00:00:00Z
+Anaxarchus,/m/0sqj,
+Arnold Gehlen,/m/02x758,1904-01-29T00:00:00Z
+Tommaso Campanella,/m/015s1y,1568-09-15T00:00:00Z
+Ibn Abi al-Izz,/m/0dchx2,
+Ghulam Rasool Jamaati,/m/026k5vl,
+Myles Burnyeat,/m/02pn78q,
+Hamid Raza Khan,/m/07k4ht5,
+Orestes Brownson,/m/03njl6,1803-01-01T00:00:00Z
+Ramiro de Maeztu,/m/02vxqz7,1874-05-04T00:00:00Z
+Francis J. Beckwith,/m/07qcnm,
+Sa'id ibn Jubayr,/m/046r61,0665-01-01T00:00:00Z
+Atiyya ibn Sa'd,/m/047jdy,
+Mirza Fatali Akhundov,/m/0cyk_t,1812-07-12T00:00:00Z
+Ebrahim Desai,/m/02649jd,
+Simion Bărnuțiu,/m/08c2mn,1808-07-21T00:00:00Z
+Shah Abdul Aziz,/m/0ksrfn,
+George Ohsawa,/m/05y88f,1893-10-18T00:00:00Z
+Tyler Gillies,/m/05ldpbm,
+Wasif Ali Wasif,/m/0bnmrz,
+Maria Gaetana Agnesi,/m/04_mq,1718-05-16T00:00:00Z
+Heinrich Loewe,/m/05v7_sd,
+Will Durant,/m/01p8sj,1885-11-05T00:00:00Z
+Witelo,/m/03zddf,1230-01-01T00:00:00Z
+Feng Youlan,/m/032scb,1895-12-04T00:00:00Z
+Cesare Beccaria,/m/01bwlp,1738-03-15T00:00:00Z
+Cornelis Drebbel,/m/035ttn,1572-01-01T00:00:00Z
+Dirck Coornhert,/m/07srbp,1522-01-01T00:00:00Z
+Isidore of Seville,/m/03zwm,0560-01-01T00:00:00Z
+Bertrand de Jouvenel,/m/072y20,1903-10-31T00:00:00Z
+David Cassel,/m/0dsw47,1818-03-07T00:00:00Z
+Duncan Kennedy,/m/01rmh0,
+Alain LeRoy Locke,/m/02666qv,1885-09-13T00:00:00Z
+Adelard of Bath,/m/0lqbm,1080-01-01T00:00:00Z
+Herman of Carinthia,/m/0p9mp,1100-01-01T00:00:00Z
+Sun Yat-sen,/m/0m56y,1866-11-12T00:00:00Z
+Albert M. Wolters,/m/08dc3q,
+James R Payton Jr.,/m/09g99y8,
+Gérard Granel,/m/02rmj9m,
+Michèle Le Dœuff,/m/06f9lp,
+Manuel Chrysoloras,/m/015sq0,1350-01-01T00:00:00Z
+Algernon Sidney,/m/01ljdc,1623-01-25T00:00:00Z
+Hans Driesch,/m/037qvn,1867-10-28T00:00:00Z
+José Vasconcelos,/m/04hv08,1882-02-28T00:00:00Z
+Paul Rée,/m/0952l9,1849-11-21T00:00:00Z
+Dmitry Merezhkovsky,/m/07jknw,1865-08-26T00:00:00Z
+Silvio Ceccato,/m/02690y0,1914-01-25T00:00:00Z

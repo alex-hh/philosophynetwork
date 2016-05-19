@@ -1,0 +1,1768 @@
+name,freebase_id,dob
+b'Baruch Spinoza',/m/015n8,1632-11-24
+b'Albert Einstein',/m/0jcx,1879-03-14
+b'Blaise Pascal',/m/01b0x,1623-06-19
+b'Alexis de Tocqueville',/m/015v8f,1805-07-29
+b'G. K. Chesterton',/m/037jz,1874-05-29
+b'Johann Wolfgang von Goethe',/m/042q3,1749-08-28
+b'Joseph Butler',/m/015r88,1692-05-18
+b'Adam Smith',/m/0tfc,1723-06-05
+b'Thomas Paine',/m/07kwl,1737-01-29
+b'William Godwin',/m/011zsy,1756-03-03
+b'William Petty',/m/01yfj1,1623-05-26
+b'Zhu Xi',/m/01kdw9,1130-10-25
+b'Wang Yangming',/m/02xb9k,1472-11-09
+b'Benjamin Tucker',/m/01hkr,1854-04-17
+b'Alfred North Whitehead',/m/0bwpg,1861-02-15
+b'Ludwig von Mises',/m/0cpvcd,1881-09-29
+b'Francis Hutcheson',/m/019sh3,1694-08-08
+b'Paracelsus',/m/013wgy,1493-11-19
+b'Samuel Alexander',/m/05wk13x,1859-01-06
+b'Bernard Mandeville',/m/02qjjq,1670-11-15
+b'Nikolai Berdyaev',/m/01thjq,1874-03-18
+b'William Cleghorn',/m/02z9h_7,1718
+b'Adam Ferguson',/m/017qy4,1723-06-20
+b'Antoni Lange',/m/070mww,1863-01-01
+b'Heraclitus',/m/03l6h,-534-01-01
+b'Juan Donoso Cort\xc3\xa9s',/m/08hd3x,1809-05-06
+b'Georges Sorel',/m/02zng2,1847-11-02
+b'Emer de Vattel',/m/05x1vk,1714-04-25
+b'Pierre-Joseph Proudhon',/m/0d7t6,1809-01-15
+b'Kenneth Waltz',/m/04b2f0,1924-06-08
+b'Moritz Schlick',/m/01dfd4,1882-04-14
+b'Swami Vivekananda',/m/0cdfl,1863-01-12
+b'Max Stirner',/m/0slqn,1806-10-25
+b'Aristotle',/m/0gz_,-383-01-01
+b'Bertrand Russell',/m/01bpn,1872-05-18
+b'Arthur Schopenhauer',/m/0j3v,1788-02-22
+b'Denis Diderot',/m/028xm,1713-10-05
+"b""Baron d'Holbach""",/m/01btgd,1723-12-08
+b'George Berkeley',/m/034ms,1685-03-12
+b'George Santayana',/m/018wj9,1863-12-16
+b'Giacomo Leopardi',/m/0c8cl,1798-06-29
+b'Herbert Spencer',/m/01kznw,1820-04-27
+b'Ayn Rand',/m/0h25,1905-02-02
+b'John Stuart Mill',/m/03_hd,1806-05-20
+b'Apuleius',/m/0t6h,0125-01-01
+b'Ludwig Wittgenstein',/m/04hcw,1889-04-26
+b'Niccol\xc3\xb2 Machiavelli',/m/05cvs,1469-05-12
+b'Ren\xc3\xa9 Descartes',/m/06csk,1596-03-31
+b'Jakob B\xc3\xb6hme',/m/02by2w,1575-03-18
+b'Giambattista Vico',/m/015_hb,1668-06-23
+b'Benedetto Croce',/m/037c7x,1866-02-25
+b'Zeno of Elea',/m/01236p,-489-01-01
+b'Otto Weininger',/m/01ckkq,1880-04-03
+b'Isabel Paterson',/m/04zks3,1886-01-22
+b'Baltasar Graci\xc3\xa1n',/m/04qrrt,1601-01-08
+b'Antonio Labriola',/m/07m56m,1843-07-02
+b'Democritus',/m/0290q,-460-01-01
+b'Maimonides',/m/04xk5,1135-01-01
+b'Parmenides',/m/05w9g,-500-01-01
+b'Augustine of Hippo',/m/0w6w,0354-11-14
+b'Ibn Tufail',/m/046bnx,1110-01-01
+b'Giovanni Gentile',/m/03blcp,1875-05-29
+b'Giordano Bruno',/m/03d8f,1548-01-01
+b'Thomas Reid',/m/07bvs,1710-04-26
+b'Averroes',/m/0cvlw,1126-04-21
+b'C. S. Lewis',/m/01wd02c,1898-11-29
+b'Michel de Montaigne',/m/0c2cl,1533-03-10
+b'William James',/m/0mj0c,1842-01-11
+b'Alexius Meinong',/m/0247kx,1853-07-17
+b'Hermann Lotze',/m/01b5b6,1817-05-21
+b'Joseph de Maistre',/m/01f6vp,1753-04-01
+b'Christoph von Sigwart',/m/03lr9f,1830-03-28
+b'G. E. Moore',/m/034n8,1873-11-04
+b'Giuseppe Peano',/m/03dyg,1858-08-27
+b'Gottfried Wilhelm von Leibniz',/m/0372p,1646-07-11
+b'Owen Barfield',/m/02tp7c,1898-11-09
+b'Richard McKeon',/m/0bbm0m,1900-04-26
+b'Damaris Cudworth Masham',/m/058sj2,1659-01-18
+b'Antero de Quental',/m/0373rz,1842-04-18
+b'Fernando Pessoa',/m/03145,1888-06-13
+b'Ernst Haeckel',/m/02mtv,1834-02-16
+b'David Hume',/m/026lj,1711-05-07
+b'Edmund Burke',/m/02qr0,1729-01-12
+b'Henry David Thoreau',/m/0bwx3,1817-07-12
+b'Emma Goldman',/m/02nmr,1869-06-27
+b'Peter Kropotkin',/m/0dgq9,1842-12-21
+b'Nicolas Malebranche',/m/017h16,1638-08-06
+b'Pyrrho',/m/011k9p,-358-01-01
+b'Pierre Bayle',/m/01stjn,1647-11-18
+b'Epicurus',/m/02q_8,-341-01-01
+b'Marshall McLuhan',/m/04y4j,1918-07-21
+b'Sextus Empiricus',/m/0182_n,0160-01-01
+b'Epictetus',/m/02tkc,0050-01-01
+b'Lev Shestov',/m/04_d1b,1866-02-13
+b'Rudolf Christoph Eucken',/m/01h90j,1846-01-05
+b'Karl Leonhard Reinhold',/m/04qpgj,1757-10-26
+b'Friedrich Schiller',/m/0h336,1759-11-10
+b'Friedrich Nietzsche',/m/02wh0,1844-10-15
+b'Lysander Spooner',/m/0kmkv,1808-01-19
+b'Francis Bacon',/m/030dr,1561-02-01
+b'Ralph Waldo Emerson',/m/06jkm,1803-05-25
+b'African Spir',/m/08nwqf,1837-11-15
+b'Ludwig Feuerbach',/m/0182xl,1804-07-28
+b'Friedrich Engels',/m/0cp8j,1820-11-28
+b'Friedrich Albert Lange',/m/01qwjz,1828-09-28
+b'Protagoras',/m/06035,-485-01-01
+b'Auguste Comte',/m/0zz2v,1798-01-19
+b'Bruno Bauer',/m/0jnsf,1809-09-06
+b'Fr\xc3\xa9d\xc3\xa9ric Bastiat',/m/0301k,1801-06-29
+b'Georg Wilhelm Friedrich Hegel',/m/039n1,1770-08-27
+b'Johann Gottlieb Fichte',/m/0350t,1762-05-19
+b'Marquis de Sade',/m/02flz,1740-06-02
+b'Geoffrey Chaucer',/m/03b_m,1343-01-01
+b'Novalis',/m/01fgc6,1772-05-02
+b'Friedrich Wilhelm Joseph Schelling',/m/0182w0,1775-01-27
+b'Nicholas of Cusa',/m/01pqmd,1401-01-01
+b'Johann Georg Hamann',/m/01k8bj,1730-08-27
+b'Charles Bray',/m/02x4v20,1811-01-31
+b'George Boole',/m/09jzz,1815-11-02
+b'Johann Gottfried Herder',/m/01qzgm,1744-08-25
+b'Johannes Scotus Eriugena',/m/044g1n,0810-01-01
+b'Friedrich Heinrich Jacobi',/m/01cz85,1743-01-25
+b'Gotthold Ephraim Lessing',/m/0378w,1729-01-22
+b'Henri Bergson',/m/03j43,1859-10-18
+b'Isaac Newton',/m/03s9v,1643-01-04
+b'Immanuel Kant',/m/03sbs,1724-04-22
+b'Hugo Grotius',/m/0hl94,1583-04-10
+b'Christian Wolff',/m/01czwg,1679-01-24
+b'F\xc3\xa9lix Ravaisson-Mollien',/m/017lgr,1813-10-23
+b'Francisco Su\xc3\xa1rez',/m/042bxj,1548-01-15
+b'Johannes Nikolaus Tetens',/m/04q48q,1736-09-16
+b'Philodemus',/m/07slxy,-109-01-01
+"b'Sir William Hamilton, 9th Baronet'",/m/01d89l,1788-03-08
+b'Alexander Gottlieb Baumgarten',/m/01r5yn,1714-07-17
+b'\xc3\x89mile Durkheim',/m/09j84,1858-04-15
+b'Carl Jung',/m/0bk5r,1875-07-26
+b'S\xc3\xb8ren Kierkegaard',/m/06qvh,1813-05-05
+b'Maine de Biran',/m/017jns,1766-11-29
+b'Johann Heinrich Lambert',/m/0n29h,1728-08-26
+b'Jean-Jacques Rousseau',/m/0420y,1712-06-28
+b'Augustus De Morgan',/m/0q2w,1806-06-27
+b'Jean Bodin',/m/01nywz,1529-01-01
+b'William Whewell',/m/01d48b,1794-05-24
+b'Alexander Bain',/m/0121qt,1818-06-11
+b'Charles Babbage',/m/01qmz,1791-12-26
+b'John Locke',/m/043s3,1632-08-29
+b'John Cowper Powys',/m/01ffjd,1872-10-08
+b'John Dewey',/m/04411,1859-10-20
+b'John Dee',/m/043y0,1527-08-02
+b'Pierre Gassendi',/m/01b_dj,1592-01-22
+"b'Claude Henri de Rouvroy, comte de Saint-Simon'",/m/01f3ss,1760-10-17
+b'James Mill',/m/017h4t,1773-04-06
+b'George Herbert Mead',/m/01x73v,1863-02-27
+b'Wilhelm von Humboldt',/m/081_6,1767-06-22
+b'Thomas Hill Green',/m/01f0h6,1836-04-07
+b'Josiah Warren',/m/06h_n6,1798-01-01
+b'George Sylvester Morris',/m/09yp5w,1840-11-15
+b'Karl Marx',/m/048cl,1818-05-05
+b'Leo Tolstoy',/m/01tz6vs,1828-09-09
+b'Charles Fourier',/m/01jfhs,1772-04-07
+b'Jules Michelet',/m/01s6q3,1798-08-21
+b'Alexander Herzen',/m/02fkcx,1812-04-18
+b'Petr Chel\xc4\x8dick\xc3\xbd',/m/029km3,1390-01-01
+b'Joseph Dietzgen',/m/03_88v,1828-12-09
+b'Karl Kautsky',/m/01x_n6,1854-10-16
+b'Marcus Aurelius',/m/051x8,0121-04-25
+b'Mahatma Gandhi',/m/04xfb,1869-10-02
+b'Mary Wollstonecraft',/m/04_cw,1759-04-27
+b'Lucretius',/m/0987k,-099-01-01
+b'Desiderius Erasmus',/m/02rpq,1469-11-15
+b'Michael Faraday',/m/04zt0,1791-09-22
+b'Jan Hus',/m/042x_,1369-01-01
+b'Frank P. Ramsey',/m/01jkgd,1903-02-22
+b'Posidonius',/m/0m1s3,-134-01-01
+b'Plutarch',/m/063_9,0046-01-01
+b'Robert Boyle',/m/0d98m,1627-01-25
+b'Plato',/m/05qmj,-426-01-01
+b'Gorgias',/m/0p7d0,-482-01-01
+b'Nasir al-Din al-Tusi',/m/0428hj,1201-01-01
+b'Pythagoras',/m/05sr0,-584-01-01
+b'Ab\xc5\xab Ray\xe1\xb8\xa5\xc4\x81n al-B\xc4\xabr\xc5\xabn\xc4\xab',/m/01ny93,0973-09-10
+b'Omar Khayy\xc3\xa1m',/m/0m_hz,1048-05-30
+b'Terence McKenna',/m/01k1wq,1946-11-16
+b'Duns Scotus',/m/0m1wd,1265-01-01
+b'Adam Weishaupt',/m/0wjz,1748-02-06
+b'Mikhail Bakunin',/m/0fyhn,1814-05-30
+b'Samuel Taylor Coleridge',/m/078w2,1772-10-21
+b'Sigmund Freud',/m/06myp,1856-05-06
+b'Josef Breuer',/m/053rzy,1842-01-15
+b'Karl Robert Eduard von Hartmann',/m/02vhlz,1842-02-23
+b'William Wollaston',/m/0q250,1659-03-26
+b'Franz Brentano',/m/0l235,1838-01-16
+b'Seneca the Younger',/m/0j_8y,-003-01-01
+b'Thomas Carlyle',/m/0ymtb,1795-12-04
+b'Thomas Hobbes',/m/07c37,1588-04-05
+b'Thomas Jefferson',/m/07cbs,1743-04-13
+b'Giovanni Pico della Mirandola',/m/013w_3,1463-03-05
+b'Thomas More',/m/07hl9,1478-02-16
+b'Thomas Aquinas',/m/07kb5,1225-02-04
+b'F. H. Bradley',/m/02dtxl,1846-01-30
+b'Proclus',/m/066c6,0412-02-09
+b'Pseudo-Dionysius the Areopagite',/m/05x_l,0500-01-01
+b'Walt Whitman',/m/085gk,1819-05-31
+b'William Paley',/m/08496,1743-07-14
+b'Wang Fuzhi',/m/055kf1,1619-01-01
+b'Richard Avenarius',/m/0440vk,1843-11-19
+b'Cheng Yi',/m/027gyyf,1033-01-01
+b'Rudolf Steiner',/m/06hwd,1861-02-25
+b'Charles Bernard Renouvier',/m/017lh3,1815-01-01
+b'David Hartley',/m/017gqs,1705-06-21
+b'F. C. S. Schiller',/m/05xp4l,1864-08-16
+b'Muhammad Usman Damani',/m/0ch3vxc,
+b'Muhammad Sirajuddin Naqshbandi',/m/0ch2vc_,1879-12-30
+b'Zhou Dunyi',/m/06r6f2,1017-01-01
+b'Frithjof Bergmann',/m/0b0kb9,1930-12-24
+b'Ernst Mach',/m/0fcy0,1838-02-18
+b'Guy Debord',/m/014pkc,1931-12-28
+b'Philippa Foot',/m/04ycgp,1920-10-03
+b'Candace Vogler',/m/0bbs7g,
+b'Carl Stumpf',/m/02hrxh,1848-04-21
+b'Leo Strauss',/m/01dvtx,1899-09-20
+b'Joseph Cropsey',/m/02691cg,1919-08-27
+b'Evald Ilyenkov',/m/02n65z,1924-02-18
+b'Cornelius Castoriadis',/m/032hw6,1922-03-11
+b'Cornelius Van Til',/m/0bh36k,1895-05-04
+b'Francis Schaeffer',/m/018d22,1912-01-30
+b'Kurt Koffka',/m/01q0z8,1886-03-18
+b'Euclid of Megara',/m/03n25g,-450-01-01
+b'Stilpo',/m/04jdxd,-400-01-01
+b'Max Horkheimer',/m/04xnh,1895-02-14
+b'Erich Fromm',/m/0cb9c,1900-03-23
+b'H. L. A. Hart',/m/01tfg3,1907-07-18
+b'Neil MacCormick',/m/025q95,1941-05-27
+b'Henry Sidgwick',/m/01dcwz,1838-05-31
+b'J. J. C. Smart',/m/028ssh,1920-09-16
+b'Frantz Fanon',/m/0nk7l,1925-07-20
+b'Lewis Gordon',/m/06nj4n,1962
+b'Nelson Goodman',/m/04dyc2,1906-08-07
+b'Jerry Fodor',/m/027931,1935-01-01
+b'Arthur Danto',/m/041yx0,1924-01-01
+b'Gy\xc3\xb6rgy Luk\xc3\xa1cs',/m/01t57w,1885-04-13
+b'Ren\xc3\xa9 Gu\xc3\xa9non',/m/032xc4,1886-11-15
+b'Huston Smith',/m/03v8zv,1919-05-31
+b'Gianni Vattimo',/m/07k8bc,1936-01-04
+b'Mario Kopi\xc4\x87',/m/04y9j94,1965-03-13
+b'Hannah Arendt',/m/0nk72,1906-10-14
+b'Cleomedes',/m/077h0y,0200-01-01
+b'Jason of Nysa',/m/03ck33s,-100-01-01
+b'Hilary Putnam',/m/0j_qm,1926-07-31
+b'Alfred Sch\xc3\xbctz',/m/0ql9l,1899-04-13
+b'Georg Simmel',/m/0qngb,1858-03-01
+b'Wilhelm Windelband',/m/04f7mv,1848-05-11
+b'Bernard Lonergan',/m/0446t9,1904-12-17
+b'Dieter Henrich',/m/02vp35p,1927-01-05
+b'Manfred Frank',/m/02rxpj7,1945-03-22
+b'Roland Barthes',/m/017kb5,1915-11-12
+b'John Anderson',/m/01368h,1893-11-01
+b'David Chalmers',/m/01m382,1966-04-20
+b'Richard Price',/m/0crqcc,1949-10-12
+b'Simone Weil',/m/018klb,1909-02-03
+b'Friedrich Schleiermacher',/m/018fn7,1768-11-21
+b'Alvin Plantinga',/m/0m6yd,1932-11-15
+b'Robin Collins',/m/0bjj5b,
+b'Michael C. Rea',/m/0ds54f6,1968
+b'Bas van Fraassen',/m/04ztyb,1941-04-05
+b'Al-Mawardi',/m/04h_6r,0974-01-01
+b'Jean Wahl',/m/04cqs6,1888-05-25
+b'Alan Watts',/m/01crts,1915-01-06
+b'Aurel Kolnai',/m/03c3_3x,1900-12-05
+b'Phillip Blond',/m/04n439v,1966-03-01
+b'Slavoj \xc5\xbdi\xc5\xbeek',/m/0169ff,1949-03-21
+b'Alain Badiou',/m/0351yk,1937-01-17
+b'Peter Sloterdijk',/m/03tqkv,1947-06-26
+b'Georges Canguilhem',/m/039hch,1904-06-04
+b'Peter Rollins',/m/0d3rkt,1973-03-31
+b'Jacob Taubes',/m/087jng,1923-02-25
+"b""Yahya ibn Ma'in""",/m/0h454m,0775-01-01
+b'Gilles Deleuze',/m/0399p,1925-01-18
+b'Manuel De Landa',/m/021ql3,1952-01-01
+b'Michael J. Shapiro',/m/0b1zk3,1940-02-16
+b'William E. Connolly',/m/06p686,1938-01-06
+b'Jean Cavaill\xc3\xa8s',/m/0f2w0r,1903-05-15
+b'Carl Schmitt',/m/024kq1,1888-07-11
+b'\xc3\x89mile Chartier',/m/039lqm,1868-03-03
+b'Jacques Ranci\xc3\xa8re',/m/01tqpm,1940-06-10
+b'Gillian Rose',/m/081g2h,1947-09-20
+b'Jacques Lacan',/m/043tg,1901-04-13
+b'Ivan Illich',/m/01jbdk,1926-09-04
+b'Rajneesh',/m/019fxc,1931-12-11
+b'Gaston Bachelard',/m/02nxw4,1884-06-27
+b'Antonio Negri',/m/01m2jf,1933-08-01
+b'Arne N\xc3\xa6ss',/m/039v0w,1912-01-27
+b'Antoine Arnauld',/m/01h7yq,1612-02-06
+b'\xc3\x89tienne Bonnot de Condillac',/m/017gzg,1714-09-30
+b'A. C. Grayling',/m/06g4pw,1949-04-03
+b'Allan Bloom',/m/0lhg5,1930-09-14
+b'Ferdinand de Saussure',/m/02zk8,1857-11-26
+b'Edmund Husserl',/m/02ln1,1859-04-08
+b'Adolf Reinach',/m/03w_89,1883-12-23
+b'Amafinius',/m/0bwnq_,
+b'F\xc3\xa9lix Guattari',/m/02zww,1930-04-30
+b'Jean-Paul Sartre',/m/045bg,1905-06-21
+b'Leonard Peikoff',/m/01p34g,1933-10-15
+b'Andrew Bernstein',/m/07sf67,1949-06-29
+b'Abraham bar Hiyya',/m/02ycrk,1065-01-01
+b'Abraham ibn Ezra',/m/0125t0,1089-01-01
+b'Aristippus',/m/01lfpy,-434-01-01
+b'Arete of Cyrene',/m/09d9j6,-400-01-01
+b'Anaxagoras',/m/0sq0,-495-01-01
+b'Archelaus',/m/08fbbv,
+b'Borden Parker Bowne',/m/0444jt,1847
+b'Gilbert Simondon',/m/07hnl6,1924-10-02
+b'Bernard Stiegler',/m/0h068v,1952-04-01
+b'Bernard Bolzano',/m/01s0nm,1782-10-05
+b'Leszek Ko\xc5\x82akowski',/m/040vxp,1927-10-23
+b'Gemistus Pletho',/m/014fxp,1355-01-01
+b'Claude L\xc3\xa9vi-Strauss',/m/01tvt,1908-11-28
+"b'Victoria, Lady Welby'",/m/03zgsb,1837-04-27
+b'Charles Kay Ogden',/m/02gbyp,1889-06-01
+b'Charles Maurras',/m/01g3g6,1868-04-20
+b'Dami\xc3\xa3o de G\xc3\xb3is',/m/01y3bw,1502-02-12
+b'Dan Zahavi',/m/03c5b09,1967-11-06
+b'Catius',/m/0bwnp8,
+b'Brian Massumi',/m/07lt8f,1956-05-08
+b'Bryan Reynolds',/m/02pg9_9,1965
+b'Roman Jakobson',/m/06ll8,1896-10-11
+b'Kazi Nazrul Islam',/m/02m_dh,1899-05-24
+b'Edward Said',/m/0969fd,1935-11-01
+b'Donald Davidson',/m/01r6rr,1917-03-06
+b'Georges Bataille',/m/01dqh6,1897-09-10
+b'Josiah Royce',/m/02h4fy,1855-11-20
+b'Gabriel Marcel',/m/02qyy8,1889-12-07
+b'Antoine Augustin Cournot',/m/0444_5,1801-08-28
+b'Ernesto Laclau',/m/02xn4y,1935-10-06
+b'Eugen Fink',/m/02x9v42,1905-12-11
+b'Giovanni Vailati',/m/07f4qc,1863-04-24
+b'Willard Van Orman Quine',/m/085b_,1908-06-25
+b'Martin Buber',/m/01hb49,1878-02-08
+b'Stanis\xc5\x82aw Ignacy Witkiewicz',/m/0239lt,1885-02-24
+b'Han Ryner',/m/05sz8sv,1861-12-07
+b'John Colet',/m/015rvw,1467-01-24
+b'Guillaume Bud\xc3\xa9',/m/015ry1,1467-02-04
+b'L. E. J. Brouwer',/m/01794d,1881-02-27
+b'Hermann Weyl',/m/019nfb,1885-11-09
+b'Hans Blumenberg',/m/05vz4bj,1920-07-13
+b'Hans K\xc3\xb6chler',/m/0b16h0,1948-10-18
+b'Jan Pato\xc4\x8dka',/m/03rysd,1907-06-01
+b'Hermarchus',/m/07fl9t,-324-01-01
+b'J. L. Austin',/m/01jjv4,1911-03-26
+b'Georg Henrik von Wright',/m/036xf,1916-06-14
+b'Jaakko Hintikka',/m/05q8rb,1929-01-12
+b'Hans-Georg Gadamer',/m/03mt9,1900-02-11
+b'Hans Robert Jauss',/m/076m0n,1921-12-12
+b'Noam Chomsky',/m/0b78hw,1928-12-07
+b'Vilfredo Pareto',/m/0806p,1848-07-15
+b'Gilbert Ryle',/m/03yfwn,1900-08-19
+b'Adamantios Korais',/m/024knz,1748-04-27
+b'David Brewster',/m/02c86,1781-12-11
+b'Johann Friedrich Herbart',/m/01b5fd,1776-04-04
+b'Rigas Feraios',/m/04dbhw,1757-01-01
+b'Louis Althusser',/m/0k665,1918-10-16
+b'L\xc3\xa9on Brunschvicg',/m/048z9d,1869-11-10
+b'Julius Evola',/m/01qhxs,1898-05-19
+b'Louis Gabriel Ambroise de Bonald',/m/02ydv2,1754-10-02
+b'Ernst J\xc3\xbcnger',/m/014g17,1895-03-29
+b'Ernst Cassirer',/m/02prnr,1874-07-28
+b'Jos\xc3\xa9 Ortega y Gasset',/m/031954,1883-05-09
+b'Marvin Farber',/m/0ddypp,1901-12-14
+b'Metrodorus of Lampsacus',/m/049s_y,-330-01-01
+b'Max Black',/m/01s3bn,1909-02-24
+b'Karl-Otto Apel',/m/05z_64,1922-03-15
+b'Melissus of Samos',/m/02glh2,-469-01-01
+b'Lucien L\xc3\xa9vy-Bruhl',/m/0410_j,1857-04-10
+b'Wilhelm Dilthey',/m/02wcp1,1833-11-19
+b'Karl Jaspers',/m/01x15b,1883-02-23
+b'Nicholas Rescher',/m/02rrz4,1928-07-15
+b'Michel Onfray',/m/065_27,1959-01-01
+b'Pierre Duhem',/m/026v7j,1861-06-09
+b'Raoul Vaneigem',/m/01px7_,1934-01-04
+b'Paul Ric\xc5\x93ur',/m/02bvkz,1913-02-27
+b'Zeno of Sidon',/m/05zh2q,-149-01-01
+b'\xc3\x89tienne de La Bo\xc3\xa9tie',/m/022zkz,1530-11-21
+b'Georges Palante',/m/04cy47h,1862-11-20
+b'Meister Eckhart',/m/01ttgn,1260-01-01
+b'Julien Offray de La Mettrie',/m/03fh67,1709-11-23
+b'Maurice Halbwachs',/m/03ftsv,1877-03-11
+b'Salomon Maimon',/m/078dpp,1754-01-01
+b'Roger Scruton',/m/03yzwb,1944-02-17
+b'Russell Kirk',/m/04crpl,1918-10-19
+b'Sebastian Shaumyan',/m/02qh76x,1916-02-27
+b'Roman Ingarden',/m/067c83,1893-02-05
+b'Shaun Gallagher',/m/0g89dg,1948
+b'Roger Joseph Boscovich',/m/013q12,1711-05-18
+b'Moses Mendelssohn',/m/0c74z,1729-09-06
+b'Tom\xc3\xa1\xc5\xa1 Garrigue Masaryk',/m/012y66,1850-03-07
+b'Vladimir Lenin',/m/05wh0sh,1870-04-22
+b'Gian-Carlo Rota',/m/0ptrx,1932-04-27
+b'W. D. Ross',/m/063xy9,1877-04-15
+b'William Stern',/m/08nwsy,1871-04-29
+b'Dewi Zephaniah Phillips',/m/05n0f4,1934-11-24
+b'Pierre Ab\xc3\xa9lard',/m/0cf10s,1079-01-01
+b'John of Salisbury',/m/0141x2,1120
+b'Eric Voegelin',/m/01b5l3,1901-01-03
+b'Ned Block',/m/0497b7,1942-01-01
+b'Demetrius of Phalerum',/m/01mpqz,-349-01-01
+b'Pier Paolo Pasolini',/m/016hvl,1922-03-05
+b'Vladimir Solovyov',/m/03fh1g,1853-01-16
+b'Sergei Bulgakov',/m/086ntb,1871-07-10
+b'Charles Taylor',/m/01r356,1931-11-05
+b'Murray Rothbard',/m/052h3,1926-03-02
+b'John D. Caputo',/m/02g26j,1940-10-26
+b'Jacques Ellul',/m/03kk6x,1912-01-06
+b'Hubert Dreyfus',/m/03sy5d,1929-10-15
+b'Alejandro Korn',/m/02qfqq1,1860-05-03
+b'Francisco Romero',/m/08nwfb,1891
+b'Philo',/m/01dvk1,-019-01-01
+b'Ananda Coomaraswamy',/m/01q0hh,1877-08-22
+b'Apollonius of Tyana',/m/0hph2,0002-01-01
+b'Simone de Beauvoir',/m/0gsjk,1908-01-09
+b'Karl Christian Friedrich Krause',/m/02vhq5,1781-05-06
+b'Timon of Phlius',/m/04jdvk,-319-01-01
+b'Arcesilaus',/m/016_pz,-314-01-01
+b'Michael Martin',/m/037lh8,1932-02-03
+b'Adam M\xc3\xbcller',/m/04nm1q,1779-06-30
+b'Othmar Spann',/m/01_ldd,1878-10-01
+b'Ebn Meskavayh',/m/06h2nt,0932-01-01
+b'Mulla Sadra',/m/050h_6,1571-01-01
+b'Bah\xc4\x81\xca\xbe al-d\xc4\xabn al-\xca\xbf\xc4\x80mil\xc4\xab',/m/02z5x42,1547-02-18
+b'H\xc3\xa9l\xc3\xa8ne Cixous',/m/016k0j,1937-06-05
+"b""Abu'l-Barak\xc4\x81t al-Baghd\xc4\x81d\xc4\xab""",/m/04mfv7,1080-01-01
+b'Jean Buridan',/m/0176j0,1295-01-01
+b'Bayazid Bastami',/m/04z4gp,0804-01-01
+b'Sidney Hook',/m/04_68r,1902-12-20
+b'C. H. Waddington',/m/04475g,1905-11-08
+b'J. L. Mackie',/m/01jz59,1917-08-25
+b'Henry George',/m/012102,1839-09-02
+b'Murray Bookchin',/m/0142kg,1921-01-14
+b'Menedemus',/m/0172th,-0344
+b'Mircea Eliade',/m/014c1n,1907-03-13
+b'Hypatia',/m/09kjn,0355-01-01
+b'John Grinder',/m/01h_mc,1940-01-10
+b'Judith Butler',/m/0132q1,1956-02-24
+b'Hermann Ulrici',/m/05ngbs,1806-03-23
+b'Andrew Seth Pringle-Pattison',/m/07srsh,1856
+b'Heinrich Ritter',/m/015hq_,1791-11-21
+b'Stephen Walt',/m/016wkh,1955-07-02
+b'Pierre Teilhard de Chardin',/m/05x3p,1881-05-01
+b'Hans Jonas',/m/02bb9q,1903-05-10
+b'David Bohm',/m/019fz0,1917-12-20
+b'Immanuel Hermann Fichte',/m/0164t2,1796-07-18
+b'Georges Dume\xcc\x81zil',/m/05ws0b3,1898-03-04
+b'Jos\xc3\xa9 Carlos Mari\xc3\xa1tegui',/m/0573p4,1894-06-14
+b'David A. Kolb',/m/06x0gk,1939-01-01
+b'Simon Critchley',/m/081fjw,1960-02-27
+b'Stanley Cavell',/m/032xn8,1926-09-01
+b'Xavier Zubiri',/m/05tm6j,1898-12-04
+b'Aenesidemus',/m/0182n0,-079-01-01
+b'John Veitch',/m/01d8d4,1829-10-24
+b'Philo of Larissa',/m/04fhwm,
+b'Crispin Wright',/m/01s3cb,1942-12-21
+b'Michael Lynch',/m/04yg56q,
+b'Derek Parfit',/m/0g8nz,1942-12-11
+b'Harry Binswanger',/m/04crx7,1944
+b'Abu Zayd al-Balkhi',/m/05xdhf,0850-01-01
+b'William Molyneux',/m/075xjj,1656-04-17
+b'Hegesias of Cyrene',/m/08kysd,-400-01-01
+b'Ibn Hazm',/m/053wp4,0994-01-01
+b'Muhammad Asad',/m/0c26gg,1900-07-02
+b'Carneades',/m/0444t2,-213-01-01
+b'Muhammad Abduh',/m/04bkjb,1849-01-01
+b'Andr\xc3\xa9 Gorz',/m/080wmb,1923-02-09
+b'Paul de Man',/m/01t22k,1919-12-06
+b'Michel Serres',/m/03bql5,1930-09-01
+b'Al-Jahiz',/m/02zrtw,0775-01-01
+b'Panaetius',/m/05drgf,-184-01-01
+b'Hecato of Rhodes',/m/0542h5,-200-01-01
+b'Fran\xc3\xa7ois Laruelle',/m/0dxk7y,1937-01-01
+b'Emil Fackenheim',/m/04x921,1916-06-22
+b'Serge Moscovici',/m/07y2d4,1925-06-14
+b'Vincent Descombes',/m/05x6x7k,1943
+b'Franz Joseph Gall',/m/01t2vw,1758-03-09
+b'Carl Gustav Hempel',/m/04y1p3,1905-01-08
+b'John Earman',/m/04lr3c,1942-03-30
+b'Hans Kelsen',/m/04qf94,1881-10-11
+b'Ahmad Khani',/m/0921vb,1650-01-01
+b'Francis Parker Yockey',/m/01npms,1917-09-18
+b'Richard Kroner',/m/04mm79,1884-01-01
+b'Walter Kaufmann',/m/049x31,1921-07-01
+b'Ivan Soll',/m/04y8krw,1938-03
+b'Ibn al-Nafis',/m/07c7x9,1213-01-01
+b'Al-Tabarani',/m/0ff3r6,0873-01-01
+b'Amin Ahsan Islahi',/m/0fg61h,1904
+b'Khalid Masud',/m/027y1k3,1935-12-16
+b'Don Ihde',/m/05_pnp,1934
+b'Antoine Berman',/m/02x5zqg,1942-06-24
+b'Al-Kindi',/m/01nyqc,0801-01-01
+b'Fernando Gonz\xc3\xa1lez',/m/043m1pk,1895-04-24
+b'Estanislao Zuleta',/m/07mnbj,1935-02-03
+b'Mirza Mazhar Jan-e-Janaan',/m/025w7l3,1699
+b'Qadi Thanaullah Panipati',/m/0ksr9j,
+b'Clarence Irving Lewis',/m/027zvd,1883-04-12
+b'William Frankena',/m/027d7xl,1908-06-21
+b'David Lewis',/m/0232gm,1941-09-28
+b'Robert Brandom',/m/03ktgg,1950-03-13
+b'David Schmidtz',/m/06s6nb,1955
+b'Jason Brennan',/m/0q41611,1979
+b'Robert B. Pippin',/m/0drs69,1948-09-14
+b'Rudolf Otto',/m/02qtpj,1869-09-25
+b'Tudor Vianu',/m/03rtm6,1898-01-08
+b'Wilfrid Sellars',/m/01y1jz,1912-05-20
+b'Suzanne Briet',/m/09g7_g2,1894-02-01
+b'Albert Camus',/m/0lcx,1913-11-07
+b'Linda Trinkaus Zagzebski',/m/040s02,1946-01-01
+b'Martha Nussbaum',/m/01y3j6,1947-05-06
+b'Alasdair MacIntyre',/m/02tn3m,1929-01-12
+b'Bernard Williams',/m/02p76c,1929-09-21
+b'Nicolai Hartmann',/m/02j8qr,1882-02-20
+b'Max Scheler',/m/03crz1,1874-08-22
+b'Edward Abramowski',/m/08zg_h,1868-08-17
+b'Dallas Willard',/m/05bkmp,1935-09-04
+b'Ole Thyssen',/m/0280xhf,1944-11-03
+b'Jalal ad-Din Muhammad Rumi',/m/0461p,1207-10-14
+b'Sayyad Laal Shah Hamdani',/m/0ch24vc,
+b'Will Kymlicka',/m/03hnbb,1962-01-01
+b'Edith Penrose',/m/025_075,1914-11-15
+b'Hans Vaihinger',/m/02g_1q,1852-09-25
+b'Rosalind Hursthouse',/m/01rmxv,1943-11-10
+b'Herbert Marcuse',/m/03l44,1898-07-19
+b'B. R. Ambedkar',/m/01c1y0,1891-04-14
+b'Muhsin al-Hakim',/m/031qjr,1889-01-01
+b'Gerald Cohen',/m/05_3k7,1941-04-14
+b'T. K. Seung',/m/03hngpt,1930-09-20
+b'David Williams',/m/02vy44p,1738
+b'Peter Geach',/m/01s3cq,1916-03-29
+b'Alexandre Koyr\xc3\xa9',/m/06s3rg,1892-08-29
+b'Abdel Rahman Badawi',/m/0798bj,1917-02-17
+b'Theodor W. Adorno',/m/07h1q,1903-09-11
+b'Otto Neurath',/m/0d8n_,1882-12-10
+"b""John O'Neill""",/m/05x1mfc,1956
+b'Thomas Kuhn',/m/07lsm,1922-07-18
+b'Takis Fotopoulos',/m/08fq35,1940-10-14
+b'\xc3\x89mile Meyerson',/m/08yfvp,1859-02-12
+"b""Ka'ab al-Ahbar""",/m/026ht8c,
+b'Yusuf ibn Abd al-Rahman al-Mizzi',/m/0h47_d,1256-01-01
+b'Ibn Kathir',/m/02bkwx,1300-01-01
+b'Pierre Laffitte',/m/076092,1823-02-21
+b'Ibn Qayyim Al-Jawziyya',/m/05yrms,1292-02-04
+b'Ibn Taymiyyah',/m/01nyrx,1263-01-29
+b'Michael Walzer',/m/035fn3,1935-03-03
+b'Otto Bauer',/m/03j8bg,1881-09-05
+b'Jules de Gaultier',/m/0blrkm,1858-06-02
+b'Sh\xc5\xabz\xc5\x8d Kuki',/m/019hvw,1888-02-15
+b'Charles Cooley',/m/030zwp,1864-08-17
+b'Strato of Lampsacus',/m/02vn3_,-334-01-01
+b'Miroslav Krle\xc5\xbea',/m/01tw26,1893-07-07
+b'Lewis Mumford',/m/01tmnx,1895-10-19
+b'Jon Elia',/m/04gljv,1931-12-14
+b'Norbert Elias',/m/026gpc,1897-06-22
+b'Juan V\xc3\xa1zquez de Mella',/m/0cdwyv,1861-06-08
+b'Osvaldo Lira',/m/03cj3l1,1904-02-11
+b'Wolfi Landstreicher',/m/0557ff,
+b'Ruth Millikan',/m/06f7kk,1933-01-01
+b'Kostas Axelos',/m/0537ph,1924-06-26
+b'Henri Lefebvre',/m/03fg90,1901-06-16
+b'R. G. Collingwood',/m/02dm9c,1889-02-22
+b'Karl Korsch',/m/026vmm,1886-08-15
+b'Quentin Meillassoux',/m/0g_c06,1967-10-26
+b'Graham Priest',/m/09svky,1948-01-01
+b'Stanley Rosen',/m/0gjs7n,1929-07-29
+b'Crates of Athens',/m/02q3446,-400-01-01
+b'Yevgeny Baratynsky',/m/03jgrc,1800-03-02
+b'Jos\xc3\xa9 Correia da Serra',/m/02rzw5z,1751-06-05
+b'Johann Georg Sulzer',/m/09bky_,1720-10-05
+b'\xc3\x89mile Boutroux',/m/02cln2,1845-07-28
+b'Nikolay Lossky',/m/0dpx0c,1870-12-06
+b'Titu Maiorescu',/m/02j2j5,1840-02-15
+b'Kazimierz Twardowski',/m/03_3_q,1866-10-20
+b'Roy Johnston',/m/065z_vt,1929
+b'Rom Harr\xc3\xa9',/m/0d32tj,1927-12-18
+b'Mark Lilla',/m/0270gws,1956
+b'John Mearsheimer',/m/03wchs,1947-12-14
+b'David Stove',/m/04j6xh,1927-09-15
+b'Heinrich Rickert',/m/04f7p_,1863-05-25
+b'Maurice Blondel',/m/09cvw6,1861-11-02
+b'Jerzy \xc5\xbbu\xc5\x82awski',/m/0f8ft8,1874-07-14
+b'Jonathan Wolff',/m/08hsc0,1959-06-25
+b'Alan Carter',/m/02w9k2f,1952
+b'Mykhailo Drahomanov',/m/08ltzx,1841-09-18
+b'David Kelley',/m/03xbp1,1949-06-23
+b'Nicos Poulantzas',/m/059p_z,1936-09-21
+b'Norman Geisler',/m/05xgmdj,1932-07-21
+b'Herbert McCabe',/m/06vcfr,1926-08-02
+b'Brian Davies',/m/0gkgg6,1951
+b'Arthur Drews',/m/0dtt8_,1865-11-01
+b'Aristippus the Younger',/m/03cnldp,-400-01-01
+b'Richard Swinburne',/m/01m3q2,1934-12-26
+b'Antony Flew',/m/04tq_d,1923-02-11
+b'Jakob Schegk',/m/0dgq85p,1511-06-06
+b'Nicolaus Taurellus',/m/05qtch,1547-11-26
+b'Milan Komar',/m/03hk0hn,1921-06-04
+b'Homi K. Bhabha',/m/025trc3,1949-01-01
+b'Herbert Feigl',/m/05s0ft,1902-12-14
+b'John Zerzan',/m/0px7f,1943-01-01
+b'Paul Churchland',/m/0dgfzq,1942-10-21
+b'Renata Salecl',/m/0czcgtv,1962
+b'Kevin Mulligan',/m/02rs3pv,1951-06-23
+b'Jos\xc3\xa9 Guilherme Merquior',/m/07ngkz,1941-04-22
+b'Burhan al-Din al-Marghinani',/m/026xjlz,1135
+b'Axel Honneth',/m/073x7n,1949-06-18
+b'Ioan P. Culianu',/m/0598qd,1950-01-05
+b'Mark Lance',/m/0c7xlk,1959
+b'Ernest Gellner',/m/01gbkp,1925-12-09
+b'Louis Claude de Saint-Martin',/m/07cg0b,1743-01-18
+"b""Al-Hasan ibn 'Ali al-Barbahari""",/m/02w1sp6,
+b'Ibn Battah',/m/0264wfk,0916
+b'Arthur Fine',/m/026fjwt,1937-11-11
+b'Nancy Cartwright',/m/05mpds,1944-01-24
+b'P. F. Strawson',/m/01k94t,1919-11-23
+b'Ted Honderich',/m/03p67y,1933-01-30
+b'Kitaro Nishida',/m/04011l,1870-06-17
+b'Keiji Nishitani',/m/05y6wz2,1900-02-27
+b'Ion Dragoumis',/m/0fvmff,1878-09-02
+b'A. D. Gordon',/m/05rt6f,1856-06-09
+b'Renzo Novatore',/m/08pjyw,1890-05-12
+b'Abdulhakim Arvasi',/m/0cwmr5,1865-01-01
+b'Necip Faz\xc4\xb1l K\xc4\xb1sak\xc3\xbcrek',/m/07nh_8,1904-05-26
+b'Norberto Bobbio',/m/04_0vt,1909-10-18
+b'Peter Railton',/m/0d6wzk,1950-05-23
+b'Nihal Ats\xc4\xb1z',/m/07lcb0,1905-01-12
+b'Tetsuro Watsuji',/m/054hnt,1889-03-01
+b'Karel Kos\xc3\xadk',/m/027sywj,1926-06-26
+b'Michel Foucault',/m/0ct9_,1926-10-15
+b'Montesquieu',/m/0f9wd,1689-01-18
+b'Jacques Derrida',/m/0dzkq,1930-07-15
+b'Iris Murdoch',/m/0gdgq,1919-07-15
+b'Archytas',/m/01k8rs,-427-01-01
+b'Eudoxus of Cnidus',/m/0cytr,-407-01-01
+b'Muhammad Tahir',/m/05q40rl,1962-03-21
+b'Andy Clark',/m/032sry,1957
+b'Cleanthes',/m/016_tb,-329-01-01
+b'Chrysippus',/m/0986m,-280-01-01
+b'Lacydes of Cyrene',/m/02ss_v,-300-01-01
+b'Al-Mutanabbi',/m/03pqg1,0915-01-01
+b'Ali ibn al-Madini',/m/0fdv84,0778-01-01
+b'Emil Lask',/m/05p584l,1875-09-25
+b'Alan Soble',/m/08640j,1947-03-04
+b'Leucippus',/m/04k42,-500-01-01
+b'Al-Khazini',/m/02rpzkf,1100-01-01
+b'Knud Ejler L\xc3\xb8gstrup',/m/02nkhj,1905-09-02
+b'Bruce Lee',/m/099d4,1940-11-27
+b'William Alston',/m/081l4,1921-11-29
+b'Robert Paul Wolff',/m/032yvb,1933-12-27
+b'Robert C. Solomon',/m/03w26z,1942-09-14
+b'Louis Michael Seidman',/m/0ds4g6n,1947
+b'Peter G. Ossorio',/m/0c41jl_,1926-05-04
+b'Edith Stein',/m/0bxhd,1891-10-12
+b'Douglas Hofstadter',/m/02fcx,1945-02-15
+b'Empedocles',/m/02lvm,-489-01-01
+b'Ernest Nagel',/m/04j3_z,1901-11-16
+b'Friedrich Hayek',/m/032r1,1899-05-08
+b'Fyodor Dostoyevsky',/m/032l1,1821-11-23
+b'Francis Fukuyama',/m/02_jg,1952-10-27
+b'Theognostus of Alexandria',/m/043sk2n,0210
+b'Gregory of Nyssa',/m/09g_z,0335-01-01
+b'Hildegard of Bingen',/m/03kf2,1098-01-01
+b'Ramon Llull',/m/0j3_p,1232-01-01
+b'Raymond Aron',/m/01tw09,1905-03-14
+b'J\xc3\xbcrgen Habermas',/m/044wb,1929-06-18
+b'Julia Kristeva',/m/046gs,1941-06-24
+b'William of Ockham',/m/0848q,1288-01-01
+b'John Wycliffe',/m/046f1,1320-01-01
+b'Mikhail Bakhtin',/m/02rxg8,1895-11-17
+b'Gaetano Mosca',/m/09cfqh,1858-04-01
+b'Karl Popper',/m/047g6,1902-07-28
+b'Martin Heidegger',/m/099bk,1889-09-26
+b'Marsilio Ficino',/m/050gd,1433-10-28
+"b'Nicolas de Caritat, marquis de Condorcet'",/m/09dyk,1743-09-17
+b'Kurt G\xc3\xb6del',/m/048c2,1906-04-28
+b'Alfred Tarski',/m/0g9m4,1901-01-14
+b'Max Weber',/m/04xm_,1864-04-21
+b'Maurice Merleau-Ponty',/m/04xbh,1908-03-14
+b'Mordecai Kaplan',/m/056d_,1881-06-11
+b'Hazrat Babajan',/m/0cpsbj,1806
+b'Meher Baba',/m/057p_,1894-02-25
+b'Upasni Maharaj',/m/0cprqc,1870-05-15
+b'Oswald Spengler',/m/05nj0,1880-05-29
+b'Taha Hussein',/m/05n4mk,1889-11-14
+b'Peter Singer',/m/05xnb,1946-07-06
+b'Paul Val\xc3\xa9ry',/m/05vy1,1871-10-30
+b'Pope John Paul II',/m/05yfx,1920-05-18
+b'Josef Pieper',/m/0770h_,1904-01-01
+b'Pherecydes of Syros',/m/03g3d3,-564-01-01
+b'Thales',/m/07dl6,-622-01-01
+b'Robert Anton Wilson',/m/06hgj,1932-01-18
+b'Poul Martin M\xc3\xb8ller',/m/0193t0,1794-03-21
+b'Robert M. Pirsig',/m/06hkh,1928-09-06
+b'Friedrich Adolf Trendelenburg',/m/04q1q6,1802-11-30
+b'\xc3\x89tienne Gilson',/m/044g6w,1884-06-13
+b'Olaf Stapledon',/m/0ph77,1886-05-10
+b'Umberto Eco',/m/07vw5,1932-01-05
+b'Ted Nelson',/m/07rrt,1937-06-17
+b'Khwaja Shamsuddin Azeemi',/m/0264nkt,1927-10-17
+b'Vladimir Vernadsky',/m/07zsx,1863-03-24
+b'Himerius',/m/05cdm7,0315-01-01
+b'Zeno of Citium',/m/09863,-332-01-01
+b'Christian Jakob Kraus',/m/0ckcm9,1753-07-27
+b'Joshua Knobe',/m/043qvvf,
+b'Crates of Thebes',/m/0krkh,-364-01-01
+b'Richard H\xc3\xb6nigswald',/m/09hz57,1875-07-18
+b'Aron Gurwitsch',/m/066v4x,1901-01-17
+b'John Austin',/m/03r2d0,1790-03-03
+b'Joseph Raz',/m/07c37_,1939-03-21
+b'Oksana Zabuzhko',/m/027s_gd,1960-09-19
+b'Susan Haack',/m/01vmpn,1945-01-01
+b'Richard Taylor',/m/05y7f05,1919-11-05
+b'Fethullah G\xc3\xbclen',/m/04pl6c,1941-04-27
+b'Ernest Lepore',/m/02rc14f,1950
+b'Bernard Gert',/m/03t2dq,1934-10-16
+b'Clitomachus',/m/06h032,-186-01-01
+b'Lon L. Fuller',/m/0209h5,1902-06-15
+b'Brian Barry',/m/06q4kd,1936-01-13
+b'Luciano Floridi',/m/0c6g6s,1964-11-16
+b'Kurt Singer',/m/0dttqg,1886-05-12
+b'Diogenes Allen',/m/05x_nj4,1932-10-17
+b'Fran\xc3\xa7ois Picavet',/m/0b5j3b,1851-05-17
+b'Fred Feldman',/m/05x_yml,1941
+b'Richard Popkin',/m/04hlxr,1923-12-27
+b'Ernst Bloch',/m/02r76r,1885-07-08
+b'Graham Harman',/m/08fzjv,1968-05-09
+b'Ibn Yunus',/m/03xxhv,0950-01-01
+"b""Ch'ien Mu""",/m/03nnc3d,1895-07-30
+b'Chris Harman',/m/02vk95,1942-11-08
+b'H\xc3\xa9ctor-Neri Casta\xc3\xb1eda',/m/0kt7yn,1924-12-13
+b'Pierre Hadot',/m/05vdbw9,1922-02-21
+b'Paolo Virno',/m/04jb0c0,1952-01-01
+b'Norman Malcolm',/m/032wb9,1911-06-11
+b'Norbert Bolz',/m/06w9xrt,1953-04-17
+b'Peter Ludlow',/m/08ht64,1957-01-16
+b'Jason Stanley',/m/0kt8pp,1969-10-12
+b'Ramchandra Gandhi',/m/02z69ms,1937-06-09
+b'Nicholas Wolterstorff',/m/0419d0,1932-01-21
+b'Kendall Walton',/m/06dty2,1939
+b'Todd May',/m/03d6htc,1955
+b'Muhammad Iqbal',/m/01y58x,1877-11-09
+b'Stephen David Ross',/m/02qcmrd,1935
+b'Franz Rosenzweig',/m/01hk6q,1886-12-25
+b'Alain de Benoist',/m/02_r4k,1943-12-11
+b'Bernard Bosanquet',/m/05wj_3m,1848-06-14
+b'Cornel West',/m/02szmg,1953-06-02
+b'Ali Shariati',/m/014_yc,1933-11-23
+b'Helena Blavatsky',/m/016hbf,1831-08-24
+b'John Searle',/m/012ssr,1932-07-31
+b'John Cage',/m/0hgqq,1912-09-05
+b'John McMurtry',/m/01tnn7,1939
+b'Jean Vanier',/m/02vznn,1928-09-10
+b'Judea Pearl',/m/033w0f,1936-01-01
+b'Langdon Winner',/m/01q5c5,1944-08-07
+b'Paul Kurtz',/m/01t5wz,1925-12-21
+b'Ramakrishna',/m/026m9d,1836-02-18
+b'Zygmunt Bauman',/m/0313tv,1925-11-19
+b'William Lane Craig',/m/01tpjh,1949-08-23
+b'Christian Thomasius',/m/01926f,1655-01-01
+b'Peter Lamborn Wilson',/m/0188lg,1945-01-01
+b'Philippe Descola',/m/04053hc,1949-06-19
+b'Claude Lefort',/m/07xsdp,1924-04-21
+b'Laurence A. Rickels',/m/03hn44b,1954-12-02
+b'Hermann Heller',/m/06s79c,1891-07-17
+b'John Haugeland',/m/01xw_6,1945-03-13
+b'Jakob Friedrich Fries',/m/018fvk,1773-08-23
+b'Friedrich Eduard Beneke',/m/018ftg,1798-02-17
+b'George Boolos',/m/01y0tp,1940-09-04
+b'Herbert Blumer',/m/05gqhm,1900-03-07
+b'Jerzy Prokopiuk',/m/0gk95f,1931-06-05
+b'Costanzo Preve',/m/0dm0q8,1943-04-14
+b'Eugene Kamenka',/m/08x447,1928-03-04
+b'John Passmore',/m/028950f,1914-09-09
+b'Edgar Morin',/m/08nqnm,1921-07-08
+b'Pavel Florensky',/m/086p39,1882-01-22
+b'Arda Denkel',/m/0641mj9,1949-07-06
+b'Shahab al-Din Yahya ibn Habash Suhrawardi',/m/03vjcd,1155-01-01
+b'Ernest Sosa',/m/0brqns,1940-06-17
+b'Isaac Israeli ben Solomon',/m/046bqg,0832-01-01
+b'Christian von Ehrenfels',/m/03ks6s,1859-06-20
+b'Paul Virilio',/m/02xccx,1932-01-04
+b'Emil du Bois-Reymond',/m/01l6f0,1818-11-07
+b'William A. Earle',/m/0dqxxp,1919
+b'Peter Suber',/m/01zs6q,1951-11-08
+b'Ghulam Ali Dihlawi',/m/0cmc6ws,1743
+b'Roy Bhaskar',/m/02zhkm,1944-05-15
+b'Giovanni Botero',/m/05zf5b,1544-01-01
+b'Fazal Ali Qureshi',/m/0ch34v_,
+b'Georg Bernhard Bilfinger',/m/06_d9g,1693-01-23
+b'Greg Bahnsen',/m/07js6_,1948-09-17
+b'John Frame',/m/03_cdw,1939-04-08
+b'Kam\xc4\x81l al-D\xc4\xabn al-F\xc4\x81ris\xc4\xab',/m/05sfk0,1267-01-01
+b'Avital Ronell',/m/05z_ym,1952-04-15
+b'Richard Jeffrey',/m/0bvlrv,1926-08-05
+b'Yamazaki Ansai',/m/075j34,1619-01-01
+b'Qalandar Baba Auliya',/m/026_mg_,1898
+b'Hastings Rashdall',/m/05xd41c,1858
+b'Peter Winch',/m/05y3b2z,1926-01-14
+b'Eugen Relgis',/m/0gh8wl3,1895-05-02
+b'Avempace',/m/02ms38,1080-01-01
+b'Ronald Dworkin',/m/01rbsv,1931-12-11
+b'Jeremy Waldron',/m/05zk3z,1953-10-13
+b'George Dickie',/m/06z_g7,1926-08-12
+b'Robert S. Corrington',/m/02q7fh6,1950-05-30
+b'Zaki al-Arsuzi',/m/056508,1900-06-01
+b'Morris Raphael Cohen',/m/036b2v,1880-07-25
+b'John Rawls',/m/0x3r3,1921-02-21
+b'Pierre Bourdieu',/m/0rls8,1930-08-01
+b'Claude Adrien Helv\xc3\xa9tius',/m/01bwl8,1715-01-26
+b'Ray Brassier',/m/03hkn8t,1965
+b'Giorgio Agamben',/m/01vr7x,1942-04-22
+b'Clinomachus',/m/03h4nt7,
+b'Edouard Schure',/m/05qdf5x,1841-01-21
+b'Richard Tarnas',/m/0bt2p6,1950-02-21
+b'Ivo Urban\xc4\x8di\xc4\x8d',/m/04jnb18,1930-12-11
+b'Jo\xc5\xbee Pu\xc4\x8dnik',/m/02vyht2,1932-03-09
+b'Henri Bourassa',/m/01kp0x,1868-09-01
+b'Northrop Frye',/m/0myp_,1912-07-14
+b'Anthony John Patrick Kenny',/m/01s3b_,1931-03-16
+b'Barry Stroud',/m/03cx883,1935-01-01
+b'Alexandre Koj\xc3\xa8ve',/m/039tyk,1902-04-28
+b'Alexander Bogdanov',/m/060dx2,1873-09-03
+b'Alcmaeon of Croton',/m/06ppv8,-600-01-01
+b'Isaiah Berlin',/m/014nx0,1909-06-06
+b'G. E. M. Anscombe',/m/02tc9g,1919-03-18
+b'Hans Sluga',/m/056jjf,1939-04-24
+b'Harold Innis',/m/0184tt,1894-11-05
+b'Colin McGinn',/m/02yrjh,1950-03-10
+b'Hippasus',/m/03q0l5,-600-01-01
+b'Asclepiodotus of Alexandria',/m/03d1x7k,0500-01-01
+b'Damascius',/m/014_q_,
+b'John Gray',/m/041ydw,1948-04-17
+b'John McDowell',/m/01f2rc,1942-03-07
+b'Jean Baudrillard',/m/01hmpq,1929-07-20
+b'Gila Sher',/m/02rhl9k,
+b'John Etchemendy',/m/0dpsxx,1952
+b'Maurice Blanchot',/m/01m29m,1907-09-22
+b'Lucien Goldmann',/m/063l0j,1913-07-20
+b'Keith Lehrer',/m/06zkby,1936-01-10
+b'Luce Irigaray',/m/02wjfw,1930-05-03
+b'Marinus of Neapolis',/m/01_b_7,0440-01-01
+b'Keith DeRose',/m/02qdjpg,1962-04-24
+b'Roderick T. Long',/m/06rr91,1964-02-04
+b'Samuel von Pufendorf',/m/01926v,1632-01-08
+b'Peter Hacker',/m/0dhvs7,1939-07-15
+b'Stephen Toulmin',/m/0592mp,1922-03-25
+b'Victor Cousin',/m/017lcv,1792-11-28
+b'Paul Tillich',/m/025hnq,1886-08-20
+b'J. M. E. McTaggart',/m/03c3_v,1866-09-03
+b'Philolaus',/m/01k73v,-469-01-01
+b'Ghulam Bhik Nairang',/m/026q5qq,1876-09-26
+b'Peter Wessel Zapffe',/m/065xs,1899-12-18
+b'Kurt Grelling',/m/05bp_p,1886-03-02
+b'Walter J. Ong',/m/04btzp,1912-11-30
+b'Hans Reichenbach',/m/059cpt,1891-09-26
+b'William L. Rowe',/m/02qpts6,1931-07-26
+b'George Croom Robertson',/m/01l6cy,1842-03-10
+b'Zechariah Chafee',/m/05vq17y,1885-12-07
+b'Max Frisch',/m/01spn2,1911-05-15
+b'Edgar Quinet',/m/01s8yk,1803-02-17
+b'Michael Dummett',/m/01s3d2,1925-06-27
+b'John Toland',/m/01l8wn,1670-11-30
+b'Tyler Burge',/m/0b9p5k,1946-01-01
+b'David Pearce',/m/01lmjr,
+b'Nick Bostrom',/m/024r3r,1973-03-10
+b'Mohsen Kadivar',/m/03fdzl,1959-06-07
+b'Metrocles',/m/03pfkf,-400-01-01
+b'J\xc4\x81bir ibn Hayy\xc4\x81n',/m/0g_ks,0721-01-01
+b'Richard Boyd',/m/0d58kr,1942-05-19
+b'Socrates',/m/06mrq,-469-01-01
+b'Voltaire',/m/07ym0,1694-11-21
+b'Cicero',/m/01tf5,-106-12-31
+b'\xc3\x89mile Armand',/m/05d5kj,1872-03-26
+b'James Hutchison Stirling',/m/04lhff,1820-01-22
+b'Odo Marquard',/m/05y431s,1928-02-26
+b'Haji Dost Muhammad Qandhari',/m/09gjkl0,
+b'Muhammad Hamidullah',/m/05yfqc7,1908-02-09
+b'Arthur Prior',/m/05w44s2,1914-12-04
+b'Kit Fine',/m/0b3dmq,1946-03-26
+b'Jacques Maritain',/m/02t88h,1882-11-18
+b'Diogenes La\xc3\xabrtius',/m/0krmh,0180-01-01
+b'Michael Hardt',/m/02pyjw,1960-01-01
+b'Georg Anton Friedrich Ast',/m/05hbxv,1778-12-29
+b'Peter Achinstein',/m/049_lx,1935-06-30
+b'Imre Lakatos',/m/09l2q,1922-11-09
+b'Abdolkarim Soroush',/m/04mjx0,1945-12-16
+b'Gayatri Chakravorty Spivak',/m/01t23c,1942-02-24
+b'Edwin Arthur Burtt',/m/076mwy,1892
+b'B. W. Powe',/m/0fkb9r,1955-03-23
+b'Andr\xc3\xa9 Glucksmann',/m/06fb43,1937-06-19
+b'Anders Chydenius',/m/030cqw,1729-02-26
+b'David Ray Griffin',/m/05zjkz,1939-08-08
+b'Morteza Motahhari',/m/05_n9f,1919-01-31
+b'J. P. Moreland',/m/05t65j,1948-03-09
+b'R. Radhakrishnan',/m/09gkygn,1949-10-28
+b'Ion Heliade R\xc4\x83dulescu',/m/093130,1802-01-06
+b'Charles Hartshorne',/m/02svrd,1897-06-05
+b'Gajanan Maharaj',/m/05qhyz,
+b'Pierre Charron',/m/01sjky,1541-01-01
+b'Roberto Mangabeira Unger',/m/056xnr,1947-03-24
+b'Raymond Williams',/m/016ff8,1921-08-31
+b'Svetozar Markovi\xc4\x87',/m/04y51l,1846-09-09
+b'Israr Ahmed',/m/07s3fm,1932-04-26
+b'Hunayn ibn Ishaq',/m/0462f6,0808-01-01
+b'Peter van Inwagen',/m/05mn7z,1942-09-21
+b'Muhammad ibn al-Habib',/m/0d60pg,1876
+b'Sam Harris',/m/079fgp,1967-04-09
+b'Juli\xc3\xa1n Mar\xc3\xadas',/m/09k0p4,1914-06-17
+b'John F. X. Knasas',/m/0bqgql,1948
+b'Alexander Nehamas',/m/04crlg,1946-03-22
+b'Mary Daly',/m/032q5v,1928-10-16
+b'John Finnis',/m/06dlgw,1940-07-28
+b'Alex Callinicos',/m/0278g0,1950-07-24
+b'John Perry',/m/07th7w,1943-01-16
+b'Chris Bateman',/m/090yzw,1972-01-01
+b'Keith Ward',/m/0bmm5j,1938-08-22
+b'Hamid Dabashi',/m/08x12g,1951-06-15
+b'Seyla Benhabib',/m/0bgwxt,1950-09-09
+b'Timothy Sprigge',/m/02r4v1,1932-01-14
+b'Olavo de Carvalho',/m/022kp6,1947-04-29
+b'Walter Charleton',/m/03xsmt,1619-02-02
+b'Brand Blanshard',/m/02qxnk,1892-08-27
+b'Sibawayh',/m/03p08g,0760-01-01
+b'Eugen D\xc3\xbchring',/m/042t1y,1833-01-12
+b'Michael Otsuka',/m/0b1jdy,1964-09-15
+b'Michel Henry',/m/05hr60,1922-01-10
+b'Sufyan al-Thawri',/m/0d6z20,0716-01-01
+b'I. A. Richards',/m/028ws7,1893-02-26
+b'Kenneth E. Boulding',/m/0322cj,1910-01-18
+b'Wolfgang Smith',/m/02rxdfx,1930-01-01
+b'Christine Korsgaard',/m/01bqsn,1952-01-01
+b'Stanis\xc5\x82aw Le\xc5\x9bniewski',/m/026lh8,1886-03-30
+b'Mark Bevir',/m/0279f24,1963
+b'Charles Sanders Peirce',/m/01ty4,1839-09-10
+b'Susanne Katherina Langer',/m/0771w3,1895-12-20
+b'Richard Cumberland',/m/02mzdw,1631-07-15
+b'Wilbur Marshall Urban',/m/02vx_jf,1873
+b'Eubulides',/m/02pvg,-500-01-01
+b'Bell Hooks',/m/01cj42,1952-09-25
+b'Fakhr ad-Din ar-Razi',/m/01w6t8,1149-01-01
+b'Iamblichus',/m/036n69,0250-01-01
+b'Aedesius',/m/0_r4,
+b'Speusippus',/m/02whph,-407-01-01
+b'Xenocrates',/m/0172r1,-395-01-01
+b'Syed Ahmad Khan',/m/02g7z5,1817-10-17
+b'Walter Benjamin',/m/01h2_6,1892-07-15
+b'Florian Znaniecki',/m/042ng8,1882-01-15
+b'Jin Yuelin',/m/0dnx5t,1895-01-01
+b'Hao Wang',/m/0424j5,1921-05-20
+b'Norman O. Brown',/m/04x9n7,1913-09-25
+b'R. M. Hare',/m/01kblf,1919-03-12
+b'Albert of Saxony',/m/03hd6x,1316-01-01
+b'John Lachs',/m/05xvc__,1934-07-17
+b'Daniel Ross',/m/0h1pwy,1970
+b'Jos\xc3\xa9 Gaos',/m/09f2t6,1900-12-26
+b'Thomas Pangle',/m/08kbhg,1944
+b'Tara Smith',/m/0b49cd,1961
+b'Ignacio Ellacur\xc3\xada',/m/02sgkx,1930-11-09
+b'James Franklin',/m/02qltkl,1953
+b'Keith Donnellan',/m/0byc9d,1931-01-01
+b'Chantal Mouffe',/m/02xrbf,1943-06-17
+b'Ullin Place',/m/0c04ph,1924-10-24
+b'Helen Longino',/m/0dh3jf,1944-07-13
+b'Philipp Mainl\xc3\xa4nder',/m/02y5yw,1841-01-01
+b'Al-Ghazali',/m/012prf,1058-01-01
+b'Vladimir Lossky',/m/09ypp7,1903-06-21
+b'Alexandru Dimitrie Xenopol',/m/09qwv6,1847-03-23
+b'Nahum Norbert Glatzer',/m/0gkwn1,1903-03-25
+b'Mihai Ralea',/m/0wqxy66,1896-05-01
+b'B. F. Skinner',/m/01jv4,1904-03-20
+b'A.J. Ayer',/m/0w2w,1910-10-29
+b'Alan Turing',/m/0n00,1912-06-23
+b'Nicarete of Megara',/m/03m5qqz,
+b'Albert Schweitzer',/m/05vwxf7,1875-01-14
+b'Avicenna',/m/0m93,0980-08-26
+b'Abraham Joshua Heschel',/m/011qh,1907-01-11
+b'Alain de Lille',/m/0q60,1120-01-01
+b'Amalric of Bena',/m/0ryy,1200-01-01
+b'Theodorus the Atheist',/m/03cjtjh,-339-01-01
+b'Ammonius Hermiae',/m/0skf,0440-01-01
+b'Anaximander',/m/0mm8,-609-01-01
+b'Anaximenes of Miletus',/m/0sst,-585-01-01
+b'C. D. Broad',/m/05wvm8h,1887-12-30
+b'Daniel Dennett',/m/02fc2,1942-03-28
+b'Eric Hoffer',/m/02lzx,1902-07-25
+b'Robert Nozick',/m/06k0y,1938-11-16
+b'Charles Malik',/m/0h2vxk,1906-01-01
+b'Ervin L\xc3\xa1szl\xc3\xb3',/m/077pvj,1932-06-12
+b'F. S. C. Northrop',/m/09035_,1893-11-27
+b'Isabelle Stengers',/m/027t2kg,1949-01-01
+b'Jules Vuillemin',/m/03hp457,1920-02-15
+b'Paul Weiss',/m/05y90yc,1901-05-19
+b'Thomas Jay Oord',/m/0b1rdg,1965
+b'Emil Cioran',/m/01l8_n,1911-04-08
+b'Carl Friedrich von Weizs\xc3\xa4cker',/m/04rl4x,1912-06-28
+b'Dagfinn F\xc3\xb8llesdal',/m/0f934y,1932-06-22
+b'Boetius of Dacia',/m/0bdh31,1300-01-01
+b'Edward Westermarck',/m/05wm9_b,1862-11-20
+b'\xc3\x89tienne Souriau',/m/06zl5yn,1892-04-26
+b'Louis Rougier',/m/0g1vg0,1889-04-10
+b'Jean-Fran\xc3\xa7ois Lyotard',/m/01k3dv,1924-08-10
+b'Jyotirao Phule',/m/030jtz,1827-04-11
+b'Moncure D. Conway',/m/01h39m,1832-03-17
+b'Jiva Goswami',/m/098xl_,1511-01-01
+b'Nancey Murphy',/m/0cpz00,
+b'Gilbert Harman',/m/05mdm2,1938-01-01
+b'Hipparchia of Maroneia',/m/0cg0d2,-0349
+b'John Selden',/m/01c0ss,1584-12-16
+b'William Thompson',/m/05kd5z,1775-06-30
+b'Gerardus Heymans',/m/01cwy0,1857-04-17
+b'Randall Collins',/m/0c0zs7,1941-01-01
+b'Mario Bunge',/m/01ckmh,1919-09-21
+b'\xc3\x89mile Littr\xc3\xa9',/m/01cd1v,1801-02-01
+b'Harriet Martineau',/m/01fbhx,1802-06-12
+b'Siger of Brabant',/m/01bwwr,1240-01-01
+b'Sri Aurobindo',/m/01gwlg,1872-08-15
+b'Pierre Leroux',/m/01f3pm,1797-04-07
+b'Mozi',/m/01by94,-469-01-01
+b'Harry Frankfurt',/m/04rxxy,1929-05-29
+b'Susan R. Wolf',/m/019ts_,1952
+b'Nicholas Roerich',/m/01fpf6,1874-10-09
+b'P. D. Ouspensky',/m/01fjj4,1878-03-04
+b'Petar II Petrovi\xc4\x87-Njego\xc5\xa1',/m/01hlpc,1813-11-13
+b'Grace Ji-Sun Kim',/m/0h680xz,1969-05-04
+b'Ernst Mally',/m/0644qk,1879-10-11
+b'Edward N. Zalta',/m/07lr3z,1952
+b'David Malet Armstrong',/m/06mn3v,1926-07-08
+b'John Elof Boodin',/m/067m79,1869-11-14
+b'Jaegwon Kim',/m/07dkzy,1934-09-12
+b'Al-Dhahabi',/m/063cnf,1274-01-01
+b'Harold Arthur Prichard',/m/06r3tg,1871-01-01
+b'H. H. Price',/m/086z4h,1899-05-17
+b'George H. Smith',/m/05v3k3,1949-02-10
+b'Patrick Suppes',/m/0cps10,1922-03-17
+b'Larry Laudan',/m/026r115,1941-10-16
+b'Ibn Rajab',/m/0ckcfr,1335-01-01
+b'Tzvetan Todorov',/m/05xb11l,1939-03-01
+b'David Abram',/m/03crhvv,1957-06-24
+b'Eugene Gendlin',/m/060wmv,1926-12-25
+b'Peter D. Klein',/m/04stz6,1940-09-17
+b'Dean Zimmerman',/m/05sy02k,
+b'Anniceris',/m/07r3vt,-400-01-01
+b'Jacques Bouveresse',/m/025zjj4,1940-08-20
+b'Freya Mathews',/m/05xrtv2,1949
+"b""Abd al-Rahim ibn al-Husain al-'Iraqi""",/m/0c26rk,1325
+b'R. A. W. Rhodes',/m/0by0lp_,1944-08-15
+b'Terence Parsons',/m/025vyxy,1939
+b'Hans Joas',/m/0g5dlb,1948-11-27
+b'Angela Davis',/m/0cz_y,1944-01-26
+b'Carlo Penco',/m/0bd2cq,1948-08
+b'Timothy Williamson',/m/08nh_k,1955-06-08
+b'John Hawthorne',/m/02pl9qb,
+b'Nur ad-Din al-Bitruji',/m/086mb7,1200-01-01
+b'Kenneth Binmore',/m/09rhsl,1940-09-27
+b'Alexander Piatigorsky',/m/0b81xv,1929-01-30
+b'Amartya Sen',/m/0djqc,1933-11-03
+b'Antonio Gramsci',/m/0fkyd,1891-01-22
+b'Bob Black',/m/0ffzr,1951-01-04
+b'Kuno Fischer',/m/01b5j7,1824-07-23
+b'Gottlob Frege',/m/0cz35,1848-11-08
+b'Emmanuel Levinas',/m/0mj3d,1906-01-12
+b'Dayananda Saraswati',/m/0cdf6,1824-02-12
+b'Jean Piaget',/m/0nkt0,1896-08-09
+b'Jeremy Bentham',/m/0cgwf,1748-02-15
+b'Paul Feyerabend',/m/0g7kc,1924-01-13
+b'Rudolf Carnap',/m/0fx12,1891-05-18
+b'Saul Kripke',/m/0cwlg,1940-11-13
+b'Nikos Kazantzakis',/m/0dkjj,1883-02-18
+b'Raymond Smullyan',/m/0fmgf,1919-05-25
+b'Sarvepalli Radhakrishnan',/m/0cdc_,1888-09-05
+b'Muhammad ibn Zakariya al-Razi',/m/0kfmt,0864-01-01
+b'Robert Grosseteste',/m/0nfsf,1175-01-01
+"b""Pietro d'Abano""",/m/0kzf8,1250-01-01
+b'W. E. B. Du Bois',/m/0mddq,1868-02-23
+b'Richard Rorty',/m/01d494,1931-10-04
+b'George Trumbull Ladd',/m/074p1v,1842-01-19
+b'Antisthenes',/m/0p765,-443-01-01
+b'Francisco Varela',/m/0k6q5,1946-09-07
+b'Auberon Herbert',/m/027yvp,1838-06-18
+b'Carlos Vaz Ferreira',/m/02r5t9d,1872-10-15
+b'Sphaerus',/m/03c1ryc,-0284
+b'Sachal Sarmast',/m/09d2z6,1739-01-01
+"b""Muhammad Husayn Tabataba'i""",/m/050hw4,1892-01-01
+b'Daisaku Ikeda',/m/02qg44,1928-01-02
+b'Judith Jarvis Thomson',/m/06r376,1929-10-04
+b'Charles Secr\xc3\xa9tan',/m/037n4p,1815-01-19
+b'Michael J. Sandel',/m/02s4tw,1953-03-05
+b'Henry Corbin',/m/05x14p_,1903-04-14
+b'Lucian Blaga',/m/02rrmy,1895-05-09
+b'Hermann Cohen',/m/02mnz5,1842-07-04
+b'Hayden White',/m/04dfr2,1928-07-12
+b'Walter of Bruges',/m/04yffp8,
+b'Matthew of Aquasparta',/m/02pjsvg,1240-01-01
+b'Brian J. Mistler',/m/0267_dt,
+b'Marcel Gauchet',/m/05vfl6f,1946-01-01
+b'Yin Haiguang',/m/0_1lq2b,1919-12-05
+b'Yi Hwang',/m/01y8hx,1501-01-01
+b'Edward Abbey',/m/01_wkb,1927-01-29
+b'Robert Audi',/m/0cp500,1941-01-01
+b'\xc4\xbdudov\xc3\xadt \xc5\xa0t\xc3\xbar',/m/01yyzl,1815-10-28
+b'Jos\xc3\xa9 Ingenieros',/m/0cr6by,1877-04-24
+b'Al-Ma\xca\xbfarri',/m/06c81y,0973-01-01
+b'Allan Gotthelf',/m/0274p57,1942-12-30
+b'Sean Dorrance Kelly',/m/0gds1lv,
+b'Gonzalo Arango',/m/0502vn,1931-01-18
+b'Elisabeth Lloyd',/m/02773xc,1956-09-03
+b'Gala Galaction',/m/0cqb8t,1879-04-16
+b'Mar\xc3\xada Zambrano',/m/026z7xj,1904-04-22
+b'J. David Velleman',/m/03c9w8s,1952
+b'John William Miller',/m/027qq0r,1895
+b'Semyon Frank',/m/027dxvc,1877-01-28
+b'\xc3\x81gnes Heller',/m/06s96n,1929-05-12
+b'Stephen Yablo',/m/047lyk_,1957
+b'Theophrastus',/m/0p7fb,-370-01-01
+b'Plotinus',/m/09kw9,0203-01-01
+b'Confucius',/m/01rll,-549-09-16
+b'Georges Ivanovitch Gurdjieff',/m/01whq3q,1866-01
+b'Mencius',/m/01b_fn,-371-01-01
+b'Shibli Nomani',/m/05lsw2,1857-06-03
+b'Miguel de Unamuno',/m/017cgg,1864-09-29
+"b'Oliver Wendell Holmes, Jr.'",/m/02knb_,1841-03-08
+b'Boethius',/m/01bt14,0480-01-01
+b'Robert Cummings Neville',/m/02r67sf,1939-05-01
+b'Simon Blackburn',/m/028xtj,1944-07-12
+b'Gordon Clark',/m/03z40r,1902-08-31
+b'Polemon',/m/02pqkyp,-400-01-01
+b'Porphyry',/m/03clpz,0233-01-01
+b'Diogenes of Sinope',/m/01j107,-410-01-01
+b'Charles Blount',/m/08bkvk,1654-04-27
+b'Hierocles of Alexandria',/m/0ksrk,0500-01-01
+b'George Grant',/m/02nb6t,1918-11-01
+b'Gareth Evans',/m/0396px,1946-05-12
+b'Saadi Shirazi',/m/025xvp9,1203-01-01
+b'Zhuang Zhou',/m/0164zy,-364-01-01
+b'Crantor',/m/016_s1,-400-01-01
+b'Lawrence Kohlberg',/m/0169yd,1927-10-25
+b'Gershom Carmichael',/m/01d2mn,1672
+b'Michael Oakeshott',/m/022j_j,1901-12-11
+b'Dariush Shayegan',/m/04dmhm,1935-02-02
+"b""Abul A'la Maududi""",/m/03ymgq,1903-09-25
+b'Sayyid Qutb',/m/02v15j,1906-10-09
+b'John P. Burgess',/m/080b7c9,1948-06-05
+b'James F. Conant',/m/08w834,1958-06-10
+b'Abdullah Yusuf Azzam',/m/03xcfc,1941-01-01
+b'Laurence BonJour',/m/05f2q7,1943-08-31
+"b'Anthony Ashley-Cooper, 3rd Earl of Shaftesbury'",/m/02rpkj,1671-02-26
+b'William Christian',/m/09dj64,1945
+b'Peter K. Unger',/m/046h74,1942-04-25
+b'Helena Roerich',/m/041mry,1879-02-12
+b'Ata ibn Abi Rabah',/m/0h25f0,
+b'Ibn Jurayj',/m/0h1vfb,
+b'Sandra Laugier',/m/02rs23y,1961-01-01
+b'Edward John Carnell',/m/07kfmr,1919
+b'Stephen Neale',/m/0b8n7z,1958-01-09
+b'Ibn Hajar Al-Asqalani',/m/08sl4n,1372-02-18
+b'Laozi',/m/0h9wp,-603-01-01
+b'Eusebius',/m/02rv0,0265-01-01
+b'George Campbell',/m/08js7h,1719-12-25
+b'Ahmad Sirhindi',/m/07fl2y,1562-01-01
+b'Dan Goldstick',/m/056cvn,
+b'Tajuddin Muhammad Badruddin',/m/03d5h8j,1861-01-27
+b'Muhammad al-Tijani',/m/08wh5l,1943-02-02
+b'Tariq Ramadan',/m/02sgnh,1962-08-26
+b'Thomas Nagel',/m/01bcs9,1937-07-04
+b'Hamka',/m/02q8_l_,1908-02-17
+b'Rainer Forst',/m/0g7ycg,1964-08-15
+b'Ra\xc3\xabl',/m/02cwgr,1946-09-30
+b'Hossein Nasr',/m/0191kj,1933-04-07
+b'M. N. Roy',/m/044kw0,1887-03-21
+b'Allan Gibbard',/m/0c3ykv,1942-04-07
+b'Husain Ahmad Madani',/m/0d4qjk,1879-10-06
+b'Nick Land',/m/05zj9rr,1962-01-17
+b'Hisham ibn Urwah',/m/08mq84,0680-01-01
+b'Anthony Collins',/m/019vb0,1676-06-21
+b'Ronald H. Nash',/m/0_yk05s,1936-05-27
+b'George Hourani',/m/05wd3lc,1913-06-03
+b'Javed Ahmad Ghamidi',/m/098f5y,1951-04-18
+b'Paul Watzlawick',/m/03_7q3,1921-07-25
+b'John E. Hare',/m/05y4x3y,1949
+b'Hassan al-Banna',/m/025rvz6,1906-10-14
+b'Maria Montessori',/m/0gp7h9,1870-08-31
+b'Spencer Heath',/m/0b8rbc,1876
+b'Cora Diamond',/m/08w5gg,1937-10-30
+b'Cesare Cremonini',/m/0285zb1,1550-12-22
+b'Stephen Mulhall',/m/02wx56q,1962
+b'Matt Cohen',/m/05knrh,1942-12-30
+b'Gershom Scholem',/m/04lqww,1897-12-05
+b'Alexander of Aphrodisias',/m/0rc_,0200-01-01
+b'Albertus Magnus',/m/0r24,1193-01-01
+b'Homer',/m/03k0n,
+b'Herman Dooyeweerd',/m/01c4z1,1894-10-07
+b'Jun Tsuji',/m/0126cl,1884-10-04
+b'Lewis Call',/m/03mb_f9,
+b'Richard David Precht',/m/05szj4q,1964-12-08
+b'Bonaventure',/m/0nlm4,1217-01-01
+b'Jonathan Edwards',/m/0dpv5,1703-10-05
+b'Simplicius of Cilicia',/m/0ktfp,0490-01-01
+b'Paul Guyer',/m/05xvg_x,1948-01-13
+b'Muhammad Mustafa Jauhar',/m/065yt05,1895-05-10
+b'E. H. Carr',/m/032hxd,1892-06-28
+b'William Kingdon Clifford',/m/01l6p5,1845-05-04
+b'Fernando Savater',/m/04sh3l,1947-06-21
+b'Erin Manning',/m/0g595wd,1969-02-01
+b'Archimedes',/m/0tnc,-286-01-01
+b'David the Invincible',/m/09h2_9,0600-01-01
+b'Barry Smith',/m/085m0s,1952-06-04
+b'Joseph Owens',/m/05w61m3,1908-04-17
+b'Leonardo Polo',/m/09nz9w,1926-02-01
+b'Mortimer J. Adler',/m/04xm3,1902-12-28
+b'\xc4\xb0oanna Ku\xc3\xa7uradi',/m/04zxwjf,1936-10-04
+b'Roberto Torretti',/m/05mxmd_,1930-02-15
+b'Justin Oakley',/m/02z4y2f,1960
+b'Nel Noddings',/m/0h7d52,1929-01-19
+b'Peter Kreeft',/m/05j9pp,1937-01-01
+b'Dimitris Liantinis',/m/04jl6x1,1942-07-23
+b'Hector Zagal',/m/03cdnjv,1966-06-06
+b'Boris Groys',/m/0584959,1947-03-19
+b'Nicole Oresme',/m/02tfcy,1322-01-01
+b'Agust\xc3\xadn Garc\xc3\xada Calvo',/m/033610,1926-10-15
+b'Cl\xc3\xa9ment Rosset',/m/027jnch,1939-10-12
+b'Bryan Magee',/m/05wb1x2,1930-04-12
+b'John Hick',/m/0530xz,1922-01-20
+b'Tibor R. Machan',/m/05zwfc,1939-03-18
+b'Leonard Read',/m/03rmkl,1898-09-26
+b'Liu Junning',/m/0bbzjt6,1961
+b'Julius Thomas Fraser',/m/05vy815,1923-05-07
+b'Errol Harris',/m/02q_ls7,1908-02-19
+b'Stephen Mumford',/m/02q_n2w,1965-07-31
+b'Walter Terence Stace',/m/026jz1p,1886-11-17
+b'Michael Tye',/m/02vpy2g,2000-01-01
+b'Fran\xc3\xa7ois Noudelmann',/m/0g544j3,
+b'Kiarina Kordela',/m/0c3tdp1,1963-07-13
+b'Douglas Groothuis',/m/0gktc7,1957-01-03
+b'David Blitz',/m/09cby_,
+b'Carl von Clausewitz',/m/01tlc,1780-06-01
+b'Neven Sesardi\xc4\x87',/m/0g_yqp,1949
+b'Patricia Churchland',/m/026zkz,1943-07-16
+b'Charles Stevenson',/m/02zbnb,1908-06-27
+b'Theodore Drange',/m/02qhmv1,1934-01-01
+b'Annette Baier',/m/06f7tm,1929-10-11
+b'Emanuel Swedenborg',/m/01gnng,1688-01-29
+b'Eino Kaila',/m/04q6dy,1890-08-09
+b'Ernest Renan',/m/01b728,1823-02-27
+b'Villy S\xc3\xb8rensen',/m/0kt77f,1929-01-13
+b'Sarah Kofman',/m/05ycp70,1934-09-14
+b'Simon Glendinning',/m/0bx_jtr,1964-12-13
+b'Raymond Geuss',/m/037y6m,1946
+b'Raya Dunayevskaya',/m/03t30h,1910-05-01
+b'Susan Buck-Morss',/m/0fqq7rt,
+b'Lorenzo Pe\xc3\xb1a',/m/05zmz4t,1944-08-29
+b'Albert Hofstadter',/m/0by0jgt,1910-03-28
+b'Joseph Margolis',/m/02pwhtk,1924-05-16
+b'Kwame Anthony Appiah',/m/0457hc,1954-05-08
+b'George Henry Lewes',/m/01fbnv,1817-04-18
+b'Friedrich Wilhelm Foerster',/m/0jt3gbw,1869-06-02
+b'Thomas Pogge',/m/04f48r,1953-08-13
+b'Rudolf Eisler',/m/0km47s6,1873-01-07
+b'John Theophilus Desaguliers',/m/0561kv,1683-03-12
+b'Jiddu Krishnamurti',/m/018fkc,1895-05-12
+b'Martial Gueroult',/m/02z7_94,1891-12-15
+b'John Armstrong',/m/05xwg99,1966
+b'Craig Bartholomew',/m/09gh31z,1961-08-03
+b'Richard Aaron',/m/0f95jx,1901-11-06
+b'Jos\xc3\xa9 de Espronceda',/m/033nbj,1808-03-25
+b'Alexander Tarasov',/m/04d_r8_,1958-03-08
+b'Benny L\xc3\xa9vy',/m/08hm54,1945-08-28
+b'Ivan Svit\xc3\xa1k',/m/05z_cs5,1925-10-10
+b'Debiprasad Chattopadhyaya',/m/05y4rj5,1918-11-19
+b'Adam Schaff',/m/05x569s,1913-03-10
+b'Ludvig Holberg',/m/01375h,1684-12-03
+b'Pascal Engel',/m/02rs270,1954-01-17
+b'Rose Rand',/m/02rl77l,1903-06-14
+b'Ian Hacking',/m/01vrsw,1936-02-18
+b'Giovanni Piana',/m/0ktdmp,1940-04-05
+b'C. J. F. Williams',/m/0gkywxy,1930-12-31
+b'Sissela Bok',/m/026cvrn,1934-12-02
+b'Jorge \xc3\x81ngel Livraga Rizzi',/m/070f7q,1930-09-03
+b'John Daniel Wild',/m/02x1yvj,1902-04-10
+b'Albert Rivaud',/m/02z89x_,1876-05-14
+b'Jean-Luc Marion',/m/099ldv,1946-07-03
+b'Bernard Le Bovier de Fontenelle',/m/015_bs,1657-02-11
+b'Bracha L. Ettinger',/m/03c_bkb,1948-03-23
+b'Sun Tzu',/m/0dnb6,-542-01-01
+b'Theodor Lipps',/m/08kwss,1851-07-28
+b'John Haldane',/m/05vchph,1954-02-19
+b'Walker Percy',/m/0fsqq,1916-05-28
+b'James Francis Ross',/m/0cmc3jn,1931-10-09
+b'Jan Narveson',/m/013xnw,1936
+b'James M. Edie',/m/02ww0dj,1927-11-03
+b'Zenon Pylyshyn',/m/0kt182,1937-08-25
+b'Peter Carruthers',/m/03qjdbp,1952-06-16
+"b""Abu'l-Fida""",/m/064l_vn,1273-01-01
+"b""Abu al-Hasan al-Ash'ari""",/m/0629m9,0873-01-01
+b'Ahmad ibn Muhammad Al-Tahawi',/m/0h18mm,0843-01-01
+b'Ali al-Qari',/m/0ktdhh,
+b'Abu Yusuf',/m/0d3064,0731-01-01
+b'Han Yu',/m/026cz1,0768-01-01
+b'Henrik Steffens',/m/025dsl,1773-05-02
+b'Max M\xc3\xbcller',/m/02qrf2x,1906-09-06
+b'Jean Hyppolite',/m/03dnnj,1907-01-08
+b'Ferdinand Alqui\xc3\xa9',/m/092fzy,1906-12-18
+b'Gary Chartier',/m/07kd_41,1966-12-30
+b'Arthur Koestler',/m/0j2v,1905-09-05
+b'Ren\xc3\xa9 Girard',/m/04vf6k,1923-12-25
+b'Cornelius Jansen',/m/01bbgf,1585-10-28
+b'Agrippa the Skeptic',/m/06pp44,0100-01-01
+b'Erhard Weigel',/m/0c8w9g,1625-12-16
+b'Gaius Musonius Rufus',/m/015hnk,0025-01-01
+b'Henri-Fr\xc3\xa9d\xc3\xa9ric Amiel',/m/037n6y,1821-09-27
+b'Apollodorus the Epicurean',/m/03cndqv,
+b'Eoin \xc3\x93 Broin',/m/02r7yrq,1972
+b'Hermann Samuel Reimarus',/m/0187yz,1694-12-22
+b'Jan Standonck',/m/0fm71g,1454-01-01
+b'Johann Georg Heinrich Feder',/m/02ww0gl,1740-05-15
+b'D. T. Suzuki',/m/036fy1,1870-10-18
+b'Gary Habermas',/m/0767lx,1950-06-28
+b'Frederick James Eugene Woodbridge',/m/08nx7t,1867-03-26
+b'Anselm of Canterbury',/m/0xlc,1033-01-01
+b'Rosa Luxemburg',/m/017ft0,1871-03-05
+b'James Bugental',/m/027f4w0,1915-12-25
+b'Antipater of Tarsus',/m/02pmd4w,-300-01-01
+b'Evert Willem Beth',/m/06s3mm,1908-07-07
+b'Hans Kamp',/m/0416x7z,1940-09-05
+b'Adam of Dryburgh',/m/0285xj_,1140-01-01
+b'Tommaso Palamidessi',/m/02r6dnb,1915-02-16
+b'Thomas Brown',/m/01h8p3,1778-01-09
+b'Paul Grice',/m/01xf_n,1913-03-13
+b'Cas Wouters',/m/0c40gq_,1943
+b'Marilyn Frye',/m/0b3qlb,1941
+b'Nahmanides',/m/014bzk,1194-01-01
+b'Mario Javier Saban',/m/05mxfcg,1966-02-12
+b'Jaime Balmes',/m/012_zp,1810-08-28
+b'Julius Caesar Scaliger',/m/0161ks,1484-05-02
+b'Syed Faiz-ul Hassan Shah',/m/03cz4qf,1911
+b'Casimir Lewy',/m/0287flv,1919-02-26
+b'Hermann Blumenau',/m/05kj7p,1819-12-26
+b'Gotthard G\xc3\xbcnther',/m/02qnt8,1900-06-15
+b'Konstantin Leontiev',/m/07gg_5,1831-01-25
+b'T. M. Scanlon',/m/0b8m23,1940-06-28
+b'Aleksei Losev',/m/081pm9,1893-09-23
+b'Gustav Teichm\xc3\xbcller',/m/0f533l,1832-11-19
+b'Mary Ainsworth',/m/0bd_k4,1913-12-01
+b'Isaac Levi',/m/027sv04,1930-06-30
+b'Eduardo Nicol',/m/0d_w6m,1907-12-13
+b'Gu Zhun',/m/09rbyw,1915
+b'Daniel Raymond',/m/051vhm,1786
+b'Al-Raghib al-Isfahani',/m/026nxlm,
+b'Constantin Noica',/m/05l737,1909-07-12
+b'Gilles Lipovetsky',/m/02vvxxm,1944-09-24
+b'Malek Bennabi',/m/0dq7ys,1905-01-01
+b'Jawdat Said',/m/026gwhx,1931-02-09
+b'Harold Joachim',/m/07_6j4,1868-05-28
+b'Ludwig Klages',/m/08ctmb,1872-12-10
+b'\xc3\x89tienne Balibar',/m/034w02,1942-04-23
+b'Jakob Thomasius',/m/0286pw3,1622-08-27
+b'G. M. Syed',/m/0f7xfz,1904-01-17
+b'U. G. Krishnamurti',/m/02dc11,1918-07-09
+b'Adi Shankara',/m/019fqd,0788-01-01
+b'Humberto Maturana',/m/02gscz,1928-09-14
+b'William Leiss',/m/0b564w,1939
+b'Charles Parsons',/m/05zlz4,1933-04-13
+b'Antoine Destutt de Tracy',/m/01bzb8,1754-07-20
+b'G\xc3\xbcnther Anders',/m/0gvlhj,1902-07-12
+b'Henri Wallon',/m/026yrww,1879-06-15
+b'Tan Sitong',/m/06m89w,1865-03-10
+b'Richard Montague',/m/02w79t,1930-09-20
+b'Wolfgang Stegm\xc3\xbcller',/m/026j0fd,1923-06-03
+b'Kurt Rudolf Fischer',/m/02pp5w7,1922
+b'Volker Zotz',/m/026tx97,1956-10-28
+b'Mir Tanha Yousafi',/m/03c3_1h,1955-01-01
+b'David Kaplan',/m/054r6m,1933-01-01
+b'Nathan Salmon',/m/06l0tb,1951-01-02
+b'Trevor Pinch',/m/0c6g9m,1952-01-01
+b'Charles P\xc3\xa9guy',/m/01rsf2,1873-01-07
+b'Abraham Kuyper',/m/01sjxm,1837-10-29
+b'Thomas Metzinger',/m/01tyy2,1958-03-12
+b'Richard J. Mouw',/m/05wxjr7,1940-04-22
+b'Prabhat Ranjan Sarkar',/m/03h52n,1921-05-21
+b'Camil Petrescu',/m/03rykf,1894-04-22
+b'Quentin Smith',/m/094gbx,1952-08-27
+b'Demonax',/m/087sc2,0200-01-01
+b'Maurice Pradines',/m/02ryk58,1874
+b'Nae Ionescu',/m/0b1jw5,1890-06-16
+b'Surendranath Dasgupta',/m/0b7s7z,1887-10-01
+b'Nikolay Chernyshevsky',/m/01rd0v,1828-07-12
+b'Hanns Heinz Ewers',/m/03x8tq,1871-11-03
+b'Rogers Albritton',/m/03ck587,1923-08-15
+b'Tahir Allauddin Al-Qadri Al-Gillani',/m/03hhjy9,1932-06-18
+b'Petre \xc8\x9au\xc8\x9bea',/m/03gzvr4,1902-10-06
+b'Vil\xc3\xa9m Flusser',/m/05shc8,1920-05-12
+b'Ian Rumfitt',/m/0bmf7k_,1964
+b'Rosi Braidotti',/m/02698ng,1954-09-28
+b'Richard J. F. Day',/m/0cc5c5,1964
+b'Jonathan Bennett',/m/06n_f7,1930-02-17
+b'Robert J. C. Young',/m/08ppw3,1950-06-14
+b'David Gauthier',/m/0cwph,1932-09-10
+b'David Wood',/m/026j94s,1946
+b'Gregg Lambert',/m/05x2ln1,1961-08-08
+b'Yang Zhu',/m/0362_p,-0369
+b'J\xc3\xb3zef Maria Boche\xc5\x84ski',/m/03_q1_,1902-08-30
+b'Karl L\xc3\xb6with',/m/035jms,1897-01-09
+b'Eliyahu Eliezer Dessler',/m/0323mq,1891-01-01
+b'Herbert Spiegelberg',/m/02phvt0,1904-05-18
+b'Bar Hebraeus',/m/01_j2k,1226-01-01
+b'Francis of Assisi',/m/032p8,1181-01-01
+b'Dimitris Dimitrakos',/m/02vq0t2,1936
+b'Galen',/m/037h0,0129-01-01
+b'Georg Cantor',/m/036ks,1845-03-03
+b'Gautama Buddha',/m/015k7,-565-01-01
+b'Paul R. Patton',/m/03cp0lb,1950
+b'Giuseppe Mazzini',/m/096zc,1805-06-22
+b'Heinrich Hertz',/m/03hht,1857-02-22
+b'Giles Hooper',/m/0bh7jm2,1974
+b'John of the Cross',/m/0c4j4,1542-07-04
+b'Joseph Priestley',/m/0b0bx,1733-04-06
+b'Tony Fry',/m/0gg8bx1,
+b'Stuart Hampshire',/m/036cfm,1914-10-01
+b'Michael Polanyi',/m/04znx,1891-03-11
+b'Nagarjuna',/m/05k88,0150-01-01
+b'James D. McCawley',/m/04ylyk,1938-03-30
+b'Mylan Engel',/m/0264z2k,1960
+b'James Rachels',/m/09g15n,1941-05-30
+b'Ptolemy',/m/05_0t,0100-01-01
+b'Ralph Cudworth',/m/06jd6,1617-01-01
+b'Alastair Hannay',/m/075vxh,1932
+b'Philip Lindholm',/m/0gwl41,
+b'Mostafa Malekian',/m/07r1_t,1956-01-01
+b'William A. Dembski',/m/0btty,1960-07-18
+b'Robert J. Marks II',/m/03cgzd3,1950-08-25
+b'Michael Devitt',/m/0kt4z3,1938
+b'William Crathorn',/m/0462ttb,
+b'Yisroel Salanter',/m/02nktb,1810-11-03
+b'Diogenes of Babylon',/m/07v8fr,
+b'Najmuddin Kubra',/m/073fgx,1145-01-01
+b'Najm al-Din Razi',/m/073fs0,1177
+b'Hugh of Saint-Cher',/m/05ccwq,1200
+b'Yusuf Islahi',/m/051xc05,1932-07-09
+b'Jacob Needleman',/m/02qhwqh,1934-10-06
+b'Jalaluddin Umri',/m/02x02c4,
+b'Mary Midgley',/m/03h9k5,1919-09-13
+b'Sarfraz Ahmed Naeemi',/m/06614h2,1948-02-16
+b'Abdul Haq Ansari',/m/0535tfw,1931-01-09
+b'Sadat Husaini',/m/05f60dn,1973-06-07
+b'Fazlur Rahman Faridi',/m/080h3c7,1932-04-02
+b'Abul Hasan Ali Hasani Nadwi',/m/026f_my,1914-11-24
+b'Jean-Marie Guyau',/m/06zcxr,1854-10-28
+b'Rush Rhees',/m/0d9c10,1905-03-19
+b'Gy\xc3\xb6rgy M\xc3\xa1rkus',/m/092hvd,1934-04-13
+b'Pietro Pomponazzi',/m/079jld,1462-09-25
+b'Frank Cameron Jackson',/m/06gk0h,1943-01-01
+b'Donald T. Campbell',/m/08h3fs,1916-11-20
+b'Jean-Pierre Faye',/m/026xqt1,1925-07-19
+b'Ladislav Kl\xc3\xadma',/m/07tm9j,1878-08-22
+b'Brian Skyrms',/m/05wcpgr,1938-01-01
+b'Frank Sibley',/m/03mdl47,1923
+b'Joseph Gabel',/m/05xg97y,1912
+b'Ath\xc4\xabr al-D\xc4\xabn al-Abhar\xc4\xab',/m/05sd3y,1200-01-01
+b'Arthur F. Holmes',/m/0c5r5_,1924-03-15
+b'Tran Duc Thao',/m/0bv7x1,1917-09-26
+b'John of Jandun',/m/0brmb2,1280-01-01
+b'Takeshi Umehara',/m/02rjq9g,1925-03-20
+b'Ch\xc3\xb6gyam Trungpa',/m/01cy4k,1939-02-28
+b'Solomon Feferman',/m/01zt32,1928-12-13
+b'Kahlil Gibran',/m/018whv,1883-01-06
+b'Grace Lee Boggs',/m/09rv1q,1915-06-27
+b'Friedrich Meinecke',/m/05n8x6,1862-10-20
+b'Judah Halevi',/m/01y8_n,1079-01-01
+b'Hyakuz\xc5\x8d Kurata',/m/02q1dvm,1891-02-23
+b'Simone Porzio',/m/07mjqb,1497
+b'Tadeusz Kotarbi\xc5\x84ski',/m/03_3vt,1886-03-31
+b'J\xc3\xb3zef Tischner',/m/073z_z,1931-03-12
+b'William Pepperell Montague',/m/0265tnx,1873-11-11
+b'Roy Wood Sellars',/m/076mn_,1880-07-09
+b'Dimitrie Gusti',/m/0d8g4d,1880-02-13
+b'Paul Natorp',/m/0774z5,1854-01-24
+b'Paul-Louis Couchoud',/m/05tmc1,1879
+b'Ralph Barton Perry',/m/08nw33,1876-07-03
+b'Stephen Stich',/m/08ml6f,1943-05-09
+b'Muhammad Tahir-ul-Qadri',/m/060vj_,1951-02-19
+"b""Al-Jubba'i""",/m/059twx,0850-01-01
+b'Nuel Belnap',/m/04m6yc,1930-05-01
+b'Saneatsu Mushanok\xc5\x8dji',/m/07351s,1885-05-12
+b'Linji Yixuan',/m/015y0s,
+b'Moses Hess',/m/045f0v,1812-06-21
+b'David Estlund',/m/09ggtcq,
+b'Hans Cornelius',/m/05rk_7,1863-09-27
+b'Dwight Macdonald',/m/095kpq,1906-03-24
+b'Cyprian Norwid',/m/02vdq1,1821-09-24
+b'Isaac Beeckman',/m/03zpty,1588-12-10
+b'Paul Nizan',/m/04tk8t,1905-02-07
+b'Narayan Maharaj',/m/0crz_1,1885-05-20
+b'Syrianus',/m/04zf57,0400-01-01
+b'Menippus',/m/01kwzd,-309-01-01
+b'St\xc3\xa9phane Lupasco',/m/021xwr,1900-08-11
+b'Vyasa',/m/01s5sm,-400-01-01
+b'Ramana Maharshi',/m/01ryqk,1879-12-30
+b'Eleanor Duckworth',/m/05s_h9m,1935
+b'Vincenzo Gioberti',/m/03df7k,1801-04-05
+b'Al-Farabi',/m/017n3l,0872-01-01
+b'Dugald Stewart',/m/017lr5,1753-11-22
+b'Alfred Edward Taylor',/m/05wxpmz,1869-12-22
+b'Abu al-Qasim al-Khoei',/m/036h4t,1899-11-19
+b'Shabir Ally',/m/07s3b3g,
+b'Antonio Rosmini-Serbati',/m/03df9s,1797-03-24
+b'Tom Regan',/m/044tfk,1938-11-28
+b'Frank Meyer',/m/0579_b,1909
+b'Richard Sylvan',/m/05xpwd2,1935-12-13
+b'David Hartman',/m/05wnw4l,1931-09-11
+b'Donniel Hartman',/m/09v7fdz,
+b'Muhammad ash-Shawkani',/m/0czgq7,1759-01-01
+b'Fredric Jameson',/m/01zzm1,1934-04-14
+b'Gerard van der Leeuw',/m/027cyjb,1890-03-18
+b'Stephen R. L. Clark',/m/05vsk4p,1945-10-30
+b'Huineng',/m/01qysw,0638-01-01
+b'Herman Bavinck',/m/05h7dq,1854-12-13
+b'D. H. Th. Vollenhoven',/m/05ct13,1892-11-01
+b'Charles Simi\xc4\x87',/m/041jv2,1938-05-09
+b'Liang Qichao',/m/03_qp4,1873-02-23
+b'Shakuntala Singh',/m/0cj1nk,1952-02-14
+b'Ubaidullah Sindhi',/m/0blnc0,1872-03-10
+b'Ramanuja',/m/043dfd,1017-01-01
+b'Gregory Vlastos',/m/040c92,1907-07-27
+b'William Ernest Hocking',/m/045gyp,1873-08-10
+b'Mi\xc5\xa1ko \xc5\xa0uvakovi\xc4\x87',/m/02r4x55,1954-02-24
+b'Micha\xc5\x82 S\xc4\x99dziw\xc3\xb3j',/m/042ldl,1566-02-02
+b'Paul Thagard',/m/0b1nm5,1950-09-28
+b'Xenophanes',/m/01gkyh,-569-01-01
+b'Plutarch of Athens',/m/03d5f6s,0350-01-01
+b'Jean-Luc Nancy',/m/02k02f,1940-07-26
+b'Alois Riehl',/m/09hzg7,1844-04-27
+b'Ludovico Geymonat',/m/0djd6b,1908-05-11
+b'Peter Munz',/m/02vq0p_,1921-05-12
+b'Matthew Lipman',/m/0d1d_4,1922-08-24
+b'Curt John Ducasse',/m/092_ht,1881-07-07
+b'Pasquale Galluppi',/m/08318t,1770-04-02
+b'Giorgio Del Vecchio',/m/02rz4rp,1878-08-26
+b'Ludwig B\xc3\xbcchner',/m/04w76r,1824-03-29
+b'Nicomachus',/m/02xbh3,0060-01-01
+b'Adolfo S\xc3\xa1nchez V\xc3\xa1zquez',/m/09f4qv,1915-09-17
+b'Kurt Baier',/m/06mnh5,1917-01-26
+b'Vasile Conta',/m/0fzwzb,1845-11-15
+b'Athanasius of Alexandria',/m/014kt,0295-01-01
+b'Alhazen',/m/0rvb,0965-01-01
+b'Alfred Korzybski',/m/0jrz,1879-07-03
+b'Clement of Alexandria',/m/022n9,0150-01-01
+b'Miura Baien',/m/0660b2t,1723-09-01
+b'Diodorus Cronus',/m/07c_gz,-400-01-01
+b'Durandus of Saint-Pour\xc3\xa7ain',/m/0bsh7w,1270-01-01
+b'John Philoponus',/m/07x02d,0490-01-01
+b'Pietro Verri',/m/07n4_c,1728-12-12
+b'Ira Shor',/m/0c99l_,1945-06-02
+b'Philo the Dialectician',/m/03cvc_w,-400-01-01
+b'Petrus Aureolus',/m/080y5n,1280-01-01
+b'Petrus Ramus',/m/01t84d,1515-01-01
+b'Irving Kristol',/m/01hcmw,1920-01-22
+b'Ibn Arabi',/m/01cg5t,1165-08-04
+b'Hugues Felicit\xc3\xa9 Robert de Lamennais',/m/01f605,1782-06-19
+b'Karl Daub',/m/01hh3w,1765-03-20
+b'Samuel Clarke',/m/05vd5g5,1675-10-11
+b'Pelagius',/m/01brlr,0360-01-01
+b'14th Dalai Lama',/m/01hw4n,1935-07-06
+b'Paul J. Griffiths',/m/083624,1955-01-01
+b'Sara Ruddick',/m/0bs3g54,1935-02-17
+b'Fred Dretske',/m/086k8v,1932-12-09
+b'Robert Merrihew Adams',/m/06gl1r,1937-09-08
+b'Luigi Pareyson',/m/02qt5m_,1918-02-04
+b'Jacob Moleschott',/m/0bcbrf,1822-08-09
+"b'Edgar A. Singer, Jr.'",/m/0flvbt,1873-11-13
+b'Constantin Stere',/m/0fzbdq,1865-06-01
+b'\xe2\x80\x98Abd ar-Razzaq as-San\xe2\x80\x98ani',/m/0krtty,0126
+b'James P. Carse',/m/0gqh35,
+b'Henri Gouhier',/m/0fmcfr,1898-12-05
+b'Aron Katsenelinboigen',/m/0gptxs,1927-09-02
+b'Bernard-Henri L\xc3\xa9vy',/m/01z58b,1948-11-05
+b'Girolamo Savonarola',/m/0d8wb,1452-09-30
+b'Bob Hale',/m/03cnlj3,1945
+b'Hu Shih',/m/0lz2n,1891-12-17
+"b""Jean le Rond d'Alembert""",/m/0dhpq,1717-11-16
+b'Marin Mersenne',/m/0jmr3,1588-09-08
+b'Friedrich von H\xc3\xbcgel',/m/086ypn,1852-05-05
+b'Hui Shi',/m/045h3c,-400-01-01
+b'Hugh of Saint Victor',/m/0548qx,1096-01-01
+b'Vandana Shiva',/m/0krsd,1952-11-05
+b'D\xc5\x8dgen',/m/0k033,1200-01-26
+b'Kabir',/m/0k6vm,1440-01-01
+b'Zhang Zai',/m/06r652,1020-01-01
+b'Cornelio Fabro',/m/09k3zd,1911-08-24
+b'Joseph D. Sneed',/m/03k4yp,1938-09-23
+b'Henry of Ghent',/m/03fp4v,1217-01-01
+b'Abu Mansur Al-Maturidi',/m/02sg71,0852-01-01
+b'Gilles-Gaston Granger',/m/02x2mp9,1920-01-28
+b'Hendrik G. Stoker',/m/02qslp6,1899
+b'Richard Wollheim',/m/020s8r,1923-05-05
+b'Jonathan Lear',/m/09t4hx,1948-10-09
+b'Edward Carpenter',/m/023g_4,1844-08-29
+b'Elbert Hubbard',/m/02glnq,1856-06-19
+b'C. E. M. Joad',/m/03rwk0,1891-08-12
+b'Susan Neiman',/m/02ptt4_,1955-03-27
+b'Jean-Michel Berthelot',/m/06_x9y3,1945
+b'Amina Mama',/m/05xnyjq,1958-09-19
+b'Rupert Read',/m/03d0htf,1966
+b'John Koethe',/m/04gpvm5,1945-12-25
+b'Patanjali',/m/05ygd,
+b'Adriana Cavarero',/m/04lh_p4,1947-01-01
+b'Francisco de Vitoria',/m/03_vl0,1460-01-01
+b'Susan Hurley',/m/03g_595,1954-09-16
+b'Harriet Taylor Mill',/m/03v0gx,1807-01-01
+b'Zoilus',/m/01kh84,-399-01-01
+b'Syed Shujaat Ali Qadri',/m/0bbxb88,1941-01
+b'Robert Alexy',/m/04v7h_,1945-09-09
+b'Abd al-Rahman al-Kawakibi',/m/02r88dx,1855-07-08
+b'Patricia Hill Collins',/m/06c_kn,1948-05-01
+b'Henry More',/m/01x9q2,1614-10-12
+b'Delfim Santos',/m/06znfjs,1907-11-06
+b'Tawus ibn Kaysan',/m/0d2wzt,
+b'Mark Poster',/m/05y39dp,1941-07-05
+b'Roger Bacon',/m/06g98,1220-01-01
+b'Muhammad Farooq Khan',/m/0dlk_3s,1956
+b'Friedrich Karl Forberg',/m/0269q50,1770-08-30
+b'Vinoba Bhave',/m/0vhmy,1895-09-11
+b'Ferdinand Fellmann',/m/0bwmk76,1939-01-01
+b'Hameeduddin Aqil',/m/0fqs15v,1928-07-23
+b'Irving Copi',/m/0byms3,1917-07-28
+b'Numenius of Apamea',/m/07gh19,0200-01-01
+b'Kuruvilla Pandikattu',/m/0c00mkt,1957-11-28
+b'Ammonius Saccas',/m/0sks,0175-01-01
+b'Fazlul Haque Amini',/m/064mjzs,1943
+b'Werner Krieglstein',/m/04y8kpg,1941-10-31
+b'K. D. Sethna',/m/06cj_f,1904-11-26
+b'Harold Rosenberg',/m/07yz_t,1906-02-02
+b'Rasheed Turabi',/m/0g215h,1908-07-09
+b'Alain Finkielkraut',/m/01gkql,1949-06-30
+b'Jane Jacobs',/m/0jdcc,1916-05-04
+b'Paul Lorenzen',/m/07400c,1915-03-24
+b'Sandra Harding',/m/055xzl,1935-03-29
+b'Wahb ibn Munabbih',/m/0b5lqx,0655-01-01
+b'Ivan Ilyin',/m/082trs,1883-04-21
+b'Tang Junyi',/m/02qt6yg,1909-01-17
+b'Gustavo Bueno',/m/05p5zm_,1924-01-01
+b'Ram\xc3\xb3n Xirau',/m/03chh1g,1924-01-20
+b'Shai Bernstein',/m/02z77lt,1895
+b'Richard Carrier',/m/0c1qrn,1969-12-01
+b'Ioannis Kottounios',/m/0fmddn,1577-01-01
+b'Hasdai Crescas',/m/03c3yw,1340-01-01
+b'Balthasar Bekker',/m/084100,1634-03-20
+b'Arnold Geulincx',/m/044g6g,1624-01-31
+b'Philip Pettit',/m/0bd0vr,1945-01-01
+b'Frances Kamm',/m/03c4_08,
+b'Iain King',/m/02qmld2,1971
+b'Theodor Lessing',/m/0fw9_f,1872-02-08
+b'Shantideva',/m/0jn_d,0685-01-01
+b'Je Tsongkhapa',/m/04sr_4,1357-01-01
+b'Asa\xe1\xb9\x85ga',/m/0gdkf,0300-01-01
+b'Marpa Lotsawa',/m/03zslj,1012-01-01
+b'Naropa',/m/05jnvc,1016-01-01
+b'Ati\xc5\x9ba',/m/01c3g3,0982-01-01
+b'Vasubandhu',/m/01sd15,0400-01-01
+b'Milarepa',/m/03yvtr,1051-01-01
+b'Harald H\xc3\xb8ffding',/m/017lf2,1843-03-11
+b'Ferdinand T\xc3\xb6nnies',/m/01tph8,1855-07-26
+b'Lawrence Sklar',/m/09gdh78,1938-06-25
+b'Mahmoud Khatami',/m/0g3b5d,1963-01-04
+b'Philippe Lacoue-Labarthe',/m/04brth,1940-03-06
+b'Ernst Tugendhat',/m/05wk1bs,1930-03-08
+b'Antonio Millan Puelles',/m/02rfb1g,1921-02-11
+b'Marc Richir',/m/0kf6g59,1943
+"b'W.W. Bartley, III'",/m/06g7p7,1934-10-02
+b'John Wisdom',/m/06r0j5,1904-09-12
+b'Wilmon Henry Sheldon',/m/0bxyw2s,1875
+b'Norwood Russell Hanson',/m/04zvgk,1924-01-01
+b'Michael Ignatieff',/m/0g3l5v,1947-05-12
+b'Maxine Greene',/m/04lht88,1917-12-23
+b'Abai Qunanbaiuli',/m/017n4d,1845-08-22
+b'Russell Grigg',/m/05vzlhj,1951-02-25
+b'Jean-Paul Valabrega',/m/0kckrvf,1922-06-21
+b'Jean-Bertrand Pontalis',/m/0c3k3pq,1924-01-15
+b'Georgi Plekhanov',/m/01rcmv,1856-12-23
+b'Jeremy Weate',/m/0372mw,1969
+b'Enrique D Dussel',/m/05v_7l2,1934-12-24
+b'Jacob Klein',/m/0dbzzq,1899-03-03
+b'Paul Boghossian',/m/0bxkrm,2000-01-01
+b'Richard Dedekind',/m/0ccwd,1831-10-06
+b'Harry Austryn Wolfson',/m/02kx5b,1887-11-02
+b'Michael Novak',/m/01d1v6,1933-09-09
+b'Bruno Leoni',/m/0chz38,1913-04-26
+b'Carlo Lottieri',/m/0h2gkw,1960-11-06
+b'Jacobus Arminius',/m/022gc4,1560-10-30
+b'Heron Santana',/m/028b3dy,1962-03-23
+b'Paul Gottfried',/m/01h_pp,1941-11-21
+b'Iris Marion Young',/m/0bq8x5,1949-01-02
+b'Yuval Steinitz',/m/0krw20,1958-04-10
+b'Yeshayahu Leibowitz',/m/0424qz,1903-01-29
+b'Kenneth Burke',/m/036cc8,1897-05-05
+b'Ludwik Fleck',/m/07ky44,1896-07-11
+b'James McCosh',/m/01d897,1811-04-01
+b'Fernando Flores',/m/0sxm2,1943-01-09
+b'Fred Newman',/m/03dc20,1935-06-17
+b'Costas Douzinas',/m/05whl98,1951
+b'Arthur Balfour',/m/012l1m,1848-07-25
+b'Ron McClamrock',/m/0b7cqg,
+b'Michel de Certeau',/m/03fh72,1925-05-17
+b'Heinrich Gomperz',/m/0chvpn,1873-01-18
+b'Johann Heinrich Pestalozzi',/m/02vtc2,1746-01-12
+b'Harry Prosch',/m/02bqds,1917-05-04
+b'Yunmen Wenyan',/m/03d03s,0864-01-01
+b'Johann Jakob Bachofen',/m/02qww7,1815-12-22
+b'Paul Edwards',/m/06r6ql,1923-09-02
+b'Joseph B. Soloveitchik',/m/015y7r,1903-02-27
+b'Joshua Cohen',/m/09hhhh,1980-09-06
+b'John Hospers',/m/02m6pd,1918-06-09
+b'Aryadeva',/m/0c9lby,
+b'Candrak\xc4\xabrti',/m/02rtb3,0600-01-01
+b'Buddhap\xc4\x81lita',/m/0c9l74,0470-01-01
+b'Padmasambhava',/m/01c1c7,
+b'Thubten Zopa Rinpoche',/m/07j1bg,1945
+b'Dolpopa Sherab Gyaltsen',/m/08x20y,1292-01-01
+b'Taranatha',/m/09llbn,1575-01-01
+b'Judah Loew ben Bezalel',/m/017vdv,1512-01-01
+b'Anaxarchus',/m/0sqj,
+b'Arnold Gehlen',/m/02x758,1904-01-29
+b'Tommaso Campanella',/m/015s1y,1568-09-15
+b'Ibn Abi al-Izz',/m/0dchx2,1331
+b'Ghulam Rasool Jamaati',/m/026k5vl,1923
+b'Myles Burnyeat',/m/02pn78q,1939-01-01
+b'Hamid Raza Khan',/m/07k4ht5,1875
+b'Orestes Brownson',/m/03njl6,1803-01-01
+b'Ramiro de Maeztu',/m/02vxqz7,1874-05-04
+b'Francis J. Beckwith',/m/07qcnm,1960
+"b""Sa'id ibn Jubayr""",/m/046r61,0665-01-01
+"b""Atiyya ibn Sa'd""",/m/047jdy,
+b'Mirza Fatali Akhundov',/m/0cyk_t,1812-07-12
+b'Ebrahim Desai',/m/02649jd,
+b'Simion B\xc4\x83rnu\xc8\x9biu',/m/08c2mn,1808-07-21
+b'Shah Abdul Aziz',/m/0ksrfn,1745
+b'George Ohsawa',/m/05y88f,1893-10-18
+b'Tyler Gillies',/m/05ldpbm,1984-02-16
+b'Wasif Ali Wasif',/m/0bnmrz,1929-01-15
+b'Maria Gaetana Agnesi',/m/04_mq,1718-05-16
+b'Heinrich Loewe',/m/05v7_sd,1869-07-11
+b'Will Durant',/m/01p8sj,1885-11-05
+b'Witelo',/m/03zddf,1230-01-01
+b'Feng Youlan',/m/032scb,1895-12-04
+b'Cesare Beccaria',/m/01bwlp,1738-03-15
+b'Cornelis Drebbel',/m/035ttn,1572-01-01
+b'Dirck Coornhert',/m/07srbp,1522-01-01
+b'Isidore of Seville',/m/03zwm,0560-01-01
+b'Bertrand de Jouvenel',/m/072y20,1903-10-31
+b'David Cassel',/m/0dsw47,1818-03-07
+b'Duncan Kennedy',/m/01rmh0,1942
+b'Alain LeRoy Locke',/m/02666qv,1885-09-13
+b'Adelard of Bath',/m/0lqbm,1080-01-01
+b'Herman of Carinthia',/m/0p9mp,1100-01-01
+b'Sun Yat-sen',/m/0m56y,1866-11-12
+b'Albert M. Wolters',/m/08dc3q,1942-03-30
+b'James R Payton Jr.',/m/09g99y8,
+b'G\xc3\xa9rard Granel',/m/02rmj9m,1930
+b'Mich\xc3\xa8le Le D\xc5\x93uff',/m/06f9lp,1948
+b'Manuel Chrysoloras',/m/015sq0,1350-01-01
+b'Algernon Sidney',/m/01ljdc,1623-01-25
+b'Hans Driesch',/m/037qvn,1867-10-28
+b'Jos\xc3\xa9 Vasconcelos',/m/04hv08,1882-02-28
+b'Paul R\xc3\xa9e',/m/0952l9,1849-11-21
+b'Dmitry Merezhkovsky',/m/07jknw,1865-08-26
+b'Silvio Ceccato',/m/02690y0,1914-01-25

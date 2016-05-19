@@ -254,6 +254,7 @@
                     link.filter(function(d) {return d.source.weight < weight || d.target.weight < weight}).style("visibility", "hidden");
                     node.filter(function(d) {return d.weight >= weight}).style("visibility", "visible");
                     link.filter(function(d) {return d.source.weight >= weight && d.target.weight >= weight}).style("visibility", "visible");
+                    // could recalculate positions based on visible date range or add some kind of animation...
                   }
 
                 $("#min_degree").on('change', function(){minDegree($(this).val())})
