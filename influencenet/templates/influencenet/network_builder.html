@@ -1,25 +1,23 @@
 {% extends 'base.html' %}
 
 {% block body_block %}
-    <div class="container" style="padding-top: 60px;">
-        <div class="row" style="background-color: #e3e3e3;">
-            <div id="d3cont" class="col-md-8" style="background: white;">
-            </div>
-            <div class="col-md-4 options" style="padding-top: 20px;">
-            <div class="row" style="height: 400px;">
-                <div class="col-md-8">
-                    <input id="phil" type="text"></input>
-                </div>
-                <div class="col-md-4">
-                    <button id="add_phil">Add</button>
-                </div>
-            </div>
-            <div class="row">
-                <label for="min_degree">Minimum degree</label>
-                <input id="min_degree" type="range" name="degree" min="0" max="10" value="0">
-            </div>
-            </div>
-        </div>
+    <div class="container" style="padding-top: 30px;">
+      <div id="d3cont" style="background: white; width: 100%">
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+          <label for="min_degree">Minimum degree</label>
+          <input id="min_degree" type="range" name="degree" min="0" max="50" value="50">
+      </div>
+      <div class="row" style="height: 400px;">
+          <div class="col-md-9">
+              <input id="phil" type="text"></input>
+          </div>
+          <div class="col-md-3">
+              <button id="add_phil">Add</button>
+          </div>
+      </div>
     </div>
 
         <style>
@@ -45,17 +43,9 @@
         </style>
         <script type="text/javascript">
         // synchronously initialize nodes
-            var nodes = []
-
-            $.ajax({
-              url: '/static/phil_graph.json',
-              dataType: 'json',
-              success: function(data){
-                nodes = data.graph.nodes;
-              },
-              async: false
-            });
-
+            // var g = Object.create(force);
+            // g.prototype.addNodes or whatever
+// 
 
             $.getJSON("/static/phil_graph.json", function(data){
               var phils = data.graph.nodes.map(function(obj){
@@ -65,21 +55,16 @@
                 source: phils
               });
             });
-
-            // $.get("/philosophers/list/", function(data){
-            //     var phils = data.map(function(obj){
-            //         return obj.name;
-            //     });
-            //     $("#phil").autocomplete({
-            //     source: phils
-            // });
-            // });
             
-            var width = $("#d3cont").width(), height = 540;
+            var width = $("#d3cont").width(), height = 500;
 
             var force = d3.layout.force()
-                        .charge(-1000)
-                        .linkDistance(50)
+                        // lower charges allow people with similar sets of influences to congregate
+                        .charge(-60)
+                        // I should rewrite linkDistance to only take into account y separation or something
+                        .linkDistance(150)
+                        .gravity(0.15)
+                        .friction(0.5)
                         .size([width, height])
             
             var drag = force.drag()
@@ -121,39 +106,56 @@
 
             var nodes = []
             var edges = []
+            var links = []
 
             // synchronous ajax call to update nodes and edges vars
             // if call is made asynchronously, the code below which references nodes will execute before nodes is updated
+
+            // nodes = [{'name': 'Aristotle', 'freebase_id': '/m/0gz_', 'yob': -384}, {'name': 'Heidegger', 'freebase_id': "/m/099bk", 'yob': 1889},
+            //          {'name': 'Plato', 'freebase_id': 'b64', 'yob': -428}, {'name': 'Baruch Spinoza', 'freebase_id': "/m/015n8", 'yob': 1632},
+            //          {'name': 'Friedrich Nietzsche', 'freebase_id': "/m/02wh0", 'yob': 1844},
+            //          {'name': 'Georg Wilhelm Friedrich Hegel', 'freebase_id': "/m/039n1", 'yob': 1770}]
+
             $.ajax({
-                url: "/philosophers/get_edges/?pid=026lj",
-                success: function(data){ 
-                nodes = data.nodes;
-                links = data.edges;},
-                async: false
-                })
-            nodes = [{'name': 'Aristotle', 'id': '/m/0gz_', 'dob': -384}, {'name': 'Heidegger', 'id': "/m/099bk", 'dob': 1889},
-                     {'name': 'Plato', 'id': 'b64', 'dob': -428}, {'name': 'Baruch Spinoza', 'id': "/m/015n8", 'dob': 1632},
-                     {'name': 'Friedrich Nietzsche', 'id': "/m/02wh0", 'dob': 1844},
-                     {'name': 'Georg Wilhelm Friedrich Hegel', 'id': "/m/039n1", 'dob': 1770}]
+              url: '/static/phil_graph.json',
+              dataType: 'json',
+              success: function(data){
+                nodes = data.graph.nodes;
+                edges = data.graph.edges;
+              },
+              async: false
+            });
 
             // use dobs to calculate x coordinates spread over range determined by range in data.
-            var dobs = nodes.map(function(obj){return obj.dob});
-            var max = Math.max.apply(null, dobs);
-            var min = Math.min.apply(null, dobs);
+            var yobs = nodes.map(function(obj){return obj.yob});
+            var max = Math.max.apply(null, yobs);
+            var min = Math.min.apply(null, yobs);
             var range = max - min
+            // number of years per pixel
             var px_years = range/(width - 200)
 
             for (i in nodes){
               // sx defines starting pos so that reset is possible
               // cx defines current pos
-              nodes[i].sx = 100 + ((nodes[i].dob - min) / px_years)
+              nodes[i].sx = 100 + (Math.pow(((nodes[i].yob - min) / range), 7) * (width-200))
+              // nodes[i].sx = 100 + (nodes[i].yob - min / px_years)
               nodes[i].cx = nodes[i].sx
             }
 
-            links = [{'source': 0, 'target': 1}, {'source': 2, 'target': 0}, {'source': 0, 'target': 3}, {'source': 2, 'target': 3},
-                     {'source': 3, 'target': 4}, {'source': 3, 'target': 5}, {'source': 5, 'target': 4},
-                     {'source': 5, 'target': 1}, {'source': 4, 'target': 1}, {'source': 2, 'target': 4},
-                     {'source': 0, 'target': 5}, {'source': 2, 'target': 5}]
+            fb_ids = nodes.map(function(obj){
+              return obj.freebase_id;
+            });
+
+            for (i in edges){
+              links.push({'source': fb_ids.indexOf(edges[i].source),
+                          'target': fb_ids.indexOf(edges[i].target)
+                        });
+            }
+
+            // links = [{'source': 0, 'target': 1}, {'source': 2, 'target': 0}, {'source': 0, 'target': 3}, {'source': 2, 'target': 3},
+            //          {'source': 3, 'target': 4}, {'source': 3, 'target': 5}, {'source': 5, 'target': 4},
+            //          {'source': 5, 'target': 1}, {'source': 4, 'target': 1}, {'source': 2, 'target': 4},
+            //          {'source': 0, 'target': 5}, {'source': 2, 'target': 5}]
             // http://stackoverflow.com/questions/9539294/adding-new-nodes-to-force-directed-layout
             var hiddenNodes = []
             var hiddenLinks = []
@@ -164,7 +166,7 @@
             // or I could just set the visibility of the links and nodes rather than removing them completely...
             var allNodes = nodes.slice(0)
             var allLinks = links.slice(0)
-            getLinks = function(obj){
+            getNodeLinks = function(obj){
                 var linkList = []
                 for (i in allLinks){
                   var edge = allLinks[i]
@@ -281,45 +283,55 @@
                     // could recalculate positions based on visible date range or add some kind of animation...
                   }
 
-                $("#min_degree").on('change', function(){minDegree($(this).val())})
+                minDegree($("#min_degree").val());
+
+                $("#min_degree").on('change', function(){minDegree($(this).val())});
 
                 function start() {
                    // this has to be called before the weights can be assigned.
                    // force.start()
                    // this is initially a list of the 6 svg elements
+                   node = node.data(nodes, function(d) {return d.freebase_id})
                    link = link.data(links)
-                   link.enter().append("line")
-                   .attr("class", "link")
-                   .style("stroke-width", function(d) { return Math.sqrt(d.value); });
-
-                   link.exit().remove()
+                   
                    // the second argument here is a key function, which is very important
                    // https://bost.ocks.org/mike/constancy/
-                   node = node.data(nodes, function(d) {return d.id})
+                   
                    
                    // node.enter() is all the new nodes
                    // node.exit() is all the nodes that were in the grpah before but are no longer
 
                    // for some reason calling start twice is doubling the text and circle attributes of my nodes
-                    
+                   var l = link.enter().append("line")
+                   .attr("class", "link")
+
                    var g = node.enter().append("g")
                             .attr("class", "node")
                             .call(drag).on('dblclick', releasenode)
                    
                    force.start()
+
+                   
+                   l.style("stroke-width", function(d) { return Math.pow((d.source.weight + d.target.weight)/350, 3.5); });
+
+                   link.exit().remove()
+
+                   // I should phaps implement some kind of link highlighting
+                   // Definitely should be able to hide nodes somehow.
                     
                    g.append("circle")
                             .attr("class", "node")
-                            .attr("r", function(d) {return d.weight * 3})
+                            // .attr("r", 3)
+                            .attr("r", function(d) {return Math.max(d.weight / 25, 3)})
                             .style("fill", function(d) {return color(d.group); })
                     
                     g.append("text")
-                            .attr("dx", 12)
+                            .attr("dx", 6)
                             .attr("dy", ".35em")
                             // these are distances from the circle (x and y)
                             .text(function(d) { l = d.name.split(" ")
-                                        return l[l.length - 1] + d.weight.toString() })
-                            .style("font-size", function(d) {return d.weight * 2})
+                                        return l[l.length - 1]})
+                            .style("font-size", function(d) {return Math.min(d.weight * 12 / 100, 16)})
 
                      node.exit().remove();
 
@@ -338,7 +350,7 @@
       .attr("x2", function(d) { return d.target.cx; })
       .attr("y2", function(d) { return d.target.y; });
       // the below is due to the fact that svg g elements are being used.
-      node.attr("transform", function(d) { return "translate(" + d.cx + "," + d.y + ")"; });
+      node.attr("transform", function(d) { return "translate(" + d.cx + "," + Math.max(2, Math.min(d.y, height - 2)) + ")"; });
     }
            
         // removing nodes from a force layout: http://bl.ocks.org/mbostock/1095795
