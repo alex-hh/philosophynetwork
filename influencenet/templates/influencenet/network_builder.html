@@ -44,14 +44,36 @@
         }
         </style>
         <script type="text/javascript">
-            $.get("/philosophers/list/", function(data){
-                var phils = data.map(function(obj){
-                    return obj.name;
-                })
-                $("#phil").autocomplete({
+        // synchronously initialize nodes
+            var nodes = []
+
+            $.ajax({
+              url: '/static/phil_graph.json',
+              dataType: 'json',
+              success: function(data){
+                nodes = data.graph.nodes;
+              },
+              async: false
+            });
+
+
+            $.getJSON("/static/phil_graph.json", function(data){
+              var phils = data.graph.nodes.map(function(obj){
+                return obj.name;
+              });
+              $("#phil").autocomplete({
                 source: phils
+              });
             });
-            });
+
+            // $.get("/philosophers/list/", function(data){
+            //     var phils = data.map(function(obj){
+            //         return obj.name;
+            //     });
+            //     $("#phil").autocomplete({
+            //     source: phils
+            // });
+            // });
             
             var width = $("#d3cont").width(), height = 540;
 
@@ -100,6 +122,8 @@
             var nodes = []
             var edges = []
 
+            // synchronous ajax call to update nodes and edges vars
+            // if call is made asynchronously, the code below which references nodes will execute before nodes is updated
             $.ajax({
                 url: "/philosophers/get_edges/?pid=026lj",
                 success: function(data){ 

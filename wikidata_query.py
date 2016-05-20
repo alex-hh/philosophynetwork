@@ -17,12 +17,48 @@ r = requests.get(endpoint, params=payload)
 dob = r.json()['results']['bindings'][0]['dob']['value']
 
 
+
+with open('phils_birth_years.csv', 'r', encoding='utf8') as csvfile:
+    reader = csv.DictReader(csvfile)
+    p = ''
+    for row in reader:
+        p = str(row['name'][2:-2], 'utf8')
+
+
+
 # q_all """PREFIX wd: 
 # SELECT ?signature WHERE { 
 #   ?signature [some gene-symbol property] ?symbol .
 #   FILTER (?symbol IN ("Ache", "Bcan", "Gjbl"))
 # }
 # GROUP BY ?signature
+# write utf8
+
+# google write json data to file in python (resolved)
+# google json graph specification
+import json
+
+with open(filename, 'w') as outfile:
+    import csv
+    data = {'graph': {'nodes': [], 'edges': []}}
+    phils = InfluenceNode.objects.filter(is_philosopher=True)
+    fieldnames = ['name', 'freebase_id', 'yob']
+    with open('phils_birth_years.csv', 'r') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for i, row in enumerate(reader):
+            data['graph']['nodes'].append({'name': phils[i].name,
+                                  'freebase_id': row['freebase_id'],
+                                  'yob': row['yob']})
+    es = InfluenceEdge.objects.filter(influencer__is_philosopher=True,
+                                      follower__is_philosopher=True)
+    data['graph']['edges'] = [{'source': e.influencer.freebase_id,
+                 'target': e.follower.freebase_id} for e in es]
+    json.dump(data, outfile, ensure_ascii=False)
+     
+
+with io.open(filename, 'w', encoding='utf8') as f:
+   for p in InfluenceNode.objects.filter(is_philosopher=True)[25:26]:
+       f.write(p.name)
 
 with open('philsutf8.csv', 'r+', encoding='utf-8') as csvfile:
     fieldnames = ['name', 'freebase_id', 'dob']
